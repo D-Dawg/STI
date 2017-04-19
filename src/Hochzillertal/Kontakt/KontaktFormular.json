@@ -1,0 +1,11 @@
+{
+  "@context": "http://schema.org",
+  "@type": "ContactPage",
+  "url": "http://www.hochzillertal.com/anreise-und-kontakt/kontaktformular/",
+  "significantLink":"http://www.hochzillertal.com/anreise-und-kontakt/",
+  "publisher": {
+    "@type":"SkiResort",
+    "name":"Ski-optimal.at Hochzillertal/Kaltenbach",
+    "url":"http://www.hochzillertal.com/anreise-und-kontakt/"
+  }
+}

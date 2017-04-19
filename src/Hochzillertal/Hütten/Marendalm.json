@@ -1,0 +1,16 @@
+{
+  "@context": "http://schema.org",
+  "@type": "WebPage",
+  "about":{
+    "@type":"Restaurant",
+    "name": "Marendalm",
+    "description": "Das Bergrestaurant “Marendalm” befindet sich bei den “Mizunliften” im Skigebiet Hochzillertal.",
+    "location": "bei den Mizunliften im Skigebiet Hochzillertal",
+    "image": "http://www.hochzillertal.com/wp-content/uploads/HZ_000106.jpg",
+  },
+  "publisher": {
+    "@type":"SkiResort",
+    "name":"Ski-optimal.at Hochzillertal/Kaltenbach",
+    "url":"http://www.hochzillertal.com/anreise-und-kontakt/"
+  }
+}
