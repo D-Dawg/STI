@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "WebPage",
+  "name":"Wedelhütte: Der neue Hochgenuss",
+  "image": "http://www.hochzillertal.com/wp-content/uploads/wedelhuette.jpg",
+  "url": "http://www.hochzillertal.com/ski/wedelhuette-der-neue-hochgenuss/",
+  "about":{
+    "@type":"Event",
+    "name": "Gourmet-Lounge und neu SKY-TERRAZZA",
+    "description": "Steak`s on Top vom Holzkohlegrill Genießermenü auf Vorbestellung in der Gourmet-Lounge oder auf der neuen Sky-Terrazza",
+    "offers":{
+      "@type":"Offer",
+      "itemOffered":{
+        "@type":"Service",
+        "name":"In Vino Veritas",
+        "description":"Weinverkostungen im höchst gelegenen Weinkeller der Alpen auf Anfrage, Mindestteilnehmerzahl 6 Personen Wein & Käse",
+        "priceSpecification":{
+          "@type":"PriceSpecification",
+          "price":"42.00",
+          "priceCurrency":"EUR",
+          "description":"pro Person"
+        }
+      }
+    }
+  },
+  "publisher": {
+    "@type":"SkiResort",
+    "name":"Ski-optimal.at Hochzillertal/Kaltenbach",
+    "url":"http://www.hochzillertal.com/anreise-und-kontakt/"
+  }
+}
+

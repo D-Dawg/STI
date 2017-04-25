@@ -1,6 +1,8 @@
 {
   "@context": "http://schema.org",
   "@type": "WebPage",
+  "name":"Kristllhütte",
+  "url":"http://www.hochzillertal.com/huetten/kristallhuette/",
   "about":{
     "@type":"Restaurant",
     "name": "Kristallhütte",

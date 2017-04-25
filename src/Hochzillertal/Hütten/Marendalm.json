@@ -1,6 +1,8 @@
 {
   "@context": "http://schema.org",
   "@type": "WebPage",
+  "name":"Marendalm",
+  "url":"http://www.hochzillertal.com/huetten/marendalm/",
   "about":{
     "@type":"Restaurant",
     "name": "Marendalm",

@@ -2,9 +2,11 @@
   "@context": "http://schema.org",
   "@type": "WebPage",
   "name":"Gewinnspiel",
-  "description":"Nach Abschluss der Befragung gelangen Sie zum Teilnahmeformular für das Gewinnspiel. Aus rechtlichen Gründen ist das Mindestalter 14 Jahre! Der Rechtsweg ist ausgeschlossen.",
+  "url":"http://www.hochzillertal.com/news/gewinnspiel/",
+  "description":"hre Meinung ist uns wichtig! Mit Ihrer Teilnahme helfen Sie mit, unsere Leistungen zu verbessern. Alle Daten werden anonym ausgewertet und nur zu statistischen Zwecken verwendet. Vielen Dank!",
   "about":{
     "@type":"WinAction",
+    "description":"Nach Abschluss der Befragung gelangen Sie zum Teilnahmeformular für das Gewinnspiel. Aus rechtlichen Gründen ist das Mindestalter 14 Jahre! Der Rechtsweg ist ausgeschlossen.",
     "agent":{
       "@type":"SkiResort",
       "name":"Ski-optimal.at Hochzillertal/Kaltenbach",

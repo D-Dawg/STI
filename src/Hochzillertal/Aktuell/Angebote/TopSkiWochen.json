@@ -1,0 +1,55 @@
+{
+  "@context": "http://schema.org",
+  "@type": "WebPage",
+  "name":"Top Ski Wchen",
+  "url":"http://www.hochzillertal.com/ski/top-ski-wochen/",
+  "image":"http://www.hochzillertal.com/wp-content/uploads/Paar-im-Schnee.jpg",
+  "about":{
+    "@type":"Event",
+    "name": "Top Ski Wochen",
+    "startDate":"2017.01.07",
+    "endDate": "2017.02.04",
+    "description": "7 Übernachtungen in der jeweiligen Kategorie, 6-Tages-Superskipass, 1x 2 Stunden Eintritt in die Erlebnistherme Zillertal (Schwimmbereich), 6x Mittagslunch im Skigebiet Hochzillertal",
+    "offers":[
+      {
+        "@type":"Offer",
+        "name":"Privatpension",
+        "description":"Übernachtung / Frühstück",
+        "priceSpecification":{
+          "@type":"PriceSpecification",
+          "price":475.00,
+          "description":"pro Person",
+          "priceCurrency":"EUR"
+        }
+      },
+      {
+        "@type":"Offer",
+        "name":"Gasthöfe / Hotels ***",
+        "description":"mit Halbpensionk",
+        "priceSpecification":{
+          "@type":"PriceSpecification",
+          "price":609.00,
+          "description":"pro Person",
+          "priceCurrency":"EUR"
+        }
+      },
+      {
+        "@type":"Offer",
+        "name":"Hotels ****",
+        "description":"mit Halbpensionk",
+        "priceSpecification":{
+          "@type":"PriceSpecification",
+          "price":798.00,
+          "description":"pro Person",
+          "priceCurrency":"EUR"
+        }
+      }
+    ]
+  },
+  "publisher": {
+    "@type":"SkiResort",
+    "name":"Ski-optimal.at Hochzillertal/Kaltenbach",
+    "url":"http://www.hochzillertal.com/anreise-und-kontakt/"
+  }
+}
+

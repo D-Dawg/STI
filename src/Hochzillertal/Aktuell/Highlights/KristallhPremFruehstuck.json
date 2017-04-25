@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "WebPage",
+  "name":"Kristallhütte: Premium Frühstück",
+  "image": "http://www.hochzillertal.com/wp-content/uploads/DSC01518.jpg",
+  "url": "http://www.hochzillertal.com/ski/early-bird-premium-fruehstueck-am-berg/",
+  "about":{
+    "@type":"Event",
+    "name": "Kristallhütte: Premium Frühstück",
+    "description": "Premiumfrühstück auf der Kristall- oder Wedelhütte",
+    "offers":{
+      "@type":"Offer",
+      "itemOffered":{
+        "@type":"Service",
+        "hoursAvailable":{
+          "@type":"OpeningHoursSpecification",
+          "opens":"07:30",
+          "dayOfWeek":"Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday"
+        },
+        "priceSpecification":{
+          "@type":"PriceSpecification",
+          "price":"16.50",
+          "priceCurrency":"EUR",
+          "description":"pro Person"
+        }
+      }
+    }
+  },
+  "publisher": {
+    "@type":"SkiResort",
+    "name":"Ski-optimal.at Hochzillertal/Kaltenbach",
+    "url":"http://www.hochzillertal.com/anreise-und-kontakt/"
+  }
+}
+

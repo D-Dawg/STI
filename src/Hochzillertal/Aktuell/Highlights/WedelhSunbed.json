@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "WebPage",
+  "name":"Wedelhütte: Sunbed-Special",
+  "image": "http://www.hochzillertal.com/wp-content/uploads/wedelhuette-4.jpg",
+  "url": "http://www.hochzillertal.com/ski/wedelhuette-sunbed-special/",
+  "about":{
+    "@type":"Event",
+    "name": "Wedelhütte: Sunbed-Special",
+    "description": "Relaxen, chillen, Sonne tanken… im reservierten „Sonnenbett“ mit einer Fl. Berg-Perlé Prosecco, Fl.Römerquelle, Antipasti.",
+    "offers":{
+      "@type":"Offer",
+      "itemOffered":{
+        "@type":"Service",
+        "priceSpecification":[
+          {
+            "@type":"PriceSpecification",
+            "price":"65.00",
+            "priceCurrency":"EUR",
+            "description":"Für 2 Personen"
+          },
+          {
+            "@type":"PriceSpecification",
+            "price":"115.00",
+            "priceCurrency":"EUR",
+            "description":"Für 2 Personen mit Champagner"
+          }
+        ]
+      }
+    }
+  },
+  "publisher": {
+    "@type":"SkiResort",
+    "name":"Ski-optimal.at Hochzillertal/Kaltenbach",
+    "url":"http://www.hochzillertal.com/anreise-und-kontakt/"
+  }
+}
+

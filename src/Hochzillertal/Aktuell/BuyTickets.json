@@ -2,6 +2,7 @@
   "@context": "http://schema.org",
   "@type": "WebPage",
   "name":"Select your tickets",
+  "url":"http://zillertalski.skiticketshop.com/affiliate/calculator/?affiliate=HOCHZILLERTAL",
   "description":"Choose your desired tickets first and add them to the cart, afterwards you will be able to modify the amount per ticket.",
   "about":[
     {
@@ -9,29 +10,53 @@
       "name":"Multi Day Tickets",
       "potentialAction":{
         "@type":"BuyAction"
-      }
+      },
+      "acceptedPaymentMethod":[
+        {
+          "@type":"CreditCard",
+          "valueReference":"http://purl.org/goodrelations/v1#VISA"
+        },
+        {
+          "@type":"CreditCard",
+          "valueReference":"http://purl.org/goodrelations/v1#MasterCard"
+        }
+      ]
     },
     {
       "@type":"Offer",
       "name":"Wahlkarte",
       "potentialAction":{
         "@type":"BuyAction"
-      }
+      },
+      "acceptedPaymentMethod":[
+        {
+          "@type":"CreditCard",
+          "valueReference":"http://purl.org/goodrelations/v1#VISA"
+        },
+        {
+          "@type":"CreditCard",
+          "valueReference":"http://purl.org/goodrelations/v1#MasterCard"
+        }
+      ]
     },
     {
       "@type":"Offer",
       "name":"Voucher",
       "potentialAction":{
         "@type":"BuyAction"
-      }
+      },
+      "acceptedPaymentMethod":[
+        {
+          "@type":"CreditCard",
+          "valueReference":"http://purl.org/goodrelations/v1#VISA"
+        },
+        {
+          "@type":"CreditCard",
+          "valueReference":"http://purl.org/goodrelations/v1#MasterCard"
+        }
+      ]
     }
   ],
-  "mentions": {
-    "@type":"PaymentMethod",
-    "valueReference":[
-      
-    ]
-    },
   "publisher": {
     "@type":"SkiResort",
     "name":"Ski-optimal.at Hochzillertal/Kaltenbach",

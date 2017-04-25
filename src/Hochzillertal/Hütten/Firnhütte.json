@@ -1,6 +1,8 @@
 {
   "@context": "http://schema.org",
   "@type": "WebPage",
+  "name":"Firnhütte",
+  "url":"http://www.hochzillertal.com/huetten/firnhuette/",
   "about":{
     "@type":"Restaurant",
     "name": "Firnhütte",

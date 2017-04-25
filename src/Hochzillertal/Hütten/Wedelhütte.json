@@ -1,6 +1,8 @@
 {
   "@context": "http://schema.org",
   "@type": "WebPage",
+  "name":"Wedelhütte",
+  "url":"http://www.hochzillertal.com/huetten/wedelhuette/",
   "about":{
     "@type":"Restaurant",
     "name": "Wedelhütte",

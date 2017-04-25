@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": "WebPage",
+  "name":"VIP Gondel/Premium Early Bird für Zwei",
+  "image": "http://www.hochzillertal.com/wp-content/uploads/BWM-Linie.jpg",
+  "url": "http://www.hochzillertal.com/ski/premium-early-bird-fuer-zwei/",
+  "about":{
+    "@type":"Event",
+    "name": "VIP Gondel/Premium Early Bird für Zwei",
+    "description": "Mit der schwebenden BMW 7er Limousine zum perfekten Skigenuss.",
+    "offers":{
+      "@type":"Offer",
+      "itemOffered":{
+        "@type":"Service",
+        "description":"Exklusiver Parkplatz, Portierservice mit Abholung vom Parkplatz, Sondereingang zur Gondel, Champagner Empfang, 2 x 1 Tages-Skipass, Bergfahrt mit der Weltneuheit „BMW individual for LEITNER“ Gondel, Frühstücksbrunch auf der Kristallhütte.",
+        "hoursAvailable":{
+          "@type":"OpeningHoursSpecification",
+          "opens":"08:00",
+          "closes":"08:30",
+          "dayOfWeek":"Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday"
+        },
+        "priceSpecification":{
+          "@type":"PriceSpecification",
+          "price":"155",
+          "priceCurrency":"EUR",
+          "description":"2 Personen"
+        }
+      }
+    }
+  },
+  "publisher": {
+    "@type":"SkiResort",
+    "name":"Ski-optimal.at Hochzillertal/Kaltenbach",
+    "url":"http://www.hochzillertal.com/anreise-und-kontakt/"
+  }
+}
+

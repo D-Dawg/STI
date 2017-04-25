@@ -1,0 +1,13 @@
+{
+  "@context": "http://schema.org",
+  "@type": "WebPage",
+  "name":"Wetter & Schnee",
+  "url":"http://www.hochzillertal.com/news/wetter-und-schnee/",
+  "about":{},
+  "publisher": {
+    "@type":"SkiResort",
+    "name":"Ski-optimal.at Hochzillertal/Kaltenbach",
+    "url":"http://www.hochzillertal.com/anreise-und-kontakt/"
+  }
+}
+

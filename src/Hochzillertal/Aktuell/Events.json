@@ -2,6 +2,7 @@
   "@context": "http://schema.org",
   "@type": "WebPage",
   "name":"Events",
+  "url":"http://www.hochzillertal.com/news/events/",
   "about":[
     {
       "@type":"Event",

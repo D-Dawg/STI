@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": "WebPage",
+  "name":"Skiline Höhenmeter-Diagramm",
+  "url":"http://www.hochzillertal.com/news/skiline-hoehenmeter-diagramm/",
+  "about":{
+    "@type":"Service",
+    "name": "Höhenmeter-Service im Hochzillertal",
+    "description": "Wie viele Höhenmeter waren Sie unterwegs?",
+    "offers":{
+      "@type":"Offer",
+      "name":"Skiline. Das Höhenmeter-Diagramm Ihres Skitages!",
+      "description":"Gegen Eingabe Ihrer Skipass-Nummer erhalten Sie  binnen weniger Sekunden Ihre ganz persönliche „Skiline“.  Auf einen Blick finden Sie alle von Ihnen benutzten Liftanlagen und die dabei bewältigten Höhenmeter und  Abfahrtskilometer.",
+      "url": "http://skiline.cc/hochzillertal"
+    }
+  },
+  "publisher": {
+    "@type":"SkiResort",
+    "name":"Ski-optimal.at Hochzillertal/Kaltenbach",
+    "url":"http://www.hochzillertal.com/anreise-und-kontakt/"
+  }
+}
+
