@@ -1,44 +1,32 @@
 {
   "@context": "http://schema.org",
-  "@type": "WebPage",
-  "name":"Skilauf für Genießer",
-  "url":"http://www.hochzillertal.com/ski/skilauf-fuer-geniesser/",
-  "image":"http://www.hochzillertal.com/wp-content/uploads/HOZI-KLEIN-150x150.jpg",
-  "about":{
-    "@type":"Event",
-    "name": "Skilauf für Genießer",
-    "startDate":"2017.01.07",
-    "endDate": "2017.02.04",
-    "description": "3 Übernachtungen in Privatpensionen, 3-Tages-Superskipass, 3 Tage Skiverleih (Standard: Schuhe, Stöcke + Ski)",
-    "offers":[
-      {
-        "@type":"Offer",
-        "name":"Privatpension",
-        "description":"Übernachtung / Frühstück",
-        "priceSpecification":{
-          "@type":"UnitPriceSpecification",
-          "unitCode":"IE",
-          "price":298.00,
-          "priceCurrency":"EUR"
-        }
-      },
-      {
-        "@type":"Offer",
-        "name":"Gasthöfe / Hotels ***",
-        "description":"mit Halbpensionk",
-        "priceSpecification":{
-          "@type":"UnitPriceSpecification",
-          "unitCode":"IE",
-          "price":389.00,
-          "priceCurrency":"EUR"
-        }
+  "@type":"Event",
+  "name": "Skilauf für Genießer",
+  "startDate":"2017.01.07",
+  "endDate": "2017.02.04",
+  "description": "3 Übernachtungen in Privatpensionen, 3-Tages-Superskipass, 3 Tage Skiverleih (Standard: Schuhe, Stöcke + Ski)",
+  "offers":[
+    {
+      "@type":"Offer",
+      "name":"Privatpension",
+      "description":"Übernachtung / Frühstück",
+      "priceSpecification":{
+        "@type":"UnitPriceSpecification",
+        "unitCode":"IE",
+        "price":298.00,
+        "priceCurrency":"EUR"
       }
-    ]
-  },
-  "publisher": {
-    "@type":"SkiResort",
-    "name":"Ski-optimal.at Hochzillertal/Kaltenbach",
-    "url":"http://www.hochzillertal.com/anreise-und-kontakt/"
-  }
+    },
+    {
+      "@type":"Offer",
+      "name":"Gasthöfe / Hotels ***",
+      "description":"mit Halbpensionk",
+      "priceSpecification":{
+        "@type":"UnitPriceSpecification",
+        "unitCode":"IE",
+        "price":389.00,
+        "priceCurrency":"EUR"
+      }
+    }
+  ]
 }
-

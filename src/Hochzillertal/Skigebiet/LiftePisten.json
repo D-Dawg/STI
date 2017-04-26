@@ -1,17 +1,4 @@
 {
-  "@context": "http://schema.org",
-  "@type": "WebPage",
-  "name":"Lifte und Pisten",
-  "url":"http://www.hochzillertal.com/skigebiet/lifte-pisten/",
-  "about":{
+  "@context": "http://schema.org"
 
-
-
-  },
-  "publisher": {
-    "@type":"SkiResort",
-    "name":"Ski-optimal.at Hochzillertal/Kaltenbach",
-    "url":"http://www.hochzillertal.com/anreise-und-kontakt/"
-  }
 }
-

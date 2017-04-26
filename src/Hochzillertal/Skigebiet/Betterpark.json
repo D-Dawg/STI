@@ -1,17 +1,5 @@
 {
-  "@context": "http://schema.org",
-  "@type": "WebPage",
-  "name":"Betterpark Hochzillertal",
-  "url":"http://www.hochzillertal.com/skigebiet/betterpark-hochzillertal/",
-  "image":"http://www.hochzillertal.com/wp-content/uploads/ambros_fuerstaller4_s.jpg",
-  "about":{
+  "@context": "http://schema.org"
 
 
-
-  },
-  "publisher": {
-    "@type":"SkiResort",
-    "name":"Ski-optimal.at Hochzillertal/Kaltenbach",
-    "url":"http://www.hochzillertal.com/anreise-und-kontakt/"
-  }
 }
