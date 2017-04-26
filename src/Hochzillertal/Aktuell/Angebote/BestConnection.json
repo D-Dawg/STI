@@ -16,9 +16,9 @@
         "name":"Privatpension",
         "description":"Übernachtung / Frühstück",
         "priceSpecification":{
-          "@type":"PriceSpecification",
+          "@type":"UnitPriceSpecification",
+          "unitCode":"IE",
           "price":259.00,
-          "description":"pro Person",
           "priceCurrency":"EUR"
         }
       },
@@ -27,9 +27,9 @@
         "name":"Gasthöfe / Hotels ***",
         "description":"mit Halbpensionk",
         "priceSpecification":{
-          "@type":"PriceSpecification",
+          "@type":"UnitPriceSpecification",
+          "unitCode":"IE",
           "price":329.00,
-          "description":"pro Person",
           "priceCurrency":"EUR"
         }
       },
@@ -38,9 +38,9 @@
         "name":"Hotels ****",
         "description":"mit Halbpensionk",
         "priceSpecification":{
-          "@type":"PriceSpecification",
+          "@type":"UnitPriceSpecification",
+          "unitCode":"IE",
           "price":419.00,
-          "description":"pro Person",
           "priceCurrency":"EUR"
         }
       }

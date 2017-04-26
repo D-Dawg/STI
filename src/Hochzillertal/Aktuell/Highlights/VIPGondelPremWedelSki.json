@@ -21,9 +21,12 @@
         },
         "priceSpecification":{
           "@type":"PriceSpecification",
+          "eligibleQuantity":{
+            "@type": "QuantitativeValue",
+            "value":2
+          },
           "price":"195",
           "priceCurrency":"EUR",
-          "description":"2 Personen"
         }
       }
     }
