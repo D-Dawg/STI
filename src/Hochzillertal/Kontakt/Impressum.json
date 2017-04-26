@@ -1,9 +1,5 @@
 {
   "@context": "http://schema.org",
-  "@type": "WebPage",
-  "name":"Impressum",
-  "url":"http://www.hochzillertal.com/anreise-und-kontakt/impressum/",
-  "about": {
     "@type":"Organisation",
     "name":"Informationsbüro Hochzillertal",
     "address": {
@@ -41,8 +37,7 @@
       "propertyID":"Firmenbuch",
       "value":"FN 45205 d LG IBK"
     }
-    ]
-  },
+    ],
   "areaServed":[
     {
       "@type":"Place",

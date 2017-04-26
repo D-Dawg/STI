@@ -1,0 +1,41 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name":"Nachtskilauf",
+  "offers": {
+    "@type":"Offer",
+    "itemOffered": {
+      "@type": "Service",
+      "description": "Beschneiung bis ins Tal",
+      "hoursAvailable": {
+        "@type": "OpeningHoursSpecification",
+        "opens": "19:00",
+        "closes": "22:00",
+        "dayOfWeek": "Friday",
+        "validFrom": "2017.01.13",
+        "validThrough": "2017.03.15",
+        "description": "Je nach Wetter und Schneelage"
+      }
+    },
+    "priceSpecification":[
+      {
+        "@type":"PriceSpecification",
+        "price":10,
+        "priceCurrency":"EUR",
+        "description":"Erwachsene"
+      },
+      {
+        "@type":"PriceSpecification",
+        "price":8,
+        "priceCurrency":"EUR",
+        "description":"Jugend(15-18 Jahre)"
+      },
+      {
+        "@type":"PriceSpecification",
+        "price":5,
+        "priceCurrency":"EUR",
+        "description":"Kinder (bis 14 Jahre)"
+      }
+    ]
+  }
+}
