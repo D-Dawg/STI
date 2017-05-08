@@ -37,11 +37,11 @@
   "additionalProperty":[
     {
       "@type":"PropertyValue",
-      "propertyID":"Directions Car",
+      "name":"Directions Car",
       "value":"Autobahn München – Rosenheim – Grenzübergang Kufstein A12 bis Abfahrt Zillertal – 7 km Bundesstraße bis nach Kaltenbach – Skiregion Hochzillertal Oder mautfrei: Autobahn München – Abfahrt Tegernsee – Achensee – Zillertal – Kaltenbach"
     },{
       "@type":"PropertyValue",
-      "propertyID":"Directions Bus",
+      "name":"Directions Bus",
       "value":"Beispielsweise mit dem Flexbus ab München um € 7,-",
       "potentialAction":{
         "@type":"Action",
@@ -53,11 +53,11 @@
       }
     },{
       "@type":"PropertyValue",
-      "propertyID":"Directions Plane",
+      "name":"Directions Plane",
       "value":"der nächste Flughafen ist Innsbruck, Transferzeit ins Zillertal ca 50 km bzw. ca 1 Std. Internationaler Flughafen: München ca 150 km Transfer mit dem Flughafentaxi direkt ins Zillertal möglich."
     },{
       "@type":"PropertyValue",
-      "propertyID":"Directions Train",
+      "name":"Directions Train",
       "value":"Bahnstation Jenbach umsteigen zur Zillertal Bahn und Weiterfahrt nach Ried, Kaltenbach oder Aschau"
     }
     ]
