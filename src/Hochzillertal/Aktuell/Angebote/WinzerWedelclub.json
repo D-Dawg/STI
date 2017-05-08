@@ -4,11 +4,6 @@
   "about":{
     "@type": "Event",
     "name": "6. Winzer Wedelcup im Hochzillertal",
-    "sponsor": {
-      "@type": "SkiResort",
-      "name": "Ski-optimal.at Hochzillertal/Kaltenbach",
-      "url": "http://www.hochzillertal.com/anreise-und-kontakt/"
-    },
     "startDate": "2017-04-06",
     "endDate":"2017-04-08",
     "offers": [

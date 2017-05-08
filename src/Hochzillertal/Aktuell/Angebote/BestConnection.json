@@ -13,7 +13,7 @@
       "priceSpecification":{
         "@type":"UnitPriceSpecification",
         "unitCode":"IE",
-        "price":259.00,
+        "price":"259.00",
         "priceCurrency":"EUR"
       }
     },
@@ -24,7 +24,7 @@
       "priceSpecification":{
         "@type":"UnitPriceSpecification",
         "unitCode":"IE",
-        "price":329.00,
+        "price":"329.00",
         "priceCurrency":"EUR"
       }
     },
@@ -35,7 +35,7 @@
       "priceSpecification":{
         "@type":"UnitPriceSpecification",
         "unitCode":"IE",
-        "price":419.00,
+        "price":"419.00",
         "priceCurrency":"EUR"
       }
     }

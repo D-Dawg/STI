@@ -10,20 +10,20 @@
       "priceSpecification":[
         {
           "@type":"PriceSpecification",
-          "price":65.00,
+          "price":"65.00",
           "priceCurrency":"EUR",
           "eligibleQuantity":{
             "@type": "QuantitativeValue",
-            "value":2
+            "value":"2"
           }
         },
         {
           "@type":"PriceSpecification",
-          "price":115.00,
+          "price":"115.00",
           "priceCurrency":"EUR",
           "eligibleQuantity":{
             "@type": "QuantitativeValue",
-            "value":2,
+            "value":"2",
             "description":"mit Champagner"
           }
         }

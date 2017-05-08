@@ -1,7 +1,6 @@
 {
   "@context": "http://schema.org",
-  "@type":"Place",
-
-
-
+  "@type":"LocalBusiness",
+  "name":"Ski Raceshop Hochzillertal",
+  "url":"www.srs-hochzillertal.at"
 }

@@ -18,10 +18,10 @@
         "@type":"PriceSpecification",
         "eligibleQuantity":{
           "@type": "QuantitativeValue",
-          "value":2
+          "value":"2"
         },
         "price":"155",
-        "priceCurrency":"EUR",
+        "priceCurrency":"EUR"
       }
     }
   }
