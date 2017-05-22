@@ -23,11 +23,12 @@
         }
       },
       "priceSpecification":
-        {
-          "@type":"PriceSpecification",
-          "price":"10",
-          "priceCurrency":"EUR"
-        }
+      {
+        "@type":"UnitPriceSpecification",
+        "unitCode":"IE",
+        "price":"10",
+        "priceCurrency":"EUR"
+      }
     }
   },
   {
@@ -57,7 +58,8 @@
       },
       "priceSpecification":
       {
-        "@type":"PriceSpecification",
+        "@type":"UnitPriceSpecification",
+        "unitCode":"IE",
         "price":"8",
         "priceCurrency":"EUR"
       }
@@ -89,7 +91,8 @@
       },
       "priceSpecification":
       {
-        "@type":"PriceSpecification",
+        "@type":"UnitPriceSpecification",
+        "unitCode":"IE",
         "price":"5",
         "priceCurrency":"EUR"
       }
