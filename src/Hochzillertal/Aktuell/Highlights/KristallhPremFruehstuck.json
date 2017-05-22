@@ -16,7 +16,7 @@
         "@type":"UnitPriceSpecification",
         "unitCode":"IE",
         "price":"16.50",
-        "priceCurrency":"EUR",
+        "priceCurrency":"EUR"
       }
     }
   }

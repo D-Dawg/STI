@@ -15,26 +15,26 @@
       "additionalProperty":[
         {
           "@type":"PropertyValue",
-          "propertyID":"IBAN",
+          "name":"IBAN",
           "value":"AT34 2051 0006 0060 0605"
         },{
           "@type":"PropertyValue",
-          "propertyID":"BIC",
+          "name":"BIC",
           "value":"SPSCAT22"
         }
       ]
     },
     "identifier":[{
       "@type":"PropertyValue",
-      "propertyID":"UID",
+      "name":"UID",
       "value":"ATU 33236101"
     },{
       "@type":"PropertyValue",
-      "propertyID":"DVR",
+      "name":"DVR",
       "value":"0696234"
     },{
       "@type":"PropertyValue",
-      "propertyID":"Firmenbuch",
+      "name":"Firmenbuch",
       "value":"FN 45205 d LG IBK"
     }
     ],
@@ -47,10 +47,5 @@
       "name":"Tourismus- und Freizeitwirtschaft"
     }
   ],
-  "member":"Wirtschaftskammer Tirol",
-  "publisher":{
-    "@type":"SkiResort",
-    "name":"Ski-optimal.at Hochzillertal/Kaltenbach",
-    "url":"http://www.hochzillertal.com/anreise-und-kontakt/"
-  }
+  "member":"Wirtschaftskammer Tirol"
 }

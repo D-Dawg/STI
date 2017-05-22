@@ -20,7 +20,7 @@
     {
       "@type":"Offer",
       "name":"Gasthöfe / Hotels ***",
-      "description":"mit Halbpensionk",
+      "description":"mit Halbpension",
       "priceSpecification":{
         "@type":"UnitPriceSpecification",
         "unitCode":"IE",
@@ -31,7 +31,7 @@
     {
       "@type":"Offer",
       "name":"Hotels ****",
-      "description":"mit Halbpensionk",
+      "description":"mit Halbpension",
       "priceSpecification":{
         "@type":"UnitPriceSpecification",
         "unitCode":"IE",

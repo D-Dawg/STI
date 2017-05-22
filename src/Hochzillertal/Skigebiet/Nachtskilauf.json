@@ -13,8 +13,8 @@
           "opens": "19:00",
           "closes": "22:00",
           "dayOfWeek": "Friday",
-          "validFrom": "2017.01.13",
-          "validThrough": "2017.03.15",
+          "validFrom": "2017-01-13",
+          "validThrough": "2017-03-15",
           "description": "Je nach Wetter und Schneelage"
         },
         "audience":{
@@ -44,8 +44,8 @@
           "opens": "19:00",
           "closes": "22:00",
           "dayOfWeek": "Friday",
-          "validFrom": "2017.01.13",
-          "validThrough": "2017.03.15",
+          "validFrom": "2017-01-13",
+          "validThrough": "2017-03-15",
           "description": "Je nach Wetter und Schneelage"
         },
         "audience":{
@@ -77,8 +77,8 @@
           "opens": "19:00",
           "closes": "22:00",
           "dayOfWeek": "Friday",
-          "validFrom": "2017.01.13",
-          "validThrough": "2017.03.15",
+          "validFrom": "2017-01-13",
+          "validThrough": "2017-03-615",
           "description": "Je nach Wetter und Schneelage"
         },
         "audience":{
