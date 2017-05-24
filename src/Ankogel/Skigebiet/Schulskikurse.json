@@ -1,0 +1,122 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type":"LocalBusiness",
+    "name":"SPORT STOCK",
+    "url":"http://www.sportstock.at",
+    "telephone":"05283/20161",
+    "address":"direkt in der Talstation der Gondelbahn Hochzillertal!"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"LocalBusiness",
+    "name":"SPORT STOCK – IM SKIGEBIET",
+    "telephone":"Tel.: 05283/20161-16"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"LocalBusiness",
+    "name":"Skischule Hochzillertal ITS",
+    "email":"skischul-info@hochzillertal.at",
+    "telephone":"05283/2822-0",
+    "faxNumber":"05283/2822-8",
+    "location":{
+      "@type":"PostalAddress",
+      "addressCountry":"AT",
+      "postalCode":"6272",
+      "addressLocality":"Kaltenbach/Talstation"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"LocalBusiness",
+    "name":"SRS Hochzillertal",
+    "description":"Der Rennlaufspezialist im Zillertal",
+    "url":"www.srs-hochzillertal.at",
+    "telephone":"0664 4413072"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"LocalBusiness",
+    "name":"SPORTHAUS UNTERLERCHER",
+    "description":"DKaltenbach – Hochfügen – Fügen",
+    "url":"www.sport-unterlercher.at",
+    "location":{
+      "@type":"PostalAddress",
+      "addressCountry":"AT",
+      "postalCode":"6272",
+      "streetAddress":"Kaltenbach 162"
+    },
+    "telephone":"43 (0) 5288/6767 – 700"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"LocalBusiness",
+    "name":"RENT & GO",
+    "location":{
+      "@type":"PostalAddress",
+      "addressCountry":"AT",
+      "postalCode":"6272",
+      "addressLocality":"Kaltenbach/Talstation"
+    },
+    "telephone":"05283/29220",
+    "faxNumber":"05283/ 29216"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"LocalBusiness",
+    "name":"SPORT PIRCHER",
+    "location":{
+      "@type":"PostalAddress",
+      "addressCountry":"AT",
+      "postalCode":"6272",
+      "addressLocality":"Ried 122"
+    },
+    "telephone":"05283/2226",
+    "faxNumber":"05283/327"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"LocalBusiness",
+    "name":"SKIVERLEIH SIGLSTETTER",
+    "location":{
+      "@type":"PostalAddress",
+      "addressCountry":"AT",
+      "postalCode":"6274",
+      "addressLocality":"Aschau 215"
+    },
+    "telephone":"05282/2293",
+    "faxNumber":"05282/4611"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"LocalBusiness",
+    "name":"SPORT STOCK",
+    "location":{
+      "@type":"PostalAddress",
+      "addressCountry":"AT",
+      "postalCode":"6272",
+      "addressLocality":"Stumm",
+      "streetAddress":"Koflerweg 28"
+    },
+    "telephone":"05283/2567"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"LocalBusiness",
+    "name":"SPORT ELLER",
+    "location":{
+      "@type":"PostalAddress",
+      "addressCountry":"AT",
+      "postalCode":"6272",
+      "addressLocality":"Kaltenbach/Talstation",
+    },
+    "telephone":"05283/2205"
+  }
+]
+
+
+
+
+
+
