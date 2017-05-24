@@ -8,8 +8,11 @@
       "postalCode": "A-6272",
       "addressCountry": "Aurtria"
     },
-    "email":"info@hochzillertal.com",
-    "isRelatedTo":{
+    "contactPoint":{
+      "@type":"ContactPoint",
+      "email":"info@hochzillertal.com"
+    },
+    "owns":{
       "@type": "BankAccount",
       "name":"Sparkasse Schwaz (20510)",
       "additionalProperty":[
@@ -38,11 +41,7 @@
       "value":"FN 45205 d LG IBK"
     }
     ],
-  "areaServed":[
-    {
-      "@type":"Place",
-      "name":"Kaltenbach"
-    },{
+  "areaServed":[{
       "@type":"AdministrativeArea",
       "name":"Tourismus- und Freizeitwirtschaft"
     }

@@ -1,51 +1,34 @@
 {
   "@context": "http://schema.org",
     "@type":"Organisation",
-    "name":"Informationsbüro Hochzillertal",
+    "name":"Hochgebirgsbahnen Ankogel",
     "address": {
       "@type": "PostalAddress",
-      "addressLocality": "Kaltenbach",
-      "postalCode": "A-6272",
+      "addressLocality": "Mallnitz",
+      "postalCode": "A-9822",
       "addressCountry": "Aurtria"
     },
-    "email":"info@hochzillertal.com",
-    "isRelatedTo":{
-      "@type": "BankAccount",
-      "name":"Sparkasse Schwaz (20510)",
-      "additionalProperty":[
-        {
-          "@type":"PropertyValue",
-          "name":"IBAN",
-          "value":"AT34 2051 0006 0060 0605"
-        },{
-          "@type":"PropertyValue",
-          "name":"BIC",
-          "value":"SPSCAT22"
-        }
-      ]
+    "contactPoint":{
+      "@type":"ContactPoint",
+      "email":"info@gletscher.co.at",
+      "telephone":"+43 (0) 4785 8110",
+      "faxNumber":"+ 43 (0) 4785 8110 10"
     },
-    "identifier":[{
-      "@type":"PropertyValue",
-      "name":"UID",
-      "value":"ATU 33236101"
-    },{
-      "@type":"PropertyValue",
-      "name":"DVR",
-      "value":"0696234"
-    },{
-      "@type":"PropertyValue",
-      "name":"Firmenbuch",
-      "value":"FN 45205 d LG IBK"
-    }
+    "identifier":[
+      {
+        "@type":"PropertyValue",
+        "name":"Firmenbuchnummer",
+        "value":"19797p"
+      }
     ],
-  "areaServed":[
-    {
-      "@type":"Place",
-      "name":"Kaltenbach"
-    },{
+  "memberOf":{
+    "@type": "Organisation",
+    "name":"Reisebüro Hochzillertal",
+    "url":"https://www.wkoecg.at/Web/Ecg.aspx?FirmaID=ff4c7645-98e2-4cdc-b98d-a96193a7a5d2"
+  },
+  "areaServed":[{
       "@type":"AdministrativeArea",
       "name":"Tourismus- und Freizeitwirtschaft"
     }
-  ],
-  "member":"Wirtschaftskammer Tirol"
+  ]
 }
