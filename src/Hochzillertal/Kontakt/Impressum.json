@@ -13,19 +13,22 @@
       "email":"info@hochzillertal.com"
     },
     "owns":{
-      "@type": "BankAccount",
-      "name":"Sparkasse Schwaz (20510)",
-      "additionalProperty":[
-        {
-          "@type":"PropertyValue",
-          "name":"IBAN",
-          "value":"AT34 2051 0006 0060 0605"
-        },{
-          "@type":"PropertyValue",
-          "name":"BIC",
-          "value":"SPSCAT22"
-        }
-      ]
+      "@type":"Product",
+      "isRelatedTo":{
+        "@type": "BankAccount",
+        "name":"Sparkasse Schwaz (20510)",
+        "additionalProperty":[
+          {
+            "@type":"PropertyValue",
+            "name":"IBAN",
+            "value":"AT34 2051 0006 0060 0605"
+          },{
+            "@type":"PropertyValue",
+            "name":"BIC",
+            "value":"SPSCAT22"
+          }
+        ]
+      }
     },
     "identifier":[{
       "@type":"PropertyValue",
