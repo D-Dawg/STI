@@ -12,12 +12,12 @@
         "opens":"08:30",
         "closes":"10:15",
         "dayOfWeek":"Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday"
-      },
-      "priceSpecification":{
-        "@type":"PriceSpecification",
-        "price":"16.50",
-        "priceCurrency":"EUR"
       }
+    },
+    "priceSpecification":{
+      "@type":"PriceSpecification",
+      "price":"16.50",
+      "priceCurrency":"EUR"
     }
   }
 }

@@ -5,29 +5,26 @@
   "description": "Relaxen, chillen, Sonne tanken… im reservierten „Sonnenbett“ mit einer Fl. Berg-Perlé Prosecco, Fl.Römerquelle, Antipasti.",
   "offers":{
     "@type":"Offer",
-    "itemOffered":{
-      "@type":"Service",
-      "priceSpecification":[
-        {
-          "@type":"PriceSpecification",
-          "price":"65.00",
-          "priceCurrency":"EUR",
-          "eligibleQuantity":{
-            "@type": "QuantitativeValue",
-            "value":"2"
-          }
-        },
-        {
-          "@type":"PriceSpecification",
-          "price":"115.00",
-          "priceCurrency":"EUR",
-          "eligibleQuantity":{
-            "@type": "QuantitativeValue",
-            "value":"2",
-            "description":"mit Champagner"
-          }
+    "priceSpecification": [
+      {
+        "@type": "PriceSpecification",
+        "price": "65.00",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "value": "2"
         }
-      ]
-    }
+      },
+      {
+        "@type": "PriceSpecification",
+        "price": "115.00",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "value": "2",
+          "description": "mit Champagner"
+        }
+      }
+    ]
   }
 }

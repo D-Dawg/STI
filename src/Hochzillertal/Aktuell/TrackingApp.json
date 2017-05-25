@@ -2,8 +2,8 @@
   "@context": "http://schema.org",
   "@type":"VideoObject",
   "name": "iSki Tracking App",
-  "caption": "Der iSki Tracker ist das Highlight in der Wintersaison für alle Skibegeisterten. Mit der neuen App iSki Tracker hast du ein einzigartiges Tool zur Aufzeichnung und Analyse deiner Skitage (Skitagebuch) und damit einen Service der Sonderklasse",
-  "contentUrl": "https://youtu.be/cmjZ3NZN3xw",
+  "description": "Der iSki Tracker ist das Highlight in der Wintersaison für alle Skibegeisterten. Mit der neuen App iSki Tracker hast du ein einzigartiges Tool zur Aufzeichnung und Analyse deiner Skitage (Skitagebuch) und damit einen Service der Sonderklasse",
+  "thumbnailUrl": "https://youtu.be/cmjZ3NZN3xw",
   "offers":[
     {
       "@type":"Offer",

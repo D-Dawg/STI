@@ -23,7 +23,7 @@
         "priceCurrency": "EUR"
       }
     ],
-    "publisher": {
+    "organizer": {
       "@type":"SkiResort",
       "name":"Ski-optimal.at Hochzillertal/Kaltenbach",
       "url":"http://www.hochzillertal.com/anreise-und-kontakt/"

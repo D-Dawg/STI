@@ -25,7 +25,7 @@
       "opens":"7:30:00",
       "closes":"16:00:00",
       "dayOfWeek":"Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday",
-      "validTrough":"23.4.2017"
+      "validTrough":"2017-04-23"
     },
     {
       "@type":"OpeningHoursSpecification",
@@ -46,7 +46,7 @@
       "potentialAction":{
         "@type":"Action",
         "object":{
-          "@type":"Organisation",
+          "@type":"Organization",
           "name":"Flixbus",
           "url":"https://www.flixbus.de/"
         }

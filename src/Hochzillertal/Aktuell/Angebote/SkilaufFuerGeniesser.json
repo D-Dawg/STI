@@ -3,8 +3,8 @@
     "@context": "http://schema.org",
     "@type":"Event",
     "name": "Skilauf für Genießer",
-    "startDate":"2017.01.07",
-    "endDate": "2017.02.04",
+    "startDate":"2017-01-07",
+    "endDate": "2017-02-04",
     "description": "3 Übernachtungen in Privatpensionen, 3-Tages-Superskipass, 3 Tage Skiverleih (Standard: Schuhe, Stöcke + Ski)",
     "offers":[
       {
@@ -35,8 +35,8 @@
     "@context": "http://schema.org",
     "@type":"Event",
     "name": "Skilauf für Genießer",
-    "startDate":"2017.03.18",
-    "endDate": "2017.04.23",
+    "startDate":"2017-03-18",
+    "endDate": "2017-04-23",
     "description": "3 Übernachtungen in Privatpensionen, 3-Tages-Superskipass, 3 Tage Skiverleih (Standard: Schuhe, Stöcke + Ski)",
     "offers":[
       {

@@ -1,6 +1,7 @@
 {
   "@context": "http://schema.org",
-    "@type":"Organisation",
+    "@type":"Organization",
+    "url":"http://www.hochzillertal.com/anreise-und-kontakt/impressum/",
     "name":"Informationsbüro Hochzillertal",
     "address": {
       "@type": "PostalAddress",
@@ -10,7 +11,11 @@
     },
     "contactPoint":{
       "@type":"ContactPoint",
-      "email":"info@hochzillertal.com"
+      "email":"info@hochzillertal.com",
+      "telephone":"+43 / 5283 / 28 00",
+      "faxNumber":"43 / 5283 / 28 00-19",
+      "url":"http://www.hochzillertal.com/",
+      "contactType":"customer support"
     },
     "owns":{
       "@type":"Product",

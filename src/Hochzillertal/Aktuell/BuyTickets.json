@@ -7,14 +7,8 @@
     "@type":"BuyAction"
   },
   "acceptedPaymentMethod":[
-    {
-      "@type":"CreditCard",
-      "valueReference":"http://purl.org/goodrelations/v1#VISA"
-    },
-    {
-      "@type":"CreditCard",
-      "valueReference":"http://purl.org/goodrelations/v1#MasterCard"
-    }
+      "http://purl.org/goodrelations/v1#VISA",
+      "http://purl.org/goodrelations/v1#MasterCard"
   ]
 },
 {
@@ -25,14 +19,8 @@
     "@type":"BuyAction"
   },
   "acceptedPaymentMethod":[
-    {
-      "@type":"CreditCard",
-      "valueReference":"http://purl.org/goodrelations/v1#VISA"
-    },
-    {
-      "@type":"CreditCard",
-      "valueReference":"http://purl.org/goodrelations/v1#MasterCard"
-    }
+    "http://purl.org/goodrelations/v1#VISA",
+    "http://purl.org/goodrelations/v1#MasterCard"
   ]
 },
 {
@@ -43,14 +31,8 @@
     "@type":"BuyAction"
   },
   "acceptedPaymentMethod":[
-    {
-      "@type":"CreditCard",
-      "valueReference":"http://purl.org/goodrelations/v1#VISA"
-    },
-    {
-      "@type":"CreditCard",
-      "valueReference":"http://purl.org/goodrelations/v1#MasterCard"
-    }
+    "http://purl.org/goodrelations/v1#VISA",
+    "http://purl.org/goodrelations/v1#MasterCard"
   ]
 }
 ]

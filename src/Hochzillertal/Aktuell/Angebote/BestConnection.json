@@ -2,8 +2,8 @@
   "@context": "http://schema.org",
   "@type":"Event",
   "name": "The best connection",
-  "startDate":"2016.12.03",
-  "endDate": "2016.12.24",
+  "startDate":"2016-12-03",
+  "endDate": "2016-12-24",
   "description": "3 Übernachtungen in der jeweiligen Kategorie, 3-Tages-Superskipass, 3x Mittagslunch Tiroler Art in einem Restaurant im Skigebiet Hochzillertal, 1x Gutschein für einen Liegestuhl",
   "offers":[
     {

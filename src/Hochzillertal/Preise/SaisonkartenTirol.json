@@ -1,11 +1,12 @@
 [
   {
     "@context": "http://schema.org",
-    "@type":"Organisation",
+    "@type":"Organization",
     "name":"Ski-optimal.at Hochzillertal/Kaltenbach",
     "contactPoint":{
       "email":"info@hochzillertal.com",
-      "telephone":" +43 / 5283 / 2800"
+      "telephone":" +43 / 5283 / 2800",
+      "contactType":"customer support"
     },
     "hasOfferCatalog": {
       "@type": "OfferCatalog",
@@ -36,11 +37,12 @@
   },
   {
     "@context": "http://schema.org",
-    "@type":"Organisation",
+    "@type":"Organization",
     "name":"Ski-optimal.at Hochzillertal/Kaltenbach",
     "contactPoint":{
       "email":"info@hochzillertal.com",
-      "telephone":" +43 / 5283 / 2800"
+      "telephone":" +43 / 5283 / 2800",
+      "contactType":"customer support"
     },
     "hasOfferCatalog": {
       "@type": "OfferCatalog",
@@ -73,11 +75,12 @@
   },
   {
     "@context": "http://schema.org",
-    "@type":"Organisation",
+    "@type":"Organization",
     "name":"Ski-optimal.at Hochzillertal/Kaltenbach",
     "contactPoint":{
       "email":"info@hochzillertal.com",
-      "telephone":" +43 / 5283 / 2800"
+      "telephone":" +43 / 5283 / 2800",
+      "contactType":"customer support"
     },
     "hasOfferCatalog": {
       "@type": "OfferCatalog",

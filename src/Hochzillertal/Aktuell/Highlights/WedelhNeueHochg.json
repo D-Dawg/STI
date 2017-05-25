@@ -8,13 +8,13 @@
     "itemOffered":{
       "@type":"Service",
       "name":"In Vino Veritas",
-      "description":"Weinverkostungen im höchst gelegenen Weinkeller der Alpen auf Anfrage, Mindestteilnehmerzahl 6 Personen Wein & Käse",
-      "priceSpecification":{
-        "@type":"UnitPriceSpecification",
-        "price":"42.00",
-        "priceCurrency":"EUR",
-        "unitCode":"IE"
-      }
+      "description":"Weinverkostungen im höchst gelegenen Weinkeller der Alpen auf Anfrage, Mindestteilnehmerzahl 6 Personen Wein & Käse"
+    },
+    "priceSpecification":{
+      "@type":"UnitPriceSpecification",
+      "price":"42.00",
+      "priceCurrency":"EUR",
+      "unitCode":"IE"
     }
   }
 }

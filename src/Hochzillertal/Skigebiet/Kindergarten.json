@@ -6,14 +6,15 @@
   "openingHoursSpecification":{
     "@type":"OpeningHoursSpecification",
     "validFrom":"2016-12-17",
-    "validTrough":"2017-04-17",
+    "validThrough":"2017-04-17",
     "opens":"09:00",
     "closes":"16:00"
   },
   "contactPoint":{
     "@type":"ContactPoint",
     "telephone":"+43 5283 28745",
-    "description":"Unbedingt 1 Tag vorher im Zwergerl Club anrufen"
+    "description":"Unbedingt 1 Tag vorher im Zwergerl Club anrufen",
+    "contactType":"customer support"
   },
   "image":"http://www.hochzillertal.com/wp-content/uploads/JOE0832_A.jpg",
   "hasOfferCatalog":{
@@ -37,7 +38,7 @@
         "priceCurrency":"EUR",
         "description":"1/2 Tag excl. Mittagessen",
         "validFrom":"09:00",
-        "validTrough":"13:00"
+        "validThrough":"13:00"
       },
       {
         "@type":"PriceSpecification",
@@ -45,7 +46,7 @@
         "priceCurrency":"EUR",
         "description":"1/2 Tag excl. Mittagessen",
         "validFrom":"12:00",
-        "validTrough":"16:00"
+        "validThrough":"16:00"
       },
       {
         "@type":"PriceSpecification",
@@ -53,7 +54,7 @@
         "priceCurrency":"EUR",
         "description":"1 Tag incl. Mittagessen",
         "validFrom":"09:00",
-        "validTrough":"16:00"
+        "validThrough":"16:00"
       },
       {
         "@type":"PriceSpecification",

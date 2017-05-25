@@ -1,7 +1,7 @@
 [
   {
     "@context": "http://schema.org",
-    "@type":"Organisation",
+    "@type":"Organization",
     "name":"Ski-optimal.at Hochzillertal/Kaltenbach",
     "contactPoint":{
       "email":"info@hochzillertal.com",
@@ -68,7 +68,7 @@
   },
   {
     "@context": "http://schema.org",
-    "@type":"Organisation",
+    "@type":"Organization",
     "name":"Ski-optimal.at Hochzillertal/Kaltenbach",
     "contactPoint":{
       "email":"info@hochzillertal.com",
@@ -135,7 +135,7 @@
   },
   {
     "@context": "http://schema.org",
-    "@type":"Organisation",
+    "@type":"Organization",
     "name":"Ski-optimal.at Hochzillertal/Kaltenbach",
     "contactPoint":{
       "email":"info@hochzillertal.com",
@@ -203,7 +203,7 @@
   },
   {
     "@context": "http://schema.org",
-    "@type":"Organisation",
+    "@type":"Organization",
     "name":"Ski-optimal.at Hochzillertal/Kaltenbach",
     "contactPoint":{
       "email":"info@hochzillertal.com",

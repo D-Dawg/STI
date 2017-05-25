@@ -1,19 +1,24 @@
 [
   {
+    "@context": "http://schema.org",
     "@type":"VideoObject",
-    "name": "SKi-optimal Hochzillertal 2015",
-    "contentUrl": "https://youtu.be/ojDcvXvl2tQ"
+    "name": "SKi-optimal",
+    "thumbnailUrl": "https://youtu.be/ojDcvXvl2tQ",
+    "description":"Hochzillertal 2015"
   },
   {
     "@context": "http://schema.org",
     "@type":"VideoObject",
-    "name": "Skigebier Hochzillertal-Hochfügen | Die Highlights",
-    "contentUrl": "https://youtu.be/ofGHMoum7BU"
+    "name": "Skigebiet Hochzillertal-Hochfügen",
+    "thumbnailUrl": "https://youtu.be/ofGHMoum7BU",
+    "description":"Die Highlights"
   },
   {
+    "@context": "http://schema.org",
     "@type":"VideoObject",
-    "name": "Winzer Wedelcup 2015 im Skigebiet Hochzillertal",
-    "contentUrl": "https://youtu.be/ofGHMoum7BU"
+    "name": "Winzer Wedelcup ",
+    "thumbnailUrl": "https://youtu.be/ofGHMoum7BU",
+    "description":"2015 im Skigebiet Hochzillertal"
   }
 ]
 

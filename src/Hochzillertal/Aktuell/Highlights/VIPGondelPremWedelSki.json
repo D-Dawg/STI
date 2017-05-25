@@ -13,16 +13,16 @@
         "opens":"11:00",
         "closes":"11:30",
         "dayOfWeek":"Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday"
-      },
-      "priceSpecification":{
-        "@type":"PriceSpecification",
-        "eligibleQuantity":{
-          "@type": "QuantitativeValue",
-          "value":"2"
-        },
-        "price":"195",
-        "priceCurrency":"EUR",
       }
+    },
+    "priceSpecification":{
+      "@type":"PriceSpecification",
+      "eligibleQuantity":{
+        "@type": "QuantitativeValue",
+        "value":"2"
+      },
+      "price":"195",
+      "priceCurrency":"EUR"
     }
   }
 }
