@@ -1,19 +1,27 @@
-[
-  {
-    "@type":"VideoObject",
-    "name": "SKi-optimal Hochzillertal 2015",
-    "contentUrl": "https://youtu.be/ojDcvXvl2tQ"
+{
+  "@context":"schema.org",
+  "@type":"SportsActivityLocation",
+  "contactPoint":{
+    "@type":"ContactPoint",
+    "contactType":"customer support",
+    "telephone":" 04784 632 ",
+    "email":"info@ankogel-ski.at"
   },
-  {
-    "@context": "http://schema.org",
-    "@type":"VideoObject",
-    "name": "Skigebier Hochzillertal-Hochfügen | Die Highlights",
-    "contentUrl": "https://youtu.be/ofGHMoum7BU"
-  },
-  {
-    "@type":"VideoObject",
-    "name": "Winzer Wedelcup 2015 im Skigebiet Hochzillertal",
-    "contentUrl": "https://youtu.be/ofGHMoum7BU"
+  "event":{
+    "@type":"Event",
+    "name": "Sommersaison",
+    "offers":{
+      "@type":"Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "hoursAvailable": {
+          "@type": "OpeningHoursSpecification",
+          "opens": "08:30",
+          "closes": "16:30",
+          "validFrom": "2017-06-25",
+          "validThrough": "2017-09-24"
+        }
+      }
+    }
   }
-]
-
+}

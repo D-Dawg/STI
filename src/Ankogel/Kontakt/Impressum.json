@@ -23,11 +23,6 @@
         "value":"19797p"
       }
     ],
-  "memberOf":{
-    "@type": "Organization",
-    "name":"Reisebüro Hochzillertal",
-    "url":"https://www.wkoecg.at/Web/Ecg.aspx?FirmaID=ff4c7645-98e2-4cdc-b98d-a96193a7a5d2"
-  },
   "areaServed":[{
       "@type":"AdministrativeArea",
       "name":"Tourismus- und Freizeitwirtschaft"

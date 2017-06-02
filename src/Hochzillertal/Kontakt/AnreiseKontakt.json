@@ -24,7 +24,15 @@
       "@type":"OpeningHoursSpecification",
       "opens":"7:30:00",
       "closes":"16:00:00",
-      "dayOfWeek":"Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday",
+      "dayOfWeek":[
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
       "validTrough":"2017-04-23"
     },
     {
