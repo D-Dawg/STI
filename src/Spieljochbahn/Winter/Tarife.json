@@ -1,0 +1,414 @@
+{
+  "@context": "http://schema.org",
+  "@type":"Organization",
+  "name":"Spieljochbahn",
+  "contactPoint":{
+    "email":"info@spieljochbahn.at",
+    "telephone":"+43 5288 62991",
+    "contactType":"customer support"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "name": "Tageskarten Spieljochbahn",
+        "itemOffered": {
+          "@type": "Service",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "validThrough": "2018-04-08"
+          },
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Erwachsene",
+            "requiredMinAge": "19"
+          }
+        },
+        "priceSpecification": [
+          {
+            "@type": "UnitPriceSpecification",
+            "name": "ohne Gästekarte",
+            "unitCode": "IE",
+            "price": "52.50",
+            "priceCurrency": "EUR",
+            "validFrom": "T07:30"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "name": "ohne Gästekarte",
+            "unitCode": "IE",
+            "price": "47.00",
+            "priceCurrency": "EUR",
+            "validFrom": "T10:50"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "name": "ohne Gästekarte",
+            "unitCode": "IE",
+            "price": "38.00",
+            "priceCurrency": "EUR",
+            "validFrom": "T11:50"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "name": "ohne Gästekarte",
+            "unitCode": "IE",
+            "price": "34.00",
+            "priceCurrency": "EUR",
+            "validFrom": "T12:50"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "name": "ohne Gästekarte",
+            "unitCode": "IE",
+            "price": "26.50",
+            "priceCurrency": "EUR",
+            "validFrom": "T13:50"
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "name": "ohne Gästekarte",
+            "unitCode":"IE",
+            "price":"77.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"1.5"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "name":"ohne Gästekarte",
+            "unitCode": "IE",
+            "price": "21.50",
+            "priceCurrency": "EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Berg/Tal",
+              "value":"1"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "name":"ohne Gästekarte",
+            "unitCode": "IE",
+            "price": "47.00",
+            "priceCurrency": "EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Berg/Tal",
+              "value":"3"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "name":"ohne Gästekarte",
+            "unitCode": "IE",
+            "price": "87.00",
+            "priceCurrency": "EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Berg/Tal",
+              "value":"6"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "name": "mit Gästekarte",
+            "unitCode": "IE",
+            "price": "51.50",
+            "priceCurrency": "EUR",
+            "validFrom": "T07:30"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "name": "mit Gästekarte",
+            "unitCode": "IE",
+            "price": "46.00",
+            "priceCurrency": "EUR",
+            "validFrom": "T10:50"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "name": "mit Gästekarte",
+            "unitCode": "IE",
+            "price": "37.00",
+            "priceCurrency": "EUR",
+            "validFrom": "T11:50"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "name": "mit Gästekarte",
+            "unitCode": "IE",
+            "price": "33.00",
+            "priceCurrency": "EUR",
+            "validFrom": "T12:50"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "name": "mit Gästekarte",
+            "unitCode": "IE",
+            "price": "25.50",
+            "priceCurrency": "EUR",
+            "validFrom": "T13:50"
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "name": "mit Gästekarte",
+            "unitCode":"IE",
+            "price":"76.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"1.5"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "name": "mit Gästekarte",
+            "unitCode": "IE",
+            "price": "20.50",
+            "priceCurrency": "EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Berg/Tal",
+              "value":"1"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "name": "mit Gästekarte",
+            "unitCode": "IE",
+            "price": "45.00",
+            "priceCurrency": "EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Berg/Tal",
+              "value":"3"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "name": "mit Gästekarte",
+            "unitCode": "IE",
+            "price": "84.00",
+            "priceCurrency": "EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Berg/Tal",
+              "value":"6"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Offer",
+        "name": "Tageskarten Spieljochbahn",
+        "itemOffered": {
+          "@type": "Service",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "validThrough": "2018-04-08"
+          },
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Jugend",
+            "requiredMinAge": "15",
+            "requiredMaxAge": "18"
+          }
+        },
+        "priceSpecification": [
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "42.00",
+            "priceCurrency": "EUR",
+            "validFrom": "T07:30"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "37.50",
+            "priceCurrency": "EUR",
+            "validFrom": "T10:50"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "30.50",
+            "priceCurrency": "EUR",
+            "validFrom": "T11:50"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "27.50",
+            "priceCurrency": "EUR",
+            "validFrom": "T12:50"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "21.00",
+            "priceCurrency": "EUR",
+            "validFrom": "T13:50"
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"62.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"1.5"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "17.00",
+            "priceCurrency": "EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Berg/Tal",
+              "value":"1"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "37.50",
+            "priceCurrency": "EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Berg/Tal",
+              "value":"3"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "69.50",
+            "priceCurrency": "EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Berg/Tal",
+              "value":"6"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Offer",
+        "name": "Tageskarten Spieljochbahn",
+        "itemOffered": {
+          "@type": "Service",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "validThrough": "2018-04-08"
+          },
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Kinder",
+            "requiredMinAge": "6",
+            "requiredMaxAge": "14"
+          }
+        },
+        "priceSpecification": [
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "23.50",
+            "priceCurrency": "EUR",
+            "validFrom": "T07:30"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "21.00",
+            "priceCurrency": "EUR",
+            "validFrom": "T10:50"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "17.00",
+            "priceCurrency": "EUR",
+            "validFrom": "T11:50"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "15.50",
+            "priceCurrency": "EUR",
+            "validFrom": "T12:50"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "12.00",
+            "priceCurrency": "EUR",
+            "validFrom": "T13:50"
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"35.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"1.5"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "9.50",
+            "priceCurrency": "EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Berg/Tal",
+              "value":"1"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "21.00",
+            "priceCurrency": "EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Berg/Tal",
+              "value":"3"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "39.00",
+            "priceCurrency": "EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Berg/Tal",
+              "value":"6"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
+
+
+
+
+
