@@ -1,9 +1,3 @@
-Nachtskilauf
-http://www.hochzillertal.com/preise/nachtskilauf/
-Skigebiet --> Nachtskilauf
 
 
-Gewinnspiel
-
-BuyTicket
-
+Preise --> Saisonkarte Top Ski könnte audience wohl aufgeteilt werden...

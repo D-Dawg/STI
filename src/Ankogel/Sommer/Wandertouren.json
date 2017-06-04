@@ -1,28 +1,60 @@
 [
   {
     "@context": "http://schema.org",
-    "@type": "Restaurant",
-    "name": "Kristallhütte",
-    "description":"Top of the Mountain since 2005",
-    "image":"http://www.hochzillertal.com/wp-content/uploads/DSC01518.jpg",
-    "url":"http://www.hochzillertal.com/huetten/kristallhuette/"
-  },{
-    "@type": "Restaurant",
-    "name": "Wedelhütte",
-    "description":"Die höchstgelegene 5-Sterne-Hütte der Alpen",
-    "image":"http://www.hochzillertal.com/wp-content/uploads/Wedelh%C3%BCtte-mit-Schrift-und-Logo2.jpg",
-    "url":"http://www.hochzillertal.com/huetten/wedelhuette/"
-  },{
-    "@type": "Restaurant",
-    "name": "Marendalm",
-    "description":"Kulinarische Höchstgenüsse direkt neben der Piste – familienfreundlich und mit großer Sonnenlounge",
-    "image":"http://www.hochzillertal.com/wp-content/uploads/HZ_000113.jpg",
-    "url":"http://www.hochzillertal.com/huetten/marendalm/"
-  },{
-    "@type": "Restaurant",
-    "name": "Firnhütte",
-    "description":"Der neue Geheimtipp bei der Neuhütten 6er Sesselbahn",
-    "image":"http://www.hochzillertal.com/wp-content/uploads/IMG_3794.jpg",
-    "url":"http://www.hochzillertal.com/huetten/firnhuette/"
+    "@type": "SportsActivityLocation",
+    "name": "Ausgangspunkt: Talstation Ankogelbahn",
+    "description":"Vorbei am Stappitzer-See (Vogelbeobachtungs-Station, Schautafeln), weiter Naturlehrweg mit den einzelnen Haltepunkten (naturkundliche Besonderheiten) zur Schwussner Hütte.",
+    "amenityFeature":
+      {
+        "@type":"LocationFeatureSpecification",
+        "name":"Gehzeit hin und retour",
+        "value":"2.5",
+        "unitCode":"HUR"
+      }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "SportsActivityLocation",
+    "name": "Ausgangspunkt: Mittelstation Ankogelbahn",
+    "amenityFeature":[
+      {
+        "@type":"LocationFeatureSpecification",
+        "name":"Römerweg zum Hohen- oder Korntauern (Tauernsee) nach Böckstein",
+        "value":"5.5",
+        "unitCode":"HUR"
+      },
+      {
+        "@type":"LocationFeatureSpecification",
+        "name":"Tauern-Höhenweg ab dem Hohen- oder Korntauern über die Mindener-Hütte, entweder Abstieg in den Ort Mallnitz "
+      },
+      {
+        "@type":"LocationFeatureSpecification",
+        "name":"Tauern-Höhenweg über die Hagener Hütte – Feldseescharte – Duisburger Hütte – Fraganter Scharte auf den Sonnblick zu gelangen."
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "SportsActivityLocation",
+    "name": "Ausgangspunkt: Bergstation Ankogelbahn",
+    "description":"Ausgangspunkt für den Tauern-Höhenweg in Richtung Mölltaler Gletscher",
+    "amenityFeature":[
+      {
+        "@type":"LocationFeatureSpecification",
+        "name":"über den Goslaer Weg hin und retour zur Ankogelbahn",
+        "value":"3",
+        "unitCode":"HUR"
+      },
+      {
+        "@type":"LocationFeatureSpecification",
+        "name":"Höhenweg von der Bergstation oder vom Hannover Haus über die Großelendscharte zur Osnabrücker Hütte",
+        "value":"4",
+        "unitCode":"HUR"
+      },
+      {
+        "@type":"LocationFeatureSpecification",
+        "name":"Bergstation – Abstieg über die Celler Hütte Pleschischg zur Schwussner Hütte"
+      }
+    ]
   }
 ]

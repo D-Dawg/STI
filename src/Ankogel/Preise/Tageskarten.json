@@ -1,272 +1,184 @@
 [
   {
     "@context": "http://schema.org",
-    "@type":"Organization",
-    "name":"Ski-optimal.at Hochzillertal/Kaltenbach",
-    "contactPoint":{
-      "email":"info@hochzillertal.com",
-      "telephone":" +43 / 5283 / 2800"
-    },
-    "hasOfferCatalog":{
-      "@type":"OfferCatalog",
-      "itemListElement":{
-        "@type":"Offer",
-        "name":"Einzelfahrten Ski Optimal",
-        "description": "Nur für die Fahrt mit der Einseilumlaufbahn! Nur für Fußgänger oder Langläufer: jeweils nur 1 x Berg- und Talfahrt pro Tag!",
-        "itemOffered": {
-          "@type": "Service",
-          "hoursAvailable": {
-            "@type": "OpeningHoursSpecification",
-            "validThrough": "2018-04-15"
-          },
-          "audience":{
-            "@type": "PeopleAudience",
-            "audienceType":"Erwachsene",
-            "requiredMinAge":"19"
-          }
-        },
-        "priceSpecification": [
-          {
-            "@type":"UnitPriceSpecification",
-            "unitCode":"IE",
-            "price":"21.50",
-            "priceCurrency":"EUR",
-            "eligibleQuantity":{
-              "@type":"QuantitativeValue",
-              "unitCode":"Berg/Talfahrt",
-              "unitText":"Berg/Talfahrt",
-              "value":"1"
-            }
-          },
-          {
-            "@type":"UnitPriceSpecification",
-            "unitCode":"IE",
-            "price":"47.00",
-            "priceCurrency":"EUR",
-            "eligibleQuantity":{
-              "@type":"QuantitativeValue",
-              "unitCode":"Berg/Talfahrt",
-              "unitText":"Berg/Talfahrt",
-              "value":"3"
-            }
-          },
-          {
-            "@type":"UnitPriceSpecification",
-            "unitCode":"IE",
-            "price":"87.00",
-            "priceCurrency":"EUR",
-            "eligibleQuantity":{
-              "@type":"QuantitativeValue",
-              "unitCode":"Berg/Talfahrt",
-              "unitText":"Berg/Talfahrt",
-              "value":"6"
-            }
-          }
-        ]
+    "@type":"Offer",
+    "name":"Tageskarten",
+    "itemOffered": {
+      "@type": "Service",
+      "hoursAvailable": {
+        "@type": "OpeningHoursSpecification",
+        "validThrough": "2018-04-02",
+        "validFrom":"2017-12-16"
+      },
+      "audience":{
+        "@type": "PeopleAudience",
+        "audienceType":"Erwachsene",
+        "requiredMinAge":"19"
       }
-    }
+    },
+    "priceSpecification": [
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "46.50",
+        "priceCurrency": "EUR",
+        "validFrom": "T08:30"
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "41.00",
+        "priceCurrency": "EUR",
+        "validFrom": "T11:00"
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "38.00",
+        "priceCurrency": "EUR",
+        "validFrom": "T12:00"
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "31.00",
+        "priceCurrency": "EUR",
+        "validFrom": "T13:00"
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "23.50",
+        "priceCurrency": "EUR",
+        "validFrom": "T14:00"
+      }
+    ]
   },
   {
     "@context": "http://schema.org",
-    "@type":"Organization",
-    "name":"Ski-optimal.at Hochzillertal/Kaltenbach",
-    "contactPoint":{
-      "email":"info@hochzillertal.com",
-      "telephone":" +43 / 5283 / 2800"
-    },
-    "hasOfferCatalog":{
-      "@type":"OfferCatalog",
-      "itemListElement":{
-        "@type":"Offer",
-        "name":"Einzelfahrten Ski Optimal",
-        "description": "Nur für die Fahrt mit der Einseilumlaufbahn! Nur für Fußgänger oder Langläufer: jeweils nur 1 x Berg- und Talfahrt pro Tag!",
-        "itemOffered": {
-          "@type": "Service",
-          "hoursAvailable": {
-            "@type": "OpeningHoursSpecification",
-            "validThrough": "2018-04-15"
-          },
-          "audience": {
-            "@type": "PeopleAudience",
-            "audienceType": "Erwachsene mit Gästekarte",
-            "requiredMinAge": "19"
-          }
-        },
-        "priceSpecification": [
-          {
-            "@type":"UnitPriceSpecification",
-            "unitCode":"IE",
-            "price":"20.50",
-            "priceCurrency":"EUR",
-            "eligibleQuantity":{
-              "@type":"QuantitativeValue",
-              "unitCode":"Berg/Talfahrt",
-              "unitText":"Berg/Talfahrt",
-              "value":"1"
-            }
-          },
-          {
-            "@type":"UnitPriceSpecification",
-            "unitCode":"IE",
-            "price":"45.00",
-            "priceCurrency":"EUR",
-            "eligibleQuantity":{
-              "@type":"QuantitativeValue",
-              "unitCode":"Berg/Talfahrt",
-              "unitText":"Berg/Talfahrt",
-              "value":"3"
-            }
-          },
-          {
-            "@type":"UnitPriceSpecification",
-            "unitCode":"IE",
-            "price":"84.00",
-            "priceCurrency":"EUR",
-            "eligibleQuantity":{
-              "@type":"QuantitativeValue",
-              "unitCode":"Berg/Talfahrt",
-              "unitText":"Berg/Talfahrt",
-              "value":"6"
-            }
-          }
-        ]
+    "@type":"Offer",
+    "name":"Tageskarten",
+    "itemOffered": {
+      "@type": "Service",
+      "hoursAvailable": {
+        "@type": "OpeningHoursSpecification",
+        "validThrough": "2018-04-02",
+        "validFrom":"2017-12-16"
+      },
+      "audience":{
+        "@type": "PeopleAudience",
+        "audienceType":"Kinder",
+        "requiredMaxAge":"18",
+        "requiredMinAge":"6"
       }
-    }
+    },
+    "priceSpecification": [
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "24.00",
+        "priceCurrency": "EUR",
+        "validFrom": "T08:30"
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "20.50",
+        "priceCurrency": "EUR",
+        "validFrom": "T11:00"
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "19.00",
+        "priceCurrency": "EUR",
+        "validFrom": "T12:00"
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "15.50",
+        "priceCurrency": "EUR",
+        "validFrom": "T13:00"
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "11.50",
+        "priceCurrency": "EUR",
+        "validFrom": "T14:00"
+      }
+    ]
   },
   {
     "@context": "http://schema.org",
-    "@type":"Organization",
-    "name":"Ski-optimal.at Hochzillertal/Kaltenbach",
-    "contactPoint":{
-      "email":"info@hochzillertal.com",
-      "telephone":" +43 / 5283 / 2800"
-    },
-    "hasOfferCatalog":{
-      "@type":"OfferCatalog",
-      "itemListElement":{
-        "@type":"Offer",
-        "name":"Einzelfahrten Ski Optimal",
-        "description": "Nur für die Fahrt mit der Einseilumlaufbahn! Nur für Fußgänger oder Langläufer: jeweils nur 1 x Berg- und Talfahrt pro Tag!",
-        "itemOffered": {
-          "@type": "Service",
-          "hoursAvailable": {
-            "@type": "OpeningHoursSpecification",
-            "validThrough": "2018-04-15"
-          },
-          "audience": {
-            "@type": "PeopleAudience",
-            "audienceType": "Jugend",
-            "requiredMinAge": "15",
-            "requiredMaxAge": "18"
-          }
-        },
-        "priceSpecification": [
-          {
-            "@type":"UnitPriceSpecification",
-            "unitCode":"IE",
-            "price":"17.00",
-            "priceCurrency":"EUR",
-            "eligibleQuantity":{
-              "@type":"QuantitativeValue",
-              "unitCode":"Berg/Talfahrt",
-              "unitText":"Berg/Talfahrt",
-              "value":"1"
-            }
-          },
-          {
-            "@type":"UnitPriceSpecification",
-            "unitCode":"IE",
-            "price":"37.50",
-            "priceCurrency":"EUR",
-            "eligibleQuantity":{
-              "@type":"QuantitativeValue",
-              "unitCode":"Berg/Talfahrt",
-              "unitText":"Berg/Talfahrt",
-              "value":"3"
-            }
-          },
-          {
-            "@type":"UnitPriceSpecification",
-            "unitCode":"IE",
-            "price":"69.50",
-            "priceCurrency":"EUR",
-            "eligibleQuantity":{
-              "@type":"QuantitativeValue",
-              "unitCode":"Berg/Talfahrt",
-              "unitText":"Berg/Talfahrt",
-              "value":"6"
-            }
-          }
-        ]
+    "@type":"Offer",
+    "name":"Tageskarten",
+    "itemOffered": {
+      "@type": "Service",
+      "name":"Tarife nur für Köfelelifte 2016 (Schlepplifte in der Talstation)",
+      "hoursAvailable": {
+        "@type": "OpeningHoursSpecification",
+        "validThrough": "2018-04-02",
+        "validFrom":"2017-12-16"
+      },
+      "audience":{
+        "@type": "PeopleAudience",
+        "audienceType":"Erwachsene",
+        "requiredMinAge":"19"
       }
-    }
+    },
+    "priceSpecification": [
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "30.00",
+        "priceCurrency": "EUR",
+        "validFrom": "T08:30"
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "24.00",
+        "priceCurrency": "EUR",
+        "validFrom": "T12:00"
+      }
+    ]
   },
   {
     "@context": "http://schema.org",
-    "@type":"Organization",
-    "name":"Ski-optimal.at Hochzillertal/Kaltenbach",
-    "contactPoint":{
-      "email":"info@hochzillertal.com",
-      "telephone":" +43 / 5283 / 2800"
-    },
-    "hasOfferCatalog":{
-      "@type":"OfferCatalog",
-      "itemListElement":{
-        "@type":"Offer",
-        "name":"Einzelfahrten Ski Optimal",
-        "description": "Nur für die Fahrt mit der Einseilumlaufbahn! Nur für Fußgänger oder Langläufer: jeweils nur 1 x Berg- und Talfahrt pro Tag!",
-        "itemOffered": {
-          "@type": "Service",
-          "hoursAvailable": {
-            "@type": "OpeningHoursSpecification",
-            "validThrough": "2018-04-15"
-          },
-          "audience": {
-            "@type": "PeopleAudience",
-            "audienceType": "Kinder",
-            "requiredMinAge": "6",
-            "requiredMaxAge": "14"
-          }
-        },
-        "priceSpecification": [
-          {
-            "@type":"UnitPriceSpecification",
-            "unitCode":"IE",
-            "price":"9.50",
-            "priceCurrency":"EUR",
-            "eligibleQuantity":{
-              "@type":"QuantitativeValue",
-              "unitCode":"Berg/Talfahrt",
-              "unitText":"Berg/Talfahrt",
-              "value":"1"
-            }
-          },
-          {
-            "@type":"UnitPriceSpecification",
-            "unitCode":"IE",
-            "price":"21.00",
-            "priceCurrency":"EUR",
-            "eligibleQuantity":{
-              "@type":"QuantitativeValue",
-              "unitCode":"Berg/Talfahrt",
-              "unitText":"Berg/Talfahrt",
-              "value":"3"
-            }
-          },
-          {
-            "@type":"UnitPriceSpecification",
-            "unitCode":"IE",
-            "price":"39.00",
-            "priceCurrency":"EUR",
-            "eligibleQuantity":{
-              "@type":"QuantitativeValue",
-              "unitCode":"Berg/Talfahrt",
-              "unitText":"Berg/Talfahrt",
-              "value":"6"
-            }
-          }
-        ]
+    "@type":"Offer",
+    "name":"Tageskarten",
+    "itemOffered": {
+      "@type": "Service",
+      "name":"Tarife nur für Köfelelifte 2016 (Schlepplifte in der Talstation)",
+      "hoursAvailable": {
+        "@type": "OpeningHoursSpecification",
+        "validThrough": "2018-04-02",
+        "validFrom":"2017-12-16"
+      },
+      "audience":{
+        "@type": "PeopleAudience",
+        "audienceType":"Kinder",
+        "requiredMaxAge":"18",
+        "requiredMinAge":"6"
       }
-    }
+    },
+    "priceSpecification": [
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "15.00",
+        "priceCurrency": "EUR",
+        "validFrom": "T08:30"
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "12.00",
+        "priceCurrency": "EUR",
+        "validFrom": "T12:00"
+      }
+    ]
   }
 ]

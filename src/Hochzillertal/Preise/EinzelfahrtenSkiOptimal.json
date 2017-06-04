@@ -34,7 +34,6 @@
             "priceCurrency":"EUR",
             "eligibleQuantity":{
               "@type":"QuantitativeValue",
-              "unitCode":"Berg/Talfahrt",
               "unitText":"Berg/Talfahrt",
               "value":"1"
             }
@@ -46,7 +45,6 @@
             "priceCurrency":"EUR",
             "eligibleQuantity":{
               "@type":"QuantitativeValue",
-              "unitCode":"Berg/Talfahrt",
               "unitText":"Berg/Talfahrt",
               "value":"3"
             }
@@ -58,7 +56,6 @@
             "priceCurrency":"EUR",
             "eligibleQuantity":{
               "@type":"QuantitativeValue",
-              "unitCode":"Berg/Talfahrt",
               "unitText":"Berg/Talfahrt",
               "value":"6"
             }
@@ -102,7 +99,6 @@
             "priceCurrency":"EUR",
             "eligibleQuantity":{
               "@type":"QuantitativeValue",
-              "unitCode":"Berg/Talfahrt",
               "unitText":"Berg/Talfahrt",
               "value":"1"
             }
@@ -114,7 +110,6 @@
             "priceCurrency":"EUR",
             "eligibleQuantity":{
               "@type":"QuantitativeValue",
-              "unitCode":"Berg/Talfahrt",
               "unitText":"Berg/Talfahrt",
               "value":"3"
             }
@@ -126,7 +121,6 @@
             "priceCurrency":"EUR",
             "eligibleQuantity":{
               "@type":"QuantitativeValue",
-              "unitCode":"Berg/Talfahrt",
               "unitText":"Berg/Talfahrt",
               "value":"6"
             }
@@ -171,7 +165,6 @@
             "priceCurrency":"EUR",
             "eligibleQuantity":{
               "@type":"QuantitativeValue",
-              "unitCode":"Berg/Talfahrt",
               "unitText":"Berg/Talfahrt",
               "value":"1"
             }
@@ -183,7 +176,6 @@
             "priceCurrency":"EUR",
             "eligibleQuantity":{
               "@type":"QuantitativeValue",
-              "unitCode":"Berg/Talfahrt",
               "unitText":"Berg/Talfahrt",
               "value":"3"
             }
@@ -195,7 +187,6 @@
             "priceCurrency":"EUR",
             "eligibleQuantity":{
               "@type":"QuantitativeValue",
-              "unitCode":"Berg/Talfahrt",
               "unitText":"Berg/Talfahrt",
               "value":"6"
             }
@@ -240,7 +231,6 @@
             "priceCurrency":"EUR",
             "eligibleQuantity":{
               "@type":"QuantitativeValue",
-              "unitCode":"Berg/Talfahrt",
               "unitText":"Berg/Talfahrt",
               "value":"1"
             }
@@ -252,7 +242,6 @@
             "priceCurrency":"EUR",
             "eligibleQuantity":{
               "@type":"QuantitativeValue",
-              "unitCode":"Berg/Talfahrt",
               "unitText":"Berg/Talfahrt",
               "value":"3"
             }
@@ -264,7 +253,6 @@
             "priceCurrency":"EUR",
             "eligibleQuantity":{
               "@type":"QuantitativeValue",
-              "unitCode":"Berg/Talfahrt",
               "unitText":"Berg/Talfahrt",
               "value":"6"
             }

@@ -1,34 +1,26 @@
 [
   {
     "@context": "http://schema.org",
-    "@type":"Event",
-    "name": "The best connection",
-    "url": "http://www.hochzillertal.com/ski/the-best-connection/"
+    "@type":"DigitalDocument",
+    "name": "Sommer Folder 2017",
+    "thumbnailUrl": "http://www.ankogel-ski.at/wp-content/uploads/Sommerkarte-Ankogel-2017-Ansicht-v3.pdf"
   },
   {
     "@context": "http://schema.org",
-    "@type":"Event",
-    "name": "Top-Ski Wochen",
-    "url": "http://www.hochzillertal.com/ski/top-ski-wochen/"
+    "@type":"DigitalDocument",
+    "name": "Mölltaler Gletscher und Ankogel 2016/17",
+    "thumbnailUrl": "http://www.gletscher.co.at/wp-content/uploads/Tages-und-Mehrtageskarten-Skihit-16_17-DE-FIX.pdf"
   },
   {
     "@context": "http://schema.org",
-    "@type":"Event",
-    "name": "Skilauf für Genießer",
-    "url": "http://www.hochzillertal.com/ski/skilauf-fuer-geniesser/"
+    "@type":"DigitalDocument",
+    "name": "Mölltaler Gletscher und Ankogel Deckblatt 2016/17 DE/EN",
+    "thumbnailUrl": "http://www.gletscher.co.at/wp-content/uploads/Deckblatt_engl-16-17_a6.pdf"
   },
   {
     "@context": "http://schema.org",
-    "@type":"Event",
-    "name": "VIP Gondel/Premium Early Bird für Zwei",
-    "image":"http://www.hochzillertal.com/wp-content/uploads/BWM-Linie.jpg",
-    "url": "http://www.hochzillertal.com/ski/skilauf-fuer-geniesser/"
-  },
-  {
-    "@context": "http://schema.org",
-    "@type":"Event",
-    "name": "VIP Gondel/Premium Wedel-Skitag für Zwei",
-    "image":"http://www.hochzillertal.com/wp-content/uploads/20121208_145123.jpg",
-    "url": "http://www.hochzillertal.com/ski/skilauf-fuer-geniesser/"
+    "@type":"DigitalDocument",
+    "name": "Tages- und Mehrtageskarten SkiHit 2016/17 DE",
+    "thumbnailUrl": "http://www.gletscher.co.at/wp-content/uploads/Tages-und-Mehrtageskarten-Skihit-16_17-DE-FIX.pdf"
   }
 ]

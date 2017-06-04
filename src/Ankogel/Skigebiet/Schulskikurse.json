@@ -1,119 +1,306 @@
 [
   {
     "@context": "http://schema.org",
-    "@type":"LocalBusiness",
-    "name":"SPORT STOCK",
-    "url":"http://www.sportstock.at",
-    "telephone":"05283/20161",
-    "address":"direkt in der Talstation der Gondelbahn Hochzillertal!"
+    "@type":"Course",
+    "name":"Schulskikurse",
+    "description":"Unser Anliegen ist es, Schulklassen zu günstigen Preisen das Skifahren in unseren eigenen Skigebieten näher zu bringen.",
+    "hasCourseInstance":[
+      {
+        "@type":"CourseInstance",
+        "name":"Schülerpreise & Aktionswochen",
+        "audience":{
+          "@type":"PeopleAudience",
+          "name":"Höhere Schüler",
+          "requiredMaxAge":"25",
+          "requiredMinAge":"20"
+        },
+        "offers":[
+          {
+            "@type":"Offer",
+            "name":"Aktionswochen",
+            "validFrom":"2016-11-26",
+            "validThrough":"2016-12-17",
+            "priceSpecification":[
+              {
+                "@type":"UnitPriceSpecification",
+                "unitCode":"IE",
+                "price":"59.50",
+                "priceCurrency":"EUR",
+                "eligibleQuantity":{
+                  "@type":"QuantitativeValue",
+                  "unitCode":"DAY",
+                  "unitText":"Day",
+                  "value":"4"
+                }
+              },
+              {
+                "@type":"UnitPriceSpecification",
+                "unitCode":"IE",
+                "price":"74.50",
+                "priceCurrency":"EUR",
+                "eligibleQuantity":{
+                  "@type":"QuantitativeValue",
+                  "unitCode":"DAY",
+                  "unitText":"Day",
+                  "value":"5"
+                }
+              },
+              {
+                "@type":"UnitPriceSpecification",
+                "unitCode":"IE",
+                "price":"85.50",
+                "priceCurrency":"EUR",
+                "eligibleQuantity":{
+                  "@type":"QuantitativeValue",
+                  "unitCode":"DAY",
+                  "unitText":"Day",
+                  "value":"6"
+                }
+              }
+            ]
+          },
+          {
+            "@type":"Offer",
+            "name":"Aktionswochen",
+            "validFrom":"2017-04-01",
+            "validThrough":"2017-05-17",
+            "priceSpecification":[
+              {
+                "@type":"UnitPriceSpecification",
+                "unitCode":"IE",
+                "price":"59.50",
+                "priceCurrency":"EUR",
+                "eligibleQuantity":{
+                  "@type":"QuantitativeValue",
+                  "unitCode":"DAY",
+                  "unitText":"Day",
+                  "value":"4"
+                }
+              },
+              {
+                "@type":"UnitPriceSpecification",
+                "unitCode":"IE",
+                "price":"74.50",
+                "priceCurrency":"EUR",
+                "eligibleQuantity":{
+                  "@type":"QuantitativeValue",
+                  "unitCode":"DAY",
+                  "unitText":"Day",
+                  "value":"5"
+                }
+              },
+              {
+                "@type":"UnitPriceSpecification",
+                "unitCode":"IE",
+                "price":"85.50",
+                "priceCurrency":"EUR",
+                "eligibleQuantity":{
+                  "@type":"QuantitativeValue",
+                  "unitCode":"DAY",
+                  "unitText":"Day",
+                  "value":"6"
+                }
+              }
+            ]
+          },
+          {
+            "@type":"Offer",
+            "name":"Schülerpreis",
+            "priceSpecification":[
+              {
+                "@type":"UnitPriceSpecification",
+                "unitCode":"IE",
+                "price":"85.00",
+                "priceCurrency":"EUR",
+                "eligibleQuantity":{
+                  "@type":"QuantitativeValue",
+                  "unitCode":"DAY",
+                  "unitText":"Day",
+                  "value":"4"
+                }
+              },
+              {
+                "@type":"UnitPriceSpecification",
+                "unitCode":"IE",
+                "price":"106.00",
+                "priceCurrency":"EUR",
+                "eligibleQuantity":{
+                  "@type":"QuantitativeValue",
+                  "unitCode":"DAY",
+                  "unitText":"Day",
+                  "value":"5"
+                }
+              },
+              {
+                "@type":"UnitPriceSpecification",
+                "unitCode":"IE",
+                "price":"122.00",
+                "priceCurrency":"EUR",
+                "eligibleQuantity":{
+                  "@type":"QuantitativeValue",
+                  "unitCode":"DAY",
+                  "unitText":"Day",
+                  "value":"6"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "@context": "http://schema.org",
-    "@type":"LocalBusiness",
-    "name":"SPORT STOCK – IM SKIGEBIET",
-    "telephone":"Tel.: 05283/20161-16"
-  },
-  {
-    "@context": "http://schema.org",
-    "@type":"LocalBusiness",
-    "name":"Skischule Hochzillertal ITS",
-    "email":"skischul-info@hochzillertal.at",
-    "telephone":"05283/2822-0",
-    "faxNumber":"05283/2822-8",
-    "location":{
-      "@type":"PostalAddress",
-      "addressCountry":"AT",
-      "postalCode":"6272",
-      "addressLocality":"Kaltenbach/Talstation"
-    }
-  },
-  {
-    "@context": "http://schema.org",
-    "@type":"LocalBusiness",
-    "name":"SRS Hochzillertal",
-    "description":"Der Rennlaufspezialist im Zillertal",
-    "url":"www.srs-hochzillertal.at",
-    "telephone":"0664 4413072"
-  },
-  {
-    "@context": "http://schema.org",
-    "@type":"LocalBusiness",
-    "name":"SPORTHAUS UNTERLERCHER",
-    "description":"DKaltenbach – Hochfügen – Fügen",
-    "url":"www.sport-unterlercher.at",
-    "location":{
-      "@type":"PostalAddress",
-      "addressCountry":"AT",
-      "postalCode":"6272",
-      "streetAddress":"Kaltenbach 162"
-    },
-    "telephone":"43 (0) 5288/6767 – 700"
-  },
-  {
-    "@context": "http://schema.org",
-    "@type":"LocalBusiness",
-    "name":"RENT & GO",
-    "location":{
-      "@type":"PostalAddress",
-      "addressCountry":"AT",
-      "postalCode":"6272",
-      "addressLocality":"Kaltenbach/Talstation"
-    },
-    "telephone":"05283/29220",
-    "faxNumber":"05283/ 29216"
-  },
-  {
-    "@context": "http://schema.org",
-    "@type":"LocalBusiness",
-    "name":"SPORT PIRCHER",
-    "location":{
-      "@type":"PostalAddress",
-      "addressCountry":"AT",
-      "postalCode":"6272",
-      "addressLocality":"Ried 122"
-    },
-    "telephone":"05283/2226",
-    "faxNumber":"05283/327"
-  },
-  {
-    "@context": "http://schema.org",
-    "@type":"LocalBusiness",
-    "name":"SKIVERLEIH SIGLSTETTER",
-    "location":{
-      "@type":"PostalAddress",
-      "addressCountry":"AT",
-      "postalCode":"6274",
-      "addressLocality":"Aschau 215"
-    },
-    "telephone":"05282/2293",
-    "faxNumber":"05282/4611"
-  },
-  {
-    "@context": "http://schema.org",
-    "@type":"LocalBusiness",
-    "name":"SPORT STOCK",
-    "location":{
-      "@type":"PostalAddress",
-      "addressCountry":"AT",
-      "postalCode":"6272",
-      "addressLocality":"Stumm",
-      "streetAddress":"Koflerweg 28"
-    },
-    "telephone":"05283/2567"
-  },
-  {
-    "@context": "http://schema.org",
-    "@type":"LocalBusiness",
-    "name":"SPORT ELLER",
-    "location":{
-      "@type":"PostalAddress",
-      "addressCountry":"AT",
-      "postalCode":"6272",
-      "addressLocality":"Kaltenbach/Talstation",
-    },
-    "telephone":"05283/2205"
+    "@type":"Course",
+    "name":"Schulskikurse",
+    "description":"Unser Anliegen ist es, Schulklassen zu günstigen Preisen das Skifahren in unseren eigenen Skigebieten näher zu bringen.",
+    "hasCourseInstance":[
+      {
+        "@type":"CourseInstance",
+        "name":"Schülerpreise & Aktionswochen",
+        "audience":{
+          "@type":"PeopleAudience",
+          "name":"Schüler",
+          "requiredMaxAge":"19"
+        },
+        "offers":[
+          {
+            "@type":"Offer",
+            "name":"Aktionswochen",
+            "validFrom":"2016-11-26",
+            "validThrough":"2016-12-17",
+            "priceSpecification":[
+              {
+                "@type":"UnitPriceSpecification",
+                "unitCode":"IE",
+                "price":"51.00",
+                "priceCurrency":"EUR",
+                "eligibleQuantity":{
+                  "@type":"QuantitativeValue",
+                  "unitCode":"DAY",
+                  "unitText":"Day",
+                  "value":"4"
+                }
+              },
+              {
+                "@type":"UnitPriceSpecification",
+                "unitCode":"IE",
+                "price":"60.00",
+                "priceCurrency":"EUR",
+                "eligibleQuantity":{
+                  "@type":"QuantitativeValue",
+                  "unitCode":"DAY",
+                  "unitText":"Day",
+                  "value":"5"
+                }
+              },
+              {
+                "@type":"UnitPriceSpecification",
+                "unitCode":"IE",
+                "price":"72.00",
+                "priceCurrency":"EUR",
+                "eligibleQuantity":{
+                  "@type":"QuantitativeValue",
+                  "unitCode":"DAY",
+                  "unitText":"Day",
+                  "value":"6"
+                }
+              }
+            ]
+          },
+          {
+            "@type":"Offer",
+            "name":"Aktionswochen",
+            "validFrom":"2017-04-01",
+            "validThrough":"2017-05-17",
+            "priceSpecification":[
+              {
+                "@type":"UnitPriceSpecification",
+                "unitCode":"IE",
+                "price":"51.00",
+                "priceCurrency":"EUR",
+                "eligibleQuantity":{
+                  "@type":"QuantitativeValue",
+                  "unitCode":"DAY",
+                  "unitText":"Day",
+                  "value":"4"
+                }
+              },
+              {
+                "@type":"UnitPriceSpecification",
+                "unitCode":"IE",
+                "price":"60.00",
+                "priceCurrency":"EUR",
+                "eligibleQuantity":{
+                  "@type":"QuantitativeValue",
+                  "unitCode":"DAY",
+                  "unitText":"Day",
+                  "value":"5"
+                }
+              },
+              {
+                "@type":"UnitPriceSpecification",
+                "unitCode":"IE",
+                "price":"72.00",
+                "priceCurrency":"EUR",
+                "eligibleQuantity":{
+                  "@type":"QuantitativeValue",
+                  "unitCode":"DAY",
+                  "unitText":"Day",
+                  "value":"6"
+                }
+              }
+            ]
+          },
+          {
+            "@type":"Offer",
+            "name":"Schülerpreis",
+            "priceSpecification":[
+              {
+                "@type":"UnitPriceSpecification",
+                "unitCode":"IE",
+                "price":"71.00",
+                "priceCurrency":"EUR",
+                "eligibleQuantity":{
+                  "@type":"QuantitativeValue",
+                  "unitCode":"DAY",
+                  "unitText":"Day",
+                  "value":"4"
+                }
+              },
+              {
+                "@type":"UnitPriceSpecification",
+                "unitCode":"IE",
+                "price":"86.00",
+                "priceCurrency":"EUR",
+                "eligibleQuantity":{
+                  "@type":"QuantitativeValue",
+                  "unitCode":"DAY",
+                  "unitText":"Day",
+                  "value":"5"
+                }
+              },
+              {
+                "@type":"UnitPriceSpecification",
+                "unitCode":"IE",
+                "price":"103.00",
+                "priceCurrency":"EUR",
+                "eligibleQuantity":{
+                  "@type":"QuantitativeValue",
+                  "unitCode":"DAY",
+                  "unitText":"Day",
+                  "value":"6"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
+
 ]
+
 
 
 
