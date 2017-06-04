@@ -4,9 +4,14 @@
   "name": "Ski-optimal.at Hochzillertal/Kaltenbach",
   "url": "http://www.hochzillertal.com/",
   "logo": "http://www.hochzillertal.com/wp-content/uploads/hozilogo.gif",
-  "telephone": "+43 5283 2800",
-  "faxNumber": "+43 5283 2800 19",
-  "email": "info@hochzillertal.com",
+  "contactPoint":{
+    "@type":"ContactPoint",
+    "telephone": "+43 5283 2800",
+    "faxNumber": "+43 5283 2800 19",
+    "email": "info@hochzillertal.com",
+    "contactType":"customer support"
+  },
+
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Postfeldstraße 7",
