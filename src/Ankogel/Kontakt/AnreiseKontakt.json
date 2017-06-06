@@ -10,7 +10,7 @@
     "@type": "PostalAddress",
     "addressLocality": "Mallnitz",
     "postalCode": "A-9822",
-    "addressCountry": "Aurtria"
+    "addressCountry": "Austria"
   },
   "geo": {
     "@type": "GeoCoordinates",
