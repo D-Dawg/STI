@@ -1,0 +1,14 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "name": "Ski) Hit Special",
+    "url": "http://www.gg-resort.at/?p=2403"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "name": "Snow Fit",
+    "url": "http://www.gg-resort.at/?p=2397"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "CreativeWork",
+    "name": "Sports & Activity",
+    "url": "http://www.gg-resort.at/?page_id=2283",
+    "text": "Rambling on about 1,325 m. Experience the positive effect of the clear mountain air and the healthy climate of East Tyrol. Here you will find in the hustle and bustle of everyday life guarantees the necessary peace and space to relax. East Tyrol them presents with countless hours of sunshine and makes your holiday an experience.",
+    "hasPart": [
+      {
+        "@type": "CreativeWork",
+        "name": "hiking paradise",
+        "image": "http://www.gg-resort.at/wp-content/somm_1bild_bergstation.jpg",
+        "text": "Urlaubsfreuden in Kals a. G. are hiking pleasures. In the quiet, powerful movement of walking, you can easily find yourself, feel your own rhythm and enjoy the heavenly landscape. The carefully protected Naturgut is gently touched only by well-marked routes and trails from easy to demanding. And as always, you move, you will be accompanied by boundless sense of freedom."
+      },
+      {
+        "@type": "CreativeWork",
+        "name": "Kals am Grossglockner",
+        "image": "http://www.gg-resort.at/wp-content/sportt_1bild_wasserfall.jpg",
+        "text": "Kals aG offers about 250 km most beautiful walking and hiking trails in the valley area, in villages, - Teischnitz-, Ködnitz - and Lesachtal and almost unlimited possibilities for alpine summit tours that unforgettable discoveries and experiences in a unique bridge between nature lead and cultural landscape -. 11 managed shelters provide accommodation and meals and are starting points for unforgettable mountain and peak experiences."
+      },
+      {
+        "@type": "CreativeWork",
+        "name": "Matrei",
+        "text": "By experienced hikers up to the Kletterfex or walkers - there is something for everyone! While hiking you can get to know very well the cozy alpine and mountains of the Hohe Tauern. Discover on easy hikes and walks the variety of flora, take an expert guide a climb in Matrei ok with mountaineer or a theme hike (tip: Way of the Senses).."
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "CreativeWork",
+    "name": "Hiking on the wings of the eagle - the Eagle Walk in Osttirol",
+    "url": "http://www.gg-resort.at/?page_id=2283",
+    "text": "The Eagle Walk offers unlimited pleasure of hiking in Tyrol. On a total of 126 stages, of which 20 in Tyrol, about 87,000 meters of altitude can be ascended. On the Eagle Walk East Tyrol, between the Grossglockner and the Grossvenediger, is demanding high-altitude stages alternate with a comfortable valley hike. The hikers are offered on rolling tours of Matrei i. O. in East Tyrol westward into Virgen Valley and east towards the Grossglockner to the stages 01 to 08 scenic delights, full of cultural attractions and cozy mountain huts. The stages 09-020 are true dream paths for climbers. Beyond the 3000 border to get Grossglockner and Großvenediger - Austria's highest peaks - very close. Sophisticated viewing summits to be climbed and some nicks must be crossed - these routes are just for experienced mountaineers. www.adlerweg.at"
+  }
+]

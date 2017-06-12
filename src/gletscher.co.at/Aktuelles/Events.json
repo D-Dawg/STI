@@ -1,0 +1,60 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name": "Kärntner Intersport Opening",
+  "description": "Von Oktober bis Mai bieten wir 100 % Schneesicherheit in der Welt der 3000er. Modernste Liftanlagen führen bis auf 3.122 m und machen jeden Skitag zum Vergnügen. Nicht umsonst trainieren die besten Ski-Nationalteams regelmäßig im Mölltal. Und nach dem Skifahren erwartet dich viel Gemütlichkeit und Gastlichkeit in den Gastlokalen und Hütten.",
+  "startDate": "2016-11-12",
+  "endDate": "2016-11-13",
+  "location": {
+    "@type": "SkiResort",
+    "name": "Mölltaler Gletscherbahnen",
+    "url": "http://www.gletscher.co.at",
+    "logo": "http://www.gletscher.co.at/wp-content/uploads/mglogo.gif",
+    "telephone": "+43 (0) 4785 / 8110",
+    "email": "info@gletscher.co.at",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Flattach",
+      "postalCode": "A-9831",
+      "addressCountry": "Aurtria"
+    }
+  },
+  "organizer": {
+    "@type": "Organization",
+    "name": "Tourismusgemeinschaft Mölltaler Gletscher",
+    "telephone": "+43 (0) 4785 615",
+    "email": "info@flattach.at"
+  },
+  "offers": [
+    {
+      "@type": "Offer",
+      "description": "2 Übernachtungen im Doppelzimmer\r\ninkl. 2 Tagesskipass (Ski Hit). In Privatpension mit Frühstück",
+      "priceSpecification": {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "161.00",
+        "priceCurrency": "EUR"
+      }
+    },
+    {
+      "@type": "Offer",
+      "description": "2 Übernachtungen im Doppelzimmer\r\ninkl. 2 Tagesskipass (Ski Hit). Im Gasthof mit Halbpension ",
+      "priceSpecification": {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "185.00",
+        "priceCurrency": "EUR"
+      }
+    },
+    {
+      "@type": "Offer",
+      "description": "2 Übernachtungen im Doppelzimmer\r\ninkl. 2 Tagesskipass (Ski Hit). Im Hotel mit Halbpension",
+      "priceSpecification": {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "219.00",
+        "priceCurrency": "EUR"
+      }
+    }
+  ]
+}

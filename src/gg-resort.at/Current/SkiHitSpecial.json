@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name": "Ski) Hit Special",
+  "url": "http://www.gg-resort.at/?p=2403",
+  "startDate": "2018-02-03",
+  "endDate": "2018-03-09",
+  "description": "7 nights in the respective category\r\n6-day ski pass Ski) Hit",
+  "location": {
+    "@type": "Place",
+    "name": "Accommodation is in selected private pensions, guesthouses or hotels."
+  },
+  "offers": [
+    {
+      "@type": "Offer",
+      "name": "PRIVATE PENSION",
+      "description": "bed / breakfast with shower / toilet ",
+      "priceSpecification": {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "496.00",
+        "priceCurrency": "EUR"
+      }
+    },
+    {
+      "@type": "Offer",
+      "name": "INNS / HOTELS ***",
+      "description": "with half board ",
+      "priceSpecification": {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "689.00",
+        "priceCurrency": "EUR"
+      }
+    }
+  ]
+}

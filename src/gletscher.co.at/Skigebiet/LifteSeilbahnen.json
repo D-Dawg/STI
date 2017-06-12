@@ -1,0 +1,234 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "SportsActivityLocation",
+    "image": "http://www.gletscher.co.at/wp-content/uploads/Stollenbahn-Wagen-2-NEU.jpg",
+    "name": "Mölltaler Gletscher Express",
+    "amenityFeature": [
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Länge",
+        "value": "4718",
+        "unitCode": "MTR"
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Höhe Berg",
+        "value": "2234",
+        "unitCode": "MTR"
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Höhe Tal",
+        "value": "1222",
+        "unitCode": "MTR"
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "SportsActivityLocation",
+    "image": "http://www.gletscher.co.at/wp-content/uploads/013.jpg",
+    "name": "6er Gondelbahn Eissee",
+    "amenityFeature": [
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Länge",
+        "value": "1775",
+        "unitCode": "MTR"
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Höhe Berg",
+        "value": "2800",
+        "unitCode": "MTR"
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Höhe Tal",
+        "value": "2241",
+        "unitCode": "MTR"
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "SportsActivityLocation",
+    "image": "http://clients.intermaps.com/admin/imgupload/2015_09_23_09_38_08_873_0.jpg",
+    "name": "6er Sesselbahn Gletscher Jet",
+    "amenityFeature": [
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Länge",
+        "value": "1075",
+        "unitCode": "MTR"
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Höhe Berg",
+        "value": "3122",
+        "unitCode": "MTR"
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Höhe Tal",
+        "value": "2717",
+        "unitCode": "MTR"
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "SportsActivityLocation",
+    "image": "http://www.gletscher.co.at/wp-content/uploads/schwarzkopf.jpg",
+    "name": "4er-Sesselbahn Schwarzkopf",
+    "amenityFeature": [
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Länge",
+        "value": "765",
+        "unitCode": "MTR"
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Höhe Berg",
+        "value": "2384",
+        "unitCode": "MTR"
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Höhe Tal",
+        "value": "2108",
+        "unitCode": "MTR"
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "SportsActivityLocation",
+    "image": "http://clients.intermaps.com/admin/imgupload/2015_09_23_09_33_50_686_0.jpg",
+    "name": "4er Sesselbahn Alteck",
+    "amenityFeature": [
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Länge",
+        "value": "851",
+        "unitCode": "MTR"
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Höhe Berg",
+        "value": "2751",
+        "unitCode": "MTR"
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Höhe Tal",
+        "value": "2430",
+        "unitCode": "MTR"
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "SportsActivityLocation",
+    "image": "http://www.gletscher.co.at/wp-content/uploads/300er.jpg",
+    "name": "2er-Sesselbahn 3000er",
+    "amenityFeature": [
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Länge",
+        "value": "1065",
+        "unitCode": "MTR"
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Höhe Berg",
+        "value": "3122",
+        "unitCode": "MTR"
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Höhe Tal",
+        "value": "2716",
+        "unitCode": "MTR"
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "SportsActivityLocation",
+    "image": "http://www.gletscher.co.at/wp-content/uploads/panoramabahn.jpg",
+    "name": "2er-Sesselbahn Panoramabahn",
+    "amenityFeature": [
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Länge",
+        "value": "989",
+        "unitCode": "MTR"
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Höhe Berg",
+        "value": "2795",
+        "unitCode": "MTR"
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Höhe Tal",
+        "value": "2483",
+        "unitCode": "MTR"
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "SportsActivityLocation",
+    "name": "Schlepplift Mittelstation",
+    "amenityFeature": [
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Länge",
+        "value": "300",
+        "unitCode": "MTR"
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Höhe Berg",
+        "value": "2265",
+        "unitCode": "MTR"
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Höhe Tal",
+        "value": "2228",
+        "unitCode": "MTR"
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "SportsActivityLocation",
+    "name": "Schlepplift Stübele",
+    "amenityFeature": [
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Länge",
+        "value": "178",
+        "unitCode": "MTR"
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Höhe Berg",
+        "value": "2261",
+        "unitCode": "MTR"
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Höhe Tal",
+        "value": "2226",
+        "unitCode": "MTR"
+      }
+    ]
+  }
+]

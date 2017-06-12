@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type":"Hotel",
+  "name": "Gradonna Mountain Resort **** s",
+  "image": "http://www.gg-resort.at/wp-content/2016/02/Kals-503-FIN-800x600.jpg",
+  "description":"Nestled in the imposing mountain landscape of East Tyrol, the chalet can beat hotel and exclusive chalets each hiking and skiing heart racing resort with the ****. lend a spa area in each chalet, a spacious spa, pool and sauna area in the hotel, a free Anfängerskigelände in Chalet Resort and direct access to the hiking trails and the Grossglockner ski resort Kals-Matrei 37 km of slopes with private ski pass service in the hotel the guests in the car-free resort a unique environment to relax and unwind. Security and adventure, modernity and tradition, tourism and national park are terms that do not contradict the new **** s Gradonna Mountain Resort in Kals but also provide a new way of holiday-making in line guests.",
+  "url": "https://www.gradonna.at/osttirol/",
+  "containedInPlace" : {
+    "@context": "http://www.schema.org",
+    "@type": "SkiResort",
+    "name": "Großglockner Resort Kals-Matrei",
+    "url": "http://www.gg-resort.at/",
+    "sameAs": [
+      "https://www.facebook.com/ggresort/",
+      "https://twitter.com/schultzgruppe",
+      "https://www.youtube.com/user/SchultzGruppe"
+    ],
+    "logo": "http://www.gg-resort.at/wp-content/logo.png",
+    "image": "http://www.schultz-ski.at/wp-content/uploads/2011/04/Panorama-Kals-Matrei-600x364.jpg",
+    "address": [
+      {
+        "@type": "PostalAddress",
+        "name": "Matreier Goldried Bergbahnen GmbH & Co KG",
+        "streetAddress": "Talstation",
+        "addressLocality": "Matrei in Osttirol",
+        "postalCode": "A-9971",
+        "addressCountry": "Austria",
+        "telephone": "+ 43.4875.6067",
+        "faxNumber": "+ 43.4875.6067.4",
+        "email": "info@matrei-ski.at"
+      },
+      {
+        "@type": "PostalAddress",
+        "name": "Bergbahnen Kals am Großglockner Gmbh & Co KG",
+        "streetAddress": "Großdorf 70",
+        "addressLocality": "Kals am Großglockner",
+        "postalCode": "A-9981",
+        "addressCountry": "Austria",
+        "telephone": "+43.4876.8233",
+        "faxNumber": "+43.4876.8233.10"
+      }
+    ]
+  }
+}

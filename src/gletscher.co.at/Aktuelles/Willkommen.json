@@ -1,0 +1,51 @@
+{
+  "@context": "http://schema.org",
+  "@type": "WebPage",
+  "name": "Mölltaler Gletscher: Erlebnis 3000!",
+  "publisher": {
+    "@type": "SkiResort",
+    "name": "Mölltaler Gletscherbahnen",
+    "url": "http://www.gletscher.co.at/anreise-kontakt/",
+    "review": {
+      "@type": "Review",
+      "author": "Skiresort.de",
+      "datePublished": "2015",
+      "name": "BESTES PANORAMA",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "ratingValue": "5",
+        "worstRating": "1"
+      }
+    }
+  },
+  "significantLink": [
+    "http://www.gletscher.co.at/das-skigebiet/training-skirennen/",
+    "http://www.gletscher.co.at/das-skigebiet/restaurant-eissee/",
+    "http://www.appartementhaus-mentil.info/schischule.htm"
+  ],
+  "hasPart": [
+    {
+      "@type": "CreativeWork",
+      "name": "Pulvergarantie und Schneekompetenz",
+      "text": "ganzjährig Skifahren auf bis zu 3.122 Metern Seehöhe\r\nTop Pistenbedingungen für Trainings / Skirennen\r\nKindertarif bis 18 Jahre\r\nJugendhotel „Eissee“ am Berg\r\nSkiverleih in der Mittelstation"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Interaktives Pisten-Panorama",
+      "text": "Im interaktiven Pistenplan sehen Sie, welche Lift-Anlagen und Skipisten aktuell geöffnet sind.\r\nBitte beachten Sie, dass sich der Status unserer Anlagen mit der Wetterlage jederzeit ändern kann."
+    },
+    {
+      "@type": "VideoObject",
+      "name": "Mölltaler Gletscher - www.skiresort.de",
+      "description": "Die Mölltaler Gletscher Bergbahnen sind mit dem Gütesiegel „Qualität Kärnten“ ausgezeichnet.",
+      "thumbnailUrl": "https://www.youtube.com/watch?v=otV6SDQknvE",
+      "uploadDate": "2010-05-05"
+    }
+  ],
+  "mentions": {
+    "@type": "Event",
+    "name": "Sommersaison",
+    "startDate": "2017-06-15"
+  }
+}

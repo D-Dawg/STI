@@ -1,0 +1,15 @@
+{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "url": "http://www.gletscher.co.at/",
+  "about": {
+    "@type": "SkiResort",
+    "name": "Großglockner Resort Kals-Matrei",
+    "url": "http://www.gg-resort.at/?page_id=2388"
+  },
+  "sameAs": [
+    "https://www.facebook.com/ggresort/",
+    "https://twitter.com/schultzgruppe",
+    "https://www.youtube.com/user/SchultzGruppe"
+  ]
+}

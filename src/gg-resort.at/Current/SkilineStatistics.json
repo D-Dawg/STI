@@ -1,0 +1,11 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Service",
+  "name": "Skiline statistics",
+  "offers": {
+    "@type": "Offer",
+    "name": "Skiline statistics",
+    "description": "Against entering your ski pass number. You get within a few seconds, the altitude diagram of your skiing day!",
+    "url": "http://www.skiline.cc/ticket/kals_goldried"
+  }
+}

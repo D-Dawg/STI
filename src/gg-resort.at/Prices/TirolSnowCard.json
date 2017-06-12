@@ -1,0 +1,84 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "OfferCatalog",
+  "name": "Tirol Snow Card",
+  "url": "http://www.gg-resort.at/?page_id=1379",
+  "itemListElement": [
+    {
+      "@type": "Offer",
+      "name": "Tirol Snow Card",
+      "url": "http://www.snowcard.tirol.at/",
+      "description": "For more information about Tirol Snow Card on snowcard.tirol.at",
+      "itemOffered": {
+        "@type": "Service",
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "adult"
+        }
+      },
+      "priceSpecification": {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "-",
+        "priceCurrency": "EUR"
+      }
+    },
+    {
+      "@type": "Offer",
+      "name": "Tirol Snow Card",
+      "url": "http://www.snowcard.tirol.at/",
+      "description": "For more information about Tirol Snow Card on snowcard.tirol.at",
+      "itemOffered": {
+        "@type": "Service",
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "youth"
+        }
+      },
+      "priceSpecification": {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "-",
+        "priceCurrency": "EUR"
+      }
+    },
+    {
+      "@type": "Offer",
+      "name": "Tirol Snow Card",
+      "url": "http://www.snowcard.tirol.at/",
+      "description": "For more information about Tirol Snow Card on snowcard.tirol.at",
+      "itemOffered": {
+        "@type": "Service",
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "invalid"
+        }
+      },
+      "priceSpecification": {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "-",
+        "priceCurrency": "EUR"
+      }
+    },
+    {
+      "@type": "Offer",
+      "name": "Tirol Snow Card",
+      "url": "http://www.snowcard.tirol.at/",
+      "description": "For more information about Tirol Snow Card on snowcard.tirol.at",
+      "itemOffered": {
+        "@type": "Service",
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "children"
+        }
+      },
+      "priceSpecification": {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "-",
+        "priceCurrency": "EUR"
+      }
+    }
+  ]
+}

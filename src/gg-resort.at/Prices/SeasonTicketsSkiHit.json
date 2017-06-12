@@ -1,0 +1,390 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "OfferCatalog",
+  "name": "Season tickets Ski Hit",
+  "url": "http://www.gg-resort.at/?page_id=700",
+  "itemListElement": [
+    {
+      "@type": "OfferCatalog",
+      "name": "Presale",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "name": "Season ticket adults (born since 1997)",
+          "validThrough": "2017-12-08",
+          "itemOffered": {
+            "@type": "Service",
+            "description": "Valid for the period 09.01.2017 to 08.31.2018\r\n\r\nValid in the following ski resorts:\r\nMölltaler glacier lifts ,  mountain Ankogel ,  Matreier Goldried mountain railways ,  Hochpustertaler cable cars ,  mountain railways St. Jakob ,  lifts Kals  - each including winter and summer operation!",
+            "areaServed": "Mölltaler glacier lifts ,  mountain Ankogel ,  Matreier Goldried mountain railways ,  Hochpustertaler cable cars ,  mountain railways St. Jakob ,  lifts Kals",
+            "hoursAvailable": {
+              "@type": "OpeningHoursSpecification",
+              "validFrom": "2017-01-09",
+              "validThrough": "2018-08-31"
+            },
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "adult",
+              "requiredMinAge": "19"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "525,00",
+            "priceCurrency": "EUR",
+            "description": "For the season map a recent photo is required. Schedule and fare changes! Reduction for severely disabled from 60 percent disability;"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Season ticket Children (1998 - 2010)",
+          "validThrough": "2017-12-08",
+          "itemOffered": {
+            "@type": "Service",
+            "description": "Valid for the period 09.01.2017 to 08.31.2018\r\n\r\nValid in the following ski resorts:\r\nMölltaler glacier lifts ,  mountain Ankogel ,  Matreier Goldried mountain railways ,  Hochpustertaler cable cars ,  mountain railways St. Jakob ,  lifts Kals  - each including winter and summer operation!",
+            "areaServed": "Mölltaler glacier lifts ,  mountain Ankogel ,  Matreier Goldried mountain railways ,  Hochpustertaler cable cars ,  mountain railways St. Jakob ,  lifts Kals",
+            "hoursAvailable": {
+              "@type": "OpeningHoursSpecification",
+              "validFrom": "2017-01-09",
+              "validThrough": "2018-08-31"
+            },
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "children",
+              "requiredMinAge": "6",
+              "requiredMaxAge": "18"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "263.00",
+            "priceCurrency": "EUR",
+            "description": "For the season map a recent photo is required. Schedule and fare changes! Reduction for severely disabled from 60 percent disability;"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "family package 2 parents - 1 child",
+          "validThrough": "2017-12-08",
+          "itemOffered": {
+            "@type": "Service",
+            "description": "Valid for the period 09.01.2017 to 08.31.2018\r\n\r\nValid in the following ski resorts:\r\nMölltaler glacier lifts ,  mountain Ankogel ,  Matreier Goldried mountain railways ,  Hochpustertaler cable cars ,  mountain railways St. Jakob ,  lifts Kals  - each including winter and summer operation!",
+            "areaServed": "Mölltaler glacier lifts ,  mountain Ankogel ,  Matreier Goldried mountain railways ,  Hochpustertaler cable cars ,  mountain railways St. Jakob ,  lifts Kals",
+            "hoursAvailable": {
+              "@type": "OpeningHoursSpecification",
+              "validFrom": "2017-01-09",
+              "validThrough": "2018-08-31"
+            },
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "2 parents - 1 child"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "1042.00",
+            "priceCurrency": "EUR",
+            "description": "Only in Austria: Family reduction in SkiHit)\r\n0-5 years Children FREE (born: 2012-2018) \r\n6-18 years 50% discount (born: 1999 - 2011) \r\nfamily with more than 2 children (6-18 years): each other child goes free! \r\n(only valid for season tickets SkiHit)\r\n\r\nTo claim the family discount a domestic Confirmation of the community, a passport, or birth certificates must be presented.\r\n\r\nFor the season map a recent photo is required. Schedule and fare changes! Reduction for severely disabled from 60 percent disability;"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "family package 2 parents - 2 Children",
+          "validThrough": "2017-12-08",
+          "itemOffered": {
+            "@type": "Service",
+            "description": "Valid for the period 09.01.2017 to 08.31.2018\r\n\r\nValid in the following ski resorts:\r\nMölltaler glacier lifts ,  mountain Ankogel ,  Matreier Goldried mountain railways ,  Hochpustertaler cable cars ,  mountain railways St. Jakob ,  lifts Kals  - each including winter and summer operation!",
+            "areaServed": "Mölltaler glacier lifts ,  mountain Ankogel ,  Matreier Goldried mountain railways ,  Hochpustertaler cable cars ,  mountain railways St. Jakob ,  lifts Kals",
+            "hoursAvailable": {
+              "@type": "OpeningHoursSpecification",
+              "validFrom": "2017-01-09",
+              "validThrough": "2018-08-31"
+            },
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "2 parents - 2 Children"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "1116.00",
+            "priceCurrency": "EUR",
+            "description": "Only in Austria: Family reduction in SkiHit)\r\n0-5 years Children FREE (born: 2012-2018) \r\n6-18 years 50% discount (born: 1999 - 2011) \r\nfamily with more than 2 children (6-18 years): each other child goes free! \r\n(only valid for season tickets SkiHit)\r\n\r\nTo claim the family discount a domestic Confirmation of the community, a passport, or birth certificates must be presented.\r\n\r\nFor the season map a recent photo is required. Schedule and fare changes! Reduction for severely disabled from 60 percent disability;"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "family package 1 parent - 1 child",
+          "validThrough": "2017-12-08",
+          "itemOffered": {
+            "@type": "Service",
+            "description": "Valid for the period 09.01.2017 to 08.31.2018\r\n\r\nValid in the following ski resorts:\r\nMölltaler glacier lifts ,  mountain Ankogel ,  Matreier Goldried mountain railways ,  Hochpustertaler cable cars ,  mountain railways St. Jakob ,  lifts Kals  - each including winter and summer operation!",
+            "areaServed": "Mölltaler glacier lifts ,  mountain Ankogel ,  Matreier Goldried mountain railways ,  Hochpustertaler cable cars ,  mountain railways St. Jakob ,  lifts Kals",
+            "hoursAvailable": {
+              "@type": "OpeningHoursSpecification",
+              "validFrom": "2017-01-09",
+              "validThrough": "2018-08-31"
+            },
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "1 parent - 1 child"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "770.00",
+            "priceCurrency": "EUR",
+            "description": "Only in Austria: Family reduction in SkiHit)\r\n0-5 years Children FREE (born: 2012-2018) \r\n6-18 years 50% discount (born: 1999 - 2011) \r\nfamily with more than 2 children (6-18 years): each other child goes free! \r\n(only valid for season tickets SkiHit)\r\n\r\nTo claim the family discount a domestic Confirmation of the community, a passport, or birth certificates must be presented.\r\n\r\nFor the season map a recent photo is required. Schedule and fare changes! Reduction for severely disabled from 60 percent disability;"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "family package 1 parent - 2 children",
+          "validThrough": "2017-12-08",
+          "itemOffered": {
+            "@type": "Service",
+            "description": "Valid for the period 09.01.2017 to 08.31.2018\r\n\r\nValid in the following ski resorts:\r\nMölltaler glacier lifts ,  mountain Ankogel ,  Matreier Goldried mountain railways ,  Hochpustertaler cable cars ,  mountain railways St. Jakob ,  lifts Kals  - each including winter and summer operation!",
+            "areaServed": "Mölltaler glacier lifts ,  mountain Ankogel ,  Matreier Goldried mountain railways ,  Hochpustertaler cable cars ,  mountain railways St. Jakob ,  lifts Kals",
+            "hoursAvailable": {
+              "@type": "OpeningHoursSpecification",
+              "validFrom": "2017-01-09",
+              "validThrough": "2018-08-31"
+            },
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "1 parent - 2 children"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "884.00",
+            "priceCurrency": "EUR",
+            "description": "Only in Austria: Family reduction in SkiHit)\r\n0-5 years Children FREE (born: 2012-2018) \r\n6-18 years 50% discount (born: 1999 - 2011) \r\nfamily with more than 2 children (6-18 years): each other child goes free! \r\n(only valid for season tickets SkiHit)\r\n\r\nTo claim the family discount a domestic Confirmation of the community, a passport, or birth certificates must be presented.\r\n\r\nFor the season map a recent photo is required. Schedule and fare changes! Reduction for severely disabled from 60 percent disability;"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "family package 1 parent - 3 children",
+          "validThrough": "2017-12-08",
+          "itemOffered": {
+            "@type": "Service",
+            "description": "Valid for the period 09.01.2017 to 08.31.2018\r\n\r\nValid in the following ski resorts:\r\nMölltaler glacier lifts ,  mountain Ankogel ,  Matreier Goldried mountain railways ,  Hochpustertaler cable cars ,  mountain railways St. Jakob ,  lifts Kals  - each including winter and summer operation!",
+            "areaServed": "Mölltaler glacier lifts ,  mountain Ankogel ,  Matreier Goldried mountain railways ,  Hochpustertaler cable cars ,  mountain railways St. Jakob ,  lifts Kals",
+            "hoursAvailable": {
+              "@type": "OpeningHoursSpecification",
+              "validFrom": "2017-01-09",
+              "validThrough": "2018-08-31"
+            },
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "1 parent - 3 children"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "962,00",
+            "priceCurrency": "EUR",
+            "description": "Only in Austria: Family reduction in SkiHit)\r\n0-5 years Children FREE (born: 2012-2018) \r\n6-18 years 50% discount (born: 1999 - 2011) \r\nfamily with more than 2 children (6-18 years): each other child goes free! \r\n(only valid for season tickets SkiHit)\r\n\r\nTo claim the family discount a domestic Confirmation of the community, a passport, or birth certificates must be presented.\r\n\r\nFor the season map a recent photo is required. Schedule and fare changes! Reduction for severely disabled from 60 percent disability;"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "OfferCatalog",
+      "name": "Normal sales",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "name": "Season ticket adults (born since 1997)",
+          "validFrom": "2017-12-08",
+          "itemOffered": {
+            "@type": "Service",
+            "description": "Valid for the period 09.01.2017 to 08.31.2018\r\n\r\nValid in the following ski resorts:\r\nMölltaler glacier lifts ,  mountain Ankogel ,  Matreier Goldried mountain railways ,  Hochpustertaler cable cars ,  mountain railways St. Jakob ,  lifts Kals  - each including winter and summer operation!",
+            "areaServed": "Mölltaler glacier lifts ,  mountain Ankogel ,  Matreier Goldried mountain railways ,  Hochpustertaler cable cars ,  mountain railways St. Jakob ,  lifts Kals",
+            "hoursAvailable": {
+              "@type": "OpeningHoursSpecification",
+              "validFrom": "2017-01-09",
+              "validThrough": "2018-08-31"
+            },
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "adult",
+              "requiredMinAge": "19"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "555,00",
+            "priceCurrency": "EUR",
+            "description": "For the season map a recent photo is required. Schedule and fare changes! Reduction for severely disabled from 60 percent disability;"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Season ticket Children (1998 - 2010)",
+          "validFrom": "2017-12-08",
+          "itemOffered": {
+            "@type": "Service",
+            "description": "Valid for the period 09.01.2017 to 08.31.2018\r\n\r\nValid in the following ski resorts:\r\nMölltaler glacier lifts ,  mountain Ankogel ,  Matreier Goldried mountain railways ,  Hochpustertaler cable cars ,  mountain railways St. Jakob ,  lifts Kals  - each including winter and summer operation!",
+            "areaServed": "Mölltaler glacier lifts ,  mountain Ankogel ,  Matreier Goldried mountain railways ,  Hochpustertaler cable cars ,  mountain railways St. Jakob ,  lifts Kals",
+            "hoursAvailable": {
+              "@type": "OpeningHoursSpecification",
+              "validFrom": "2017-01-09",
+              "validThrough": "2018-08-31"
+            },
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "children",
+              "requiredMinAge": "6",
+              "requiredMaxAge": "18"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "287.00",
+            "priceCurrency": "EUR",
+            "description": "For the season map a recent photo is required. Schedule and fare changes! Reduction for severely disabled from 60 percent disability;"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "family package 2 parents - 1 child",
+          "validFrom": "2017-12-08",
+          "itemOffered": {
+            "@type": "Service",
+            "description": "Valid for the period 09.01.2017 to 08.31.2018\r\n\r\nValid in the following ski resorts:\r\nMölltaler glacier lifts ,  mountain Ankogel ,  Matreier Goldried mountain railways ,  Hochpustertaler cable cars ,  mountain railways St. Jakob ,  lifts Kals  - each including winter and summer operation!",
+            "areaServed": "Mölltaler glacier lifts ,  mountain Ankogel ,  Matreier Goldried mountain railways ,  Hochpustertaler cable cars ,  mountain railways St. Jakob ,  lifts Kals",
+            "hoursAvailable": {
+              "@type": "OpeningHoursSpecification",
+              "validFrom": "2017-01-09",
+              "validThrough": "2018-08-31"
+            },
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "2 parents - 1 child"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "1.092,00",
+            "priceCurrency": "EUR",
+            "description": "Only in Austria: Family reduction in SkiHit)\r\n0-5 years Children FREE (born: 2012-2018) \r\n6-18 years 50% discount (born: 1999 - 2011) \r\nfamily with more than 2 children (6-18 years): each other child goes free! \r\n(only valid for season tickets SkiHit)\r\n\r\nTo claim the family discount a domestic Confirmation of the community, a passport, or birth certificates must be presented.\r\n\r\nFor the season map a recent photo is required. Schedule and fare changes! Reduction for severely disabled from 60 percent disability;"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "family package 2 parents - 2 Children",
+          "validFrom": "2017-12-08",
+          "itemOffered": {
+            "@type": "Service",
+            "description": "Valid for the period 09.01.2017 to 08.31.2018\r\n\r\nValid in the following ski resorts:\r\nMölltaler glacier lifts ,  mountain Ankogel ,  Matreier Goldried mountain railways ,  Hochpustertaler cable cars ,  mountain railways St. Jakob ,  lifts Kals  - each including winter and summer operation!",
+            "areaServed": "Mölltaler glacier lifts ,  mountain Ankogel ,  Matreier Goldried mountain railways ,  Hochpustertaler cable cars ,  mountain railways St. Jakob ,  lifts Kals",
+            "hoursAvailable": {
+              "@type": "OpeningHoursSpecification",
+              "validFrom": "2017-01-09",
+              "validThrough": "2018-08-31"
+            },
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "2 parents - 2 Children"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "1182.00",
+            "priceCurrency": "EUR",
+            "description": "Only in Austria: Family reduction in SkiHit)\r\n0-5 years Children FREE (born: 2012-2018) \r\n6-18 years 50% discount (born: 1999 - 2011) \r\nfamily with more than 2 children (6-18 years): each other child goes free! \r\n(only valid for season tickets SkiHit)\r\n\r\nTo claim the family discount a domestic Confirmation of the community, a passport, or birth certificates must be presented.\r\n\r\nFor the season map a recent photo is required. Schedule and fare changes! Reduction for severely disabled from 60 percent disability;"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "family package 1 parent - 1 child",
+          "validFrom": "2017-12-08",
+          "itemOffered": {
+            "@type": "Service",
+            "description": "Valid for the period 09.01.2017 to 08.31.2018\r\n\r\nValid in the following ski resorts:\r\nMölltaler glacier lifts ,  mountain Ankogel ,  Matreier Goldried mountain railways ,  Hochpustertaler cable cars ,  mountain railways St. Jakob ,  lifts Kals  - each including winter and summer operation!",
+            "areaServed": "Mölltaler glacier lifts ,  mountain Ankogel ,  Matreier Goldried mountain railways ,  Hochpustertaler cable cars ,  mountain railways St. Jakob ,  lifts Kals",
+            "hoursAvailable": {
+              "@type": "OpeningHoursSpecification",
+              "validFrom": "2017-01-09",
+              "validThrough": "2018-08-31"
+            },
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "1 parent - 1 child"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "783,00",
+            "priceCurrency": "EUR",
+            "description": "Only in Austria: Family reduction in SkiHit)\r\n0-5 years Children FREE (born: 2012-2018) \r\n6-18 years 50% discount (born: 1999 - 2011) \r\nfamily with more than 2 children (6-18 years): each other child goes free! \r\n(only valid for season tickets SkiHit)\r\n\r\nTo claim the family discount a domestic Confirmation of the community, a passport, or birth certificates must be presented.\r\n\r\nFor the season map a recent photo is required. Schedule and fare changes! Reduction for severely disabled from 60 percent disability;"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "family package 1 parent - 2 children",
+          "validFrom": "2017-12-08",
+          "itemOffered": {
+            "@type": "Service",
+            "description": "Valid for the period 09.01.2017 to 08.31.2018\r\n\r\nValid in the following ski resorts:\r\nMölltaler glacier lifts ,  mountain Ankogel ,  Matreier Goldried mountain railways ,  Hochpustertaler cable cars ,  mountain railways St. Jakob ,  lifts Kals  - each including winter and summer operation!",
+            "areaServed": "Mölltaler glacier lifts ,  mountain Ankogel ,  Matreier Goldried mountain railways ,  Hochpustertaler cable cars ,  mountain railways St. Jakob ,  lifts Kals",
+            "hoursAvailable": {
+              "@type": "OpeningHoursSpecification",
+              "validFrom": "2017-01-09",
+              "validThrough": "2018-08-31"
+            },
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "1 parent - 2 children"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "988,00",
+            "priceCurrency": "EUR",
+            "description": "Only in Austria: Family reduction in SkiHit)\r\n0-5 years Children FREE (born: 2012-2018) \r\n6-18 years 50% discount (born: 1999 - 2011) \r\nfamily with more than 2 children (6-18 years): each other child goes free! \r\n(only valid for season tickets SkiHit)\r\n\r\nTo claim the family discount a domestic Confirmation of the community, a passport, or birth certificates must be presented.\r\n\r\nFor the season map a recent photo is required. Schedule and fare changes! Reduction for severely disabled from 60 percent disability;"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "family package 1 parent - 3 children",
+          "validFrom": "2017-12-08",
+          "itemOffered": {
+            "@type": "Service",
+            "description": "Valid for the period 09.01.2017 to 08.31.2018\r\n\r\nValid in the following ski resorts:\r\nMölltaler glacier lifts ,  mountain Ankogel ,  Matreier Goldried mountain railways ,  Hochpustertaler cable cars ,  mountain railways St. Jakob ,  lifts Kals  - each including winter and summer operation!",
+            "areaServed": "Mölltaler glacier lifts ,  mountain Ankogel ,  Matreier Goldried mountain railways ,  Hochpustertaler cable cars ,  mountain railways St. Jakob ,  lifts Kals",
+            "hoursAvailable": {
+              "@type": "OpeningHoursSpecification",
+              "validFrom": "2017-01-09",
+              "validThrough": "2018-08-31"
+            },
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "1 parent - 3 children"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "1.066,00",
+            "priceCurrency": "EUR",
+            "description": "Only in Austria: Family reduction in SkiHit)\r\n0-5 years Children FREE (born: 2012-2018) \r\n6-18 years 50% discount (born: 1999 - 2011) \r\nfamily with more than 2 children (6-18 years): each other child goes free! \r\n(only valid for season tickets SkiHit)\r\n\r\nTo claim the family discount a domestic Confirmation of the community, a passport, or birth certificates must be presented.\r\n\r\nFor the season map a recent photo is required. Schedule and fare changes! Reduction for severely disabled from 60 percent disability;"
+          }
+        }
+      ]
+    }
+  ]
+}

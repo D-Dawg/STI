@@ -1,0 +1,1162 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "OfferCatalog",
+  "name": "Ausflugstarife",
+  "url": "http://www.gletscher.co.at/preise/ausflugstarife/",
+  "description": "AUSFLUGS-/WANDERTARIFE\r\nGültig ab 15. Juni 2017 bis 13. Mai 2018\r\nTarife nur gültig ohne Ski- und Sportausrüstung!\r\nBetriebszeiten:\r\n15. Juni 2017 bis 13. Mai 2018 täglich von 8:00 bis 16:00 Uhr\r\nab Skibetrieb im Herbst 2017 täglich von 8:30 bis 16:30 Uhr",
+  "itemListElement": [
+    {
+      "@context": "http://www.schema.org",
+      "@type": "OfferCatalog",
+      "name": "Bis Gipfel (3.122 m) - Normaltarif",
+      "description": "Express + Gondel + Sessellift",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "name": "Berg- und Talfahrt",
+          "itemOffered": {
+            "@type": "Service",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06-15",
+                "validThrough": "2018-05-13"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Erwachsenes",
+              "requiredMinAge": "19"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "34,00",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Berg- und Talfahrt",
+          "itemOffered": {
+            "@type": "Service",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06-15",
+                "validThrough": "2018-05-13"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Kinder",
+              "requiredMinAge": "6",
+              "requiredMaxAge": "18"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "17,50",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "ab 12.00 Uhr",
+          "itemOffered": {
+            "@type": "Service",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06-15",
+                "validThrough": "2018-05-13"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Erwachsenes",
+              "requiredMinAge": "19"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "28,00",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "ab 12.00 Uhr",
+          "itemOffered": {
+            "@type": "Service",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06-15",
+                "validThrough": "2018-05-13"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Kinder",
+              "requiredMinAge": "6",
+              "requiredMaxAge": "18"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "14,50",
+            "priceCurrency": "EUR"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "http://www.schema.org",
+      "@type": "OfferCatalog",
+      "name": "Bis Gipfel (3.122 m) - Gästekarte",
+      "description": "Express + Gondel + Sessellift",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "name": "Berg- und Talfahrt",
+          "itemOffered": {
+            "@type": "Service",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06-15",
+                "validThrough": "2018-05-13"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Erwachsenes",
+              "requiredMinAge": "19"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "32,00",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Berg- und Talfahrt",
+          "itemOffered": {
+            "@type": "Service",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06-15",
+                "validThrough": "2018-05-13"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Kinder",
+              "requiredMinAge": "6",
+              "requiredMaxAge": "18"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "16,50",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "ab 12.00 Uhr",
+          "itemOffered": {
+            "@type": "Service",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06-15",
+                "validThrough": "2018-05-13"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Erwachsenes",
+              "requiredMinAge": "19"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "26,00",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "ab 12.00 Uhr",
+          "itemOffered": {
+            "@type": "Service",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06-15",
+                "validThrough": "2018-05-13"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Kinder",
+              "requiredMinAge": "6",
+              "requiredMaxAge": "18"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "13,50",
+            "priceCurrency": "EUR"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "http://www.schema.org",
+      "@type": "OfferCatalog",
+      "name": "Bis Bergrestaurant (2.800 m) - Normaltarif",
+      "description": "Express + Gondel",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "name": "Berg- und Talfahrt",
+          "itemOffered": {
+            "@type": "Service",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06-15",
+                "validThrough": "2018-05-13"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Erwachsenes",
+              "requiredMinAge": "19"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "30,00",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Berg- und Talfahrt",
+          "itemOffered": {
+            "@type": "Service",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06-15",
+                "validThrough": "2018-05-13"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Kinder",
+              "requiredMinAge": "6",
+              "requiredMaxAge": "18"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "15,00",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "ab 12.00 Uhr",
+          "itemOffered": {
+            "@type": "Service",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06-15",
+                "validThrough": "2018-05-13"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Erwachsenes",
+              "requiredMinAge": "19"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "23,00",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "ab 12.00 Uhr",
+          "itemOffered": {
+            "@type": "Service",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06-15",
+                "validThrough": "2018-05-13"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Kinder",
+              "requiredMinAge": "6",
+              "requiredMaxAge": "18"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "11,50",
+            "priceCurrency": "EUR"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "http://www.schema.org",
+      "@type": "OfferCatalog",
+      "name": "Bis Bergrestaurant (2.800 m) - Gästekarte",
+      "description": "Express + Gondel",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "name": "Berg- und Talfahrt",
+          "itemOffered": {
+            "@type": "Service",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06-15",
+                "validThrough": "2018-05-13"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Erwachsenes",
+              "requiredMinAge": "19"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "28,00",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Berg- und Talfahrt",
+          "itemOffered": {
+            "@type": "Service",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06-15",
+                "validThrough": "2018-05-13"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Kinder",
+              "requiredMinAge": "6",
+              "requiredMaxAge": "18"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "14,00",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "ab 12.00 Uhr",
+          "itemOffered": {
+            "@type": "Service",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06-15",
+                "validThrough": "2018-05-13"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Erwachsenes",
+              "requiredMinAge": "19"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "20,50",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "ab 12.00 Uhr",
+          "itemOffered": {
+            "@type": "Service",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06-15",
+                "validThrough": "2018-05-13"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Kinder",
+              "requiredMinAge": "6",
+              "requiredMaxAge": "18"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "10,00",
+            "priceCurrency": "EUR"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "http://www.schema.org",
+      "@type": "OfferCatalog",
+      "name": "FAMILIENKARTEN Berg-u. Talfahrt bis Bergrestaurant (2.800 m) - Normaltarif",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "name": "Familientarif",
+          "itemOffered": {
+            "@type": "Service",
+            "hoursAvailable": {
+              "@type": "OpeningHoursSpecification",
+              "validFrom": "2017-06-15",
+              "validThrough": "2018-05-13"
+            },
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Familie mit 1 Kind"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "60,00",
+            "priceCurrency": "EUR",
+            "description": "Die Preise sind in EURO angegeben und enthalten die gesetzliche Mehrwertsteuer!\r\nTermin- und Tarifänderungen vorbehalten!"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Familientarif",
+          "itemOffered": {
+            "@type": "Service",
+            "hoursAvailable": {
+              "@type": "OpeningHoursSpecification",
+              "validFrom": "2017-06-15",
+              "validThrough": "2018-05-13"
+            },
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Familie mit 2 Kindern"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "67,00",
+            "priceCurrency": "EUR",
+            "description": "Jedes weitere Kind €6,50. Die Preise sind in EURO angegeben und enthalten die gesetzliche Mehrwertsteuer!\r\nTermin- und Tarifänderungen vorbehalten!"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "http://www.schema.org",
+      "@type": "OfferCatalog",
+      "name": "FAMILIENKARTEN Berg-u. Talfahrt bis Bergrestaurant (2.800 m) - Gästekarte",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "name": "Familientarif",
+          "itemOffered": {
+            "@type": "Service",
+            "hoursAvailable": {
+              "@type": "OpeningHoursSpecification",
+              "validFrom": "2017-06-15",
+              "validThrough": "2018-05-13"
+            },
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Familie mit 1 Kind"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "57,00",
+            "priceCurrency": "EUR",
+            "description": "Die Preise sind in EURO angegeben und enthalten die gesetzliche Mehrwertsteuer!\r\nTermin- und Tarifänderungen vorbehalten!"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Familientarif",
+          "itemOffered": {
+            "@type": "Service",
+            "hoursAvailable": {
+              "@type": "OpeningHoursSpecification",
+              "validFrom": "2017-06-15",
+              "validThrough": "2018-05-13"
+            },
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Familie mit 2 Kindern"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "61,00",
+            "priceCurrency": "EUR",
+            "description": "Jedes weitere Kind €6,50. Die Preise sind in EURO angegeben und enthalten die gesetzliche Mehrwertsteuer!\r\nTermin- und Tarifänderungen vorbehalten!"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "http://www.schema.org",
+      "@type": "OfferCatalog",
+      "name": "FAMILIENKARTEN Berg-u. Talfahrt bis Bergrestaurant (2.800 m) - Gästekarte",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "name": "Familientarif ab 12 Uhr",
+          "itemOffered": {
+            "@type": "Service",
+            "hoursAvailable": {
+              "@type": "OpeningHoursSpecification",
+              "validFrom": "2017-06-15",
+              "validThrough": "2018-05-13"
+            },
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Familie mit 1 Kind"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "42,00",
+            "priceCurrency": "EUR",
+            "description": "Die Preise sind in EURO angegeben und enthalten die gesetzliche Mehrwertsteuer!\r\nTermin- und Tarifänderungen vorbehalten!"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Familientarif ab 12 Uhr",
+          "itemOffered": {
+            "@type": "Service",
+            "hoursAvailable": {
+              "@type": "OpeningHoursSpecification",
+              "validFrom": "2017-06-15",
+              "validThrough": "2018-05-13"
+            },
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Familie mit 2 Kindern"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "46,00",
+            "priceCurrency": "EUR",
+            "description": "Jedes weitere Kind €6,50. Die Preise sind in EURO angegeben und enthalten die gesetzliche Mehrwertsteuer!\r\nTermin- und Tarifänderungen vorbehalten!"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "http://www.schema.org",
+      "@type": "OfferCatalog",
+      "name": "FAMILIENKARTEN Berg-u. Talfahrt bis Bergrestaurant (2.800 m) - Normaltarif",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "name": "Familientarif ab 12 Uhr",
+          "itemOffered": {
+            "@type": "Service",
+            "hoursAvailable": {
+              "@type": "OpeningHoursSpecification",
+              "validFrom": "2017-06-15",
+              "validThrough": "2018-05-13"
+            },
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Familie mit 1 Kind"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "57,00",
+            "priceCurrency": "EUR",
+            "description": "Die Preise sind in EURO angegeben und enthalten die gesetzliche Mehrwertsteuer!\r\nTermin- und Tarifänderungen vorbehalten!"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Familientarif ab 12 Uhr",
+          "itemOffered": {
+            "@type": "Service",
+            "hoursAvailable": {
+              "@type": "OpeningHoursSpecification",
+              "validFrom": "2017-06-15",
+              "validThrough": "2018-05-13"
+            },
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Familie mit 2 Kindern"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "61,00",
+            "priceCurrency": "EUR",
+            "description": "Jedes weitere Kind €6,50. Die Preise sind in EURO angegeben und enthalten die gesetzliche Mehrwertsteuer!\r\nTermin- und Tarifänderungen vorbehalten!"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "http://www.schema.org",
+      "@type": "OfferCatalog",
+      "name": "EINZELFAHRTEN",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "name": "Berg- und Talfahrt",
+          "itemOffered": {
+            "@type": "Service",
+            "hoursAvailable": {
+              "@type": "OpeningHoursSpecification",
+              "validFrom": "2017-06-15",
+              "validThrough": "2018-05-13"
+            },
+            "areaServed": "Gletscher Express",
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Erwachsenes",
+              "requiredMinAge": "19"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "20,00",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Berg- und Talfahrt",
+          "itemOffered": {
+            "@type": "Service",
+            "hoursAvailable": {
+              "@type": "OpeningHoursSpecification",
+              "validFrom": "2017-06-15",
+              "validThrough": "2018-05-13"
+            },
+            "areaServed": "Gletscher Express",
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Kinder",
+              "requiredMinAge": "6",
+              "requiredMaxAge": "18"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "9,50",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Berg- oder Talfahrt",
+          "itemOffered": {
+            "@type": "Service",
+            "hoursAvailable": {
+              "@type": "OpeningHoursSpecification",
+              "validFrom": "2017-06-15",
+              "validThrough": "2018-05-13"
+            },
+            "areaServed": "Gletscher Express",
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Erwachsenes",
+              "requiredMinAge": "19"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "16,00",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Berg- oder Talfahrt",
+          "itemOffered": {
+            "@type": "Service",
+            "hoursAvailable": {
+              "@type": "OpeningHoursSpecification",
+              "validFrom": "2017-06-15",
+              "validThrough": "2018-05-13"
+            },
+            "areaServed": "Gletscher Express",
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Kinder",
+              "requiredMinAge": "6",
+              "requiredMaxAge": "18"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "7,50",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Berg- und Talfahrt",
+          "itemOffered": {
+            "@type": "Service",
+            "hoursAvailable": {
+              "@type": "OpeningHoursSpecification",
+              "validFrom": "2017-06-15",
+              "validThrough": "2018-05-13"
+            },
+            "areaServed": "Gondelbahn „Eissee“",
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Erwachsenes",
+              "requiredMinAge": "19"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "16,00",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Berg- und Talfahrt",
+          "itemOffered": {
+            "@type": "Service",
+            "hoursAvailable": {
+              "@type": "OpeningHoursSpecification",
+              "validFrom": "2017-06-15",
+              "validThrough": "2018-05-13"
+            },
+            "areaServed": "Gondelbahn „Eissee“",
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Kinder",
+              "requiredMinAge": "6",
+              "requiredMaxAge": "18"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "7,50",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Berg- oder Talfahrt",
+          "itemOffered": {
+            "@type": "Service",
+            "hoursAvailable": {
+              "@type": "OpeningHoursSpecification",
+              "validFrom": "2017-06-15",
+              "validThrough": "2018-05-13"
+            },
+            "areaServed": "Gondelbahn „Eissee“",
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Erwachsenes",
+              "requiredMinAge": "19"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "11,00",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Berg- oder Talfahrt",
+          "itemOffered": {
+            "@type": "Service",
+            "hoursAvailable": {
+              "@type": "OpeningHoursSpecification",
+              "validFrom": "2017-06-15",
+              "validThrough": "2018-05-13"
+            },
+            "areaServed": "Gondelbahn „Eissee“",
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Kinder",
+              "requiredMinAge": "6",
+              "requiredMaxAge": "18"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "5,50",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Berg- und Talfahrt",
+          "itemOffered": {
+            "@type": "Service",
+            "hoursAvailable": {
+              "@type": "OpeningHoursSpecification",
+              "validFrom": "2017-06-15",
+              "validThrough": "2018-05-13"
+            },
+            "areaServed": "Sesselbahn",
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Erwachsenes",
+              "requiredMinAge": "19"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "14,00",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Berg- und Talfahrt",
+          "itemOffered": {
+            "@type": "Service",
+            "hoursAvailable": {
+              "@type": "OpeningHoursSpecification",
+              "validFrom": "2017-06-15",
+              "validThrough": "2018-05-13"
+            },
+            "areaServed": "Sesselbahn",
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Kinder",
+              "requiredMinAge": "6",
+              "requiredMaxAge": "18"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "6,50",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Berg- oder Talfahrt",
+          "itemOffered": {
+            "@type": "Service",
+            "hoursAvailable": {
+              "@type": "OpeningHoursSpecification",
+              "validFrom": "2017-06-15",
+              "validThrough": "2018-05-13"
+            },
+            "areaServed": "Sesselbahn",
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Erwachsenes",
+              "requiredMinAge": "19"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "10,00",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Berg- oder Talfahrt",
+          "itemOffered": {
+            "@type": "Service",
+            "hoursAvailable": {
+              "@type": "OpeningHoursSpecification",
+              "validFrom": "2017-06-15",
+              "validThrough": "2018-05-13"
+            },
+            "areaServed": "Sesselbahn",
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Kinder",
+              "requiredMinAge": "6",
+              "requiredMaxAge": "18"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "5,00",
+            "priceCurrency": "EUR"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "http://www.schema.org",
+      "@type": "OfferCatalog",
+      "name": "Gipfel-Ticket 3x Berg- und Talfahrt",
+      "description": "Jeweils eine Berg- & Talfahrt für 2 Sektionen pro Tag. Nur für Fußgänger ohne Sportgeräte.",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "name": "Normaltarif",
+          "itemOffered": {
+            "@type": "Service",
+            "hoursAvailable": {
+              "@type": "OpeningHoursSpecification",
+              "validFrom": "2017-06-15",
+              "validThrough": "2018-05-13"
+            },
+            "areaServed": "Matreier Goldried Bergbahnen, Bergbahnen Kals am Großglockner, Hochpustertaler Bergbahnen Sillian, Skizentrum St. Jakob i.D., Mölltaler Gletscher (Gletscher Express und EUB) und Hochgebirgsbahnen Ankogel.",
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Erwachsenes",
+              "requiredMinAge": "19"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "51,00",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Normaltarif",
+          "itemOffered": {
+            "@type": "Service",
+            "hoursAvailable": {
+              "@type": "OpeningHoursSpecification",
+              "validFrom": "2017-06-15",
+              "validThrough": "2018-05-13"
+            },
+            "areaServed": "Matreier Goldried Bergbahnen, Bergbahnen Kals am Großglockner, Hochpustertaler Bergbahnen Sillian, Skizentrum St. Jakob i.D., Mölltaler Gletscher (Gletscher Express und EUB) und Hochgebirgsbahnen Ankogel.",
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Children",
+              "requiredMinAge": "6",
+              "requiredMaxAge": "18"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "25,50",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Normaltarif",
+          "itemOffered": {
+            "@type": "Service",
+            "hoursAvailable": {
+              "@type": "OpeningHoursSpecification",
+              "validFrom": "2017-06-15",
+              "validThrough": "2018-05-13"
+            },
+            "areaServed": "Matreier Goldried Bergbahnen, Bergbahnen Kals am Großglockner, Hochpustertaler Bergbahnen Sillian, Skizentrum St. Jakob i.D., Mölltaler Gletscher (Gletscher Express und EUB) und Hochgebirgsbahnen Ankogel.",
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Familie mit 1 Kind"
+            }
+          },
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "name": "Familie mit 1 Kind",
+            "price": "119.00",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Normaltarif",
+          "itemOffered": {
+            "@type": "Service",
+            "hoursAvailable": {
+              "@type": "OpeningHoursSpecification",
+              "validFrom": "2017-06-15",
+              "validThrough": "2018-05-13"
+            },
+            "areaServed": "Matreier Goldried Bergbahnen, Bergbahnen Kals am Großglockner, Hochpustertaler Bergbahnen Sillian, Skizentrum St. Jakob i.D., Mölltaler Gletscher (Gletscher Express und EUB) und Hochgebirgsbahnen Ankogel.",
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Familie mit 2 Kindern"
+            }
+          },
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "name": "Familie mit 2 Kindern",
+            "price": "139,50",
+            "priceCurrency": "EUR",
+            "description": "Jedes weitere Kind frei"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Gästekarte",
+          "itemOffered": {
+            "@type": "Service",
+            "hoursAvailable": {
+              "@type": "OpeningHoursSpecification",
+              "validFrom": "2017-06-15",
+              "validThrough": "2018-05-13"
+            },
+            "areaServed": "Matreier Goldried Bergbahnen, Bergbahnen Kals am Großglockner, Hochpustertaler Bergbahnen Sillian, Skizentrum St. Jakob i.D., Mölltaler Gletscher (Gletscher Express und EUB) und Hochgebirgsbahnen Ankogel.",
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Erwachsenes",
+              "requiredMinAge": "19"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "49,00",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Gästekarte",
+          "itemOffered": {
+            "@type": "Service",
+            "hoursAvailable": {
+              "@type": "OpeningHoursSpecification",
+              "validFrom": "2017-06-15",
+              "validThrough": "2018-05-13"
+            },
+            "areaServed": "Matreier Goldried Bergbahnen, Bergbahnen Kals am Großglockner, Hochpustertaler Bergbahnen Sillian, Skizentrum St. Jakob i.D., Mölltaler Gletscher (Gletscher Express und EUB) und Hochgebirgsbahnen Ankogel.",
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Children",
+              "requiredMinAge": "6",
+              "requiredMaxAge": "18"
+            }
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "24,50",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Gästekarte",
+          "itemOffered": {
+            "@type": "Service",
+            "hoursAvailable": {
+              "@type": "OpeningHoursSpecification",
+              "validFrom": "2017-06-15",
+              "validThrough": "2018-05-13"
+            },
+            "areaServed": "Matreier Goldried Bergbahnen, Bergbahnen Kals am Großglockner, Hochpustertaler Bergbahnen Sillian, Skizentrum St. Jakob i.D., Mölltaler Gletscher (Gletscher Express und EUB) und Hochgebirgsbahnen Ankogel.",
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Familie mit 1 Kind"
+            }
+          },
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "name": "Familie mit 1 Kind",
+            "price": "115,50",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Gästekarte",
+          "itemOffered": {
+            "@type": "Service",
+            "hoursAvailable": {
+              "@type": "OpeningHoursSpecification",
+              "validFrom": "2017-06-15",
+              "validThrough": "2018-05-13"
+            },
+            "areaServed": "Matreier Goldried Bergbahnen, Bergbahnen Kals am Großglockner, Hochpustertaler Bergbahnen Sillian, Skizentrum St. Jakob i.D., Mölltaler Gletscher (Gletscher Express und EUB) und Hochgebirgsbahnen Ankogel.",
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Familie mit 2 Kindern"
+            }
+          },
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "name": "Familie mit 2 Kindern",
+            "price": "135,50",
+            "priceCurrency": "EUR",
+            "description": "Jedes weitere Kind frei"
+          }
+        }
+      ]
+    }
+  ]
+}

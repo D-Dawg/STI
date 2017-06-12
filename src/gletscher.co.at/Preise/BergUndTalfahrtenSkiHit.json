@@ -1,0 +1,385 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Offer",
+    "name": "Berg- und Talfahrt Ski)Hit",
+    "itemOffered": {
+      "@type": "Service",
+      "name": "Normaltarif",
+      "areaServed": "Mölltaler Gletscher",
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Erwachsene",
+        "requiredMinAge": "19"
+      }
+    },
+    "priceSpecification": {
+      "@type": "UnitPriceSpecification",
+      "unitCode": "IE",
+      "price": "28,50",
+      "priceCurrency": "EUR",
+      "eligibleQuantity": {
+        "@type": "QuantitativeValue",
+        "unitText": "Berg/Tal",
+        "value": "1"
+      }
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Offer",
+    "name": "Berg- und Talfahrt Ski)Hit",
+    "itemOffered": {
+      "@type": "Service",
+      "name": "Gästekarte",
+      "areaServed": "Mölltaler Gletscher",
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Erwachsene",
+        "requiredMinAge": "19"
+      }
+    },
+    "priceSpecification": {
+      "@type": "UnitPriceSpecification",
+      "unitCode": "IE",
+      "price": "26,50",
+      "priceCurrency": "EUR",
+      "eligibleQuantity": {
+        "@type": "QuantitativeValue",
+        "unitText": "Berg/Tal",
+        "value": "1"
+      }
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Offer",
+    "name": "Berg- und Talfahrt Ski)Hit",
+    "itemOffered": {
+      "@type": "Service",
+      "name": "Normaltarif",
+      "areaServed": "Mölltaler Gletscher",
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Kinder",
+        "requiredMinAge": "6",
+        "requiredMaxAge": "18"
+      }
+    },
+    "priceSpecification": {
+      "@type": "UnitPriceSpecification",
+      "unitCode": "IE",
+      "price": "14,50",
+      "priceCurrency": "EUR",
+      "eligibleQuantity": {
+        "@type": "QuantitativeValue",
+        "unitText": "Berg/Tal",
+        "value": "1"
+      }
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Offer",
+    "name": "Berg- und Talfahrt Ski)Hit",
+    "itemOffered": {
+      "@type": "Service",
+      "name": "Gästekarte",
+      "areaServed": "Mölltaler Gletscher",
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Kinder",
+        "requiredMinAge": "6",
+        "requiredMaxAge": "18"
+      }
+    },
+    "priceSpecification": {
+      "@type": "UnitPriceSpecification",
+      "unitCode": "IE",
+      "price": "13,50",
+      "priceCurrency": "EUR",
+      "eligibleQuantity": {
+        "@type": "QuantitativeValue",
+        "unitText": "Berg/Tal",
+        "value": "1"
+      }
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Offer",
+    "name": "Berg- und Talfahrt Ski)Hit",
+    "itemOffered": {
+      "@type": "Service",
+      "name": "Normaltarif",
+      "areaServed": "Skizentrum Hochpustertal, Skizentrum St. Jakob, Grossglockner Resort Kals/Matrei, Mölltaler Gletscher & Ankogel",
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Erwachsene",
+        "requiredMinAge": "19"
+      }
+    },
+    "priceSpecification": {
+      "@type": "UnitPriceSpecification",
+      "unitCode": "IE",
+      "price": "50",
+      "priceCurrency": "EUR",
+      "eligibleQuantity": {
+        "@type": "QuantitativeValue",
+        "unitText": "Berg/Tal",
+        "value": "3"
+      }
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Offer",
+    "name": "Berg- und Talfahrt Ski)Hit",
+    "itemOffered": {
+      "@type": "Service",
+      "name": "Gästekarte",
+      "areaServed": "Skizentrum Hochpustertal, Skizentrum St. Jakob, Grossglockner Resort Kals/Matrei, Mölltaler Gletscher & Ankogel",
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Erwachsene",
+        "requiredMinAge": "19"
+      }
+    },
+    "priceSpecification": {
+      "@type": "UnitPriceSpecification",
+      "unitCode": "IE",
+      "price": "48",
+      "priceCurrency": "EUR",
+      "eligibleQuantity": {
+        "@type": "QuantitativeValue",
+        "unitText": "Berg/Tal",
+        "value": "3"
+      }
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Offer",
+    "name": "Berg- und Talfahrt Ski)Hit",
+    "itemOffered": {
+      "@type": "Service",
+      "name": "Normaltarif",
+      "areaServed": "Skizentrum Hochpustertal, Skizentrum St. Jakob, Grossglockner Resort Kals/Matrei, Mölltaler Gletscher & Ankogel",
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Kinder",
+        "requiredMinAge": "6",
+        "requiredMaxAge": "18"
+      }
+    },
+    "priceSpecification": {
+      "@type": "UnitPriceSpecification",
+      "unitCode": "IE",
+      "price": "24,50",
+      "priceCurrency": "EUR",
+      "eligibleQuantity": {
+        "@type": "QuantitativeValue",
+        "unitText": "Berg/Tal",
+        "value": "3"
+      }
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Offer",
+    "name": "Berg- und Talfahrt Ski)Hit",
+    "itemOffered": {
+      "@type": "Service",
+      "name": "Gästekarte",
+      "areaServed": "Skizentrum Hochpustertal, Skizentrum St. Jakob, Grossglockner Resort Kals/Matrei, Mölltaler Gletscher & Ankogel",
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Kinder",
+        "requiredMinAge": "6",
+        "requiredMaxAge": "18"
+      }
+    },
+    "priceSpecification": {
+      "@type": "UnitPriceSpecification",
+      "unitCode": "IE",
+      "price": "23,50",
+      "priceCurrency": "EUR",
+      "eligibleQuantity": {
+        "@type": "QuantitativeValue",
+        "unitText": "Berg/Tal",
+        "value": "3"
+      }
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Offer",
+    "name": "Berg- und Talfahrt Ski)Hit",
+    "itemOffered": {
+      "@type": "Service",
+      "name": "Normaltarif",
+      "areaServed": "Skizentrum Hochpustertal, Skizentrum St. Jakob, Grossglockner Resort Kals/Matrei, Mölltaler Gletscher & Ankogel",
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Erwachsene",
+        "requiredMinAge": "19"
+      }
+    },
+    "priceSpecification": {
+      "@type": "UnitPriceSpecification",
+      "unitCode": "IE",
+      "price": "91",
+      "priceCurrency": "EUR",
+      "eligibleQuantity": {
+        "@type": "QuantitativeValue",
+        "unitText": "Berg/Tal",
+        "value": "6"
+      }
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Offer",
+    "name": "Berg- und Talfahrt Ski)Hit",
+    "itemOffered": {
+      "@type": "Service",
+      "name": "Gästekarte",
+      "areaServed": "Skizentrum Hochpustertal, Skizentrum St. Jakob, Grossglockner Resort Kals/Matrei, Mölltaler Gletscher & Ankogel",
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Erwachsene",
+        "requiredMinAge": "19"
+      }
+    },
+    "priceSpecification": {
+      "@type": "UnitPriceSpecification",
+      "unitCode": "IE",
+      "price": "87",
+      "priceCurrency": "EUR",
+      "eligibleQuantity": {
+        "@type": "QuantitativeValue",
+        "unitText": "Berg/Tal",
+        "value": "6"
+      }
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Offer",
+    "name": "Berg- und Talfahrt Ski)Hit",
+    "itemOffered": {
+      "@type": "Service",
+      "name": "Normaltarif",
+      "areaServed": "Skizentrum Hochpustertal, Skizentrum St. Jakob, Grossglockner Resort Kals/Matrei, Mölltaler Gletscher & Ankogel",
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Kinder",
+        "requiredMinAge": "6",
+        "requiredMaxAge": "18"
+      }
+    },
+    "priceSpecification": {
+      "@type": "UnitPriceSpecification",
+      "unitCode": "IE",
+      "price": "45,50",
+      "priceCurrency": "EUR",
+      "eligibleQuantity": {
+        "@type": "QuantitativeValue",
+        "unitText": "Berg/Tal",
+        "value": "6"
+      }
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Offer",
+    "name": "Berg- und Talfahrt Ski)Hit",
+    "itemOffered": {
+      "@type": "Service",
+      "name": "Gästekarte",
+      "areaServed": "Skizentrum Hochpustertal, Skizentrum St. Jakob, Grossglockner Resort Kals/Matrei, Mölltaler Gletscher & Ankogel",
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Kinder",
+        "requiredMinAge": "6",
+        "requiredMaxAge": "18"
+      }
+    },
+    "priceSpecification": {
+      "@type": "UnitPriceSpecification",
+      "unitCode": "IE",
+      "price": "43,50",
+      "priceCurrency": "EUR",
+      "eligibleQuantity": {
+        "@type": "QuantitativeValue",
+        "unitText": "Berg/Tal",
+        "value": "6"
+      }
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Offer",
+    "name": "Saison-Wanderkarte 6 Bergbahnen",
+    "itemOffered": {
+      "@type": "Service",
+      "name": "Normaltarif",
+      "hoursAvailable": {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2016-06",
+        "validThrough": "2016-09"
+      },
+      "areaServed": "Mölltaler Gletscherbahnen, Hochgebirgsbahnen Ankogel, Großglockner Resort Kals/Matrei, Skizentrum Hochpustertal/Sillian, Skizentrum St. Jakob i.D.",
+      "description": "jeweils eine Berg- und Talfahrt für 2 Sektionen pro Tag,  nur für Fußgänger – ohne Sportgeräte.",
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Kinder",
+        "requiredMinAge": "6",
+        "requiredMaxAge": "18"
+      }
+    },
+    "priceSpecification": {
+      "@type": "UnitPriceSpecification",
+      "unitCode": "IE",
+      "price": "121,50",
+      "priceCurrency": "EUR",
+      "eligibleQuantity": {
+        "@type": "QuantitativeValue",
+        "unitText": "Saison",
+        "value": "1"
+      }
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Offer",
+    "name": "Saison-Wanderkarte 6 Bergbahnen",
+    "itemOffered": {
+      "@type": "Service",
+      "name": "Normaltarif",
+      "hoursAvailable": {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2016-06",
+        "validThrough": "2016-09"
+      },
+      "areaServed": "Mölltaler Gletscherbahnen, Hochgebirgsbahnen Ankogel, Großglockner Resort Kals/Matrei, Skizentrum Hochpustertal/Sillian, Skizentrum St. Jakob i.D.",
+      "description": "jeweils eine Berg- und Talfahrt für 2 Sektionen pro Tag,  nur für Fußgänger – ohne Sportgeräte.",
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Erwachsene",
+        "requiredMinAge": "19"
+      }
+    },
+    "priceSpecification": {
+      "@type": "UnitPriceSpecification",
+      "unitCode": "IE",
+      "price": "242,50",
+      "priceCurrency": "EUR",
+      "eligibleQuantity": {
+        "@type": "QuantitativeValue",
+        "unitText": "Saison",
+        "value": "1"
+      }
+    }
+  }
+]

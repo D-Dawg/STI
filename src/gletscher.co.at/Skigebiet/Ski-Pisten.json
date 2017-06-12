@@ -1,0 +1,49 @@
+{
+  "@context": "http://schema.org",
+  "@type": "SportsActivityLocation",
+  "image": "http://www.gletscher.co.at/wp-content/uploads/MOELLTAL_6.13a_WEB.jpg",
+  "name": "Ski-Pisten",
+  "amenityFeature": [
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Pisten gesamt",
+      "value": "17",
+      "unitText": "Pisten"
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Pisten leicht/blau",
+      "value": "6",
+      "unitText": "Pisten"
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Pisten mittel/rot",
+      "value": "7",
+      "unitText": "Pisten"
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Pisten schwer/schwarz",
+      "value": "4",
+      "unitText": "Pisten"
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Beschneite Pisten",
+      "value": "90",
+      "unitCode": "P1"
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Längste Abfahrt",
+      "value": "1000",
+      "unitCode": "MTR"
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Snowpark",
+      "value": "\tWellenbahn, Steilkurven, Kicker, Jumps und Boardercrossstrecke – je nach Schneelage geöffnet!"
+    }
+  ]
+}

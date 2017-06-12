@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org",
+  "@type": "SportsActivityLocation",
+  "image": [
+    "http://www.gletscher.co.at/wp-content/uploads/IMG_38701-1.jpg",
+    "http://www.gletscher.co.at/wp-content/uploads/11112011056-1.jpg",
+    "http://www.gletscher.co.at/wp-content/uploads/11112011053-1.jpg",
+    "http://www.gletscher.co.at/wp-content/uploads/518_SteilkurveGletscher.jpg",
+    "http://www.gletscher.co.at/wp-content/uploads/snowp.jpg",
+    "http://www.gletscher.co.at/wp-content/uploads/%C3%96SV-Skicross-Day-4.-Foto-1.jpg"
+  ],
+  "name": "Ski-Snowpark",
+  "description": "Snowpark mit Wellenbahn, Steilkurven, Kicker, Jumps und Boardercross-Strecke (je nach Schneelage)"
+}

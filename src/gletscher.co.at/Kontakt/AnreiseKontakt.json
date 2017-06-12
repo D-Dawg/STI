@@ -1,0 +1,56 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "SkiResort",
+  "name": "Mölltaler Gletscherbahnen",
+  "url": "http://www.gletscher.co.at/anreise-kontakt/",
+  "logo": "http://www.gletscher.co.at/wp-content/uploads/mglogo.gif",
+  "telephone": "+43 (0) 4785 / 8110",
+  "email": "info@gletscher.co.at",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Flattach",
+    "postalCode": "A-9831",
+    "addressCountry": "Aurtria"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.027235 N",
+    "longitude": "13.008900 E"
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "name": "Winter 2016/17",
+      "opens": "8:00:00",
+      "closes": "16:30:00",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "validTrough": "2017-05-07"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "name": "Saison 2017/18",
+      "validTrough": "2018-05-13",
+      "validFrom": "2017-06-15"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Directions Car",
+      "value": "Sie erreichen uns über die Tauernautobahn A 10, Autobahnknoten Spittal/Millstätter See „Ausfahrt Lienz“ Lendorf, weiter über die Drautalbundesstraße über Möllbrücke- Obervellach FLATTACH (Mölltaler Gletscher). Ca. 38 km / 40 Minuten ab der Autobahnabfahrt."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Directions Car",
+      "value": "Von München kommend über Rosenheim > Kufstein > Kitzbühel > Pass Thurn > Felbertauernpass > Lienz über den Iselsberg ins Mölltal nach Winklern, von dort rechts abbiegen nach Stall bis Außerfragant > FLATTACH. Ca. 45 Minuten ab Lienz."
+    }
+  ]
+}

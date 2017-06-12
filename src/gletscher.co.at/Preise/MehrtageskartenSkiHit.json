@@ -1,0 +1,2437 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Offer",
+    "name": "Mehrtageskarten Ski)Hit",
+    "itemOffered": {
+      "@type": "Service",
+      "name": "Nebensaison",
+      "hoursAvailable": {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2016-06-18",
+        "validThrough": "2016-12-24"
+      },
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Erwachsene",
+        "requiredMinAge": "19"
+      },
+      "areaServed": "Mölltaler Gletscherbahnen, Hochgebirgsbahnen Ankogel, Matreier Goldried Bergbahnen, Hochpustertaler Bergbahnen, Bergbahnen St. Jakob, Bergbahnen Kals, Lienzer Bergbahnen, Obertilliacher Bergbahnen, Kartitscher Liftgesellschaft"
+    },
+    "priceSpecification": [
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "79",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "1.5",
+          "description": "Halbtage können nur am 1. Tag ab 12.00 Uhr verbraucht werden."
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "84",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "2"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "110",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "2.5",
+          "description": "Halbtage können nur am 1. Tag ab 12.00 Uhr verbraucht werden."
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "123",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "3"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "151",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "3.5",
+          "description": "Halbtage können nur am 1. Tag ab 12.00 Uhr verbraucht werden."
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "163",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "4"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "194",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "5"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "214",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "6"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "234",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "7"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "246",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "8"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "261",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "9"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "275",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "10"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "288",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "11"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "300",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "12"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "311",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "13"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "324",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "14"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "207",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "5",
+          "description": "5 in 7 Tagen"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "300",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "10",
+          "description": "10 in 14 Tagen"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Offer",
+    "name": "Mehrtageskarten Ski)Hit",
+    "itemOffered": {
+      "@type": "Service",
+      "name": "Nebensaison",
+      "hoursAvailable": {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2017-01-07",
+        "validThrough": "2017-02-04"
+      },
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Erwachsene",
+        "requiredMinAge": "19"
+      },
+      "areaServed": "Mölltaler Gletscherbahnen, Hochgebirgsbahnen Ankogel, Matreier Goldried Bergbahnen, Hochpustertaler Bergbahnen, Bergbahnen St. Jakob, Bergbahnen Kals, Lienzer Bergbahnen, Obertilliacher Bergbahnen, Kartitscher Liftgesellschaft"
+    },
+    "priceSpecification": [
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "79",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "1.5",
+          "description": "Halbtage können nur am 1. Tag ab 12.00 Uhr verbraucht werden."
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "84",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "2"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "110",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "2.5",
+          "description": "Halbtage können nur am 1. Tag ab 12.00 Uhr verbraucht werden."
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "123",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "3"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "151",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "3.5",
+          "description": "Halbtage können nur am 1. Tag ab 12.00 Uhr verbraucht werden."
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "163",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "4"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "194",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "5"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "214",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "6"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "234",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "7"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "246",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "8"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "261",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "9"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "275",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "10"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "288",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "11"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "300",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "12"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "311",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "13"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "324",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "14"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "207",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "5",
+          "description": "5 in 7 Tagen"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "300",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "10",
+          "description": "10 in 14 Tagen"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Offer",
+    "name": "Mehrtageskarten Ski)Hit",
+    "itemOffered": {
+      "@type": "Service",
+      "name": "Nebensaison",
+      "hoursAvailable": {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2017-03-25",
+        "validThrough": "2017-05-07"
+      },
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Erwachsene",
+        "requiredMinAge": "19"
+      },
+      "areaServed": "Mölltaler Gletscherbahnen, Hochgebirgsbahnen Ankogel, Matreier Goldried Bergbahnen, Hochpustertaler Bergbahnen, Bergbahnen St. Jakob, Bergbahnen Kals, Lienzer Bergbahnen, Obertilliacher Bergbahnen, Kartitscher Liftgesellschaft"
+    },
+    "priceSpecification": [
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "79",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "1.5",
+          "description": "Halbtage können nur am 1. Tag ab 12.00 Uhr verbraucht werden."
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "84",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "2"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "110",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "2.5",
+          "description": "Halbtage können nur am 1. Tag ab 12.00 Uhr verbraucht werden."
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "123",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "3"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "151",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "3.5",
+          "description": "Halbtage können nur am 1. Tag ab 12.00 Uhr verbraucht werden."
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "163",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "4"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "194",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "5"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "214",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "6"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "234",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "7"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "246",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "8"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "261",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "9"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "275",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "10"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "288",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "11"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "300",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "12"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "311",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "13"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "324",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "14"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "207",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "5",
+          "description": "5 in 7 Tagen"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "300",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "10",
+          "description": "10 in 14 Tagen"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Offer",
+    "name": "Mehrtageskarten Ski)Hit",
+    "itemOffered": {
+      "@type": "Service",
+      "name": "Hauptsaison",
+      "hoursAvailable": {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2016-12-25",
+        "validThrough": "2017-01-06"
+      },
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Erwachsene",
+        "requiredMinAge": "19"
+      },
+      "areaServed": "Mölltaler Gletscherbahnen, Hochgebirgsbahnen Ankogel, Matreier Goldried Bergbahnen, Hochpustertaler Bergbahnen, Bergbahnen St. Jakob, Bergbahnen Kals, Lienzer Bergbahnen, Obertilliacher Bergbahnen, Kartitscher Liftgesellschaft"
+    },
+    "priceSpecification": [
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "80",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "1.5",
+          "description": "Halbtage können nur am 1. Tag ab 12.00 Uhr verbraucht werden."
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "89",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "2"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "117",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "2.5",
+          "description": "Halbtage können nur am 1. Tag ab 12.00 Uhr verbraucht werden."
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "133",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "3"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "161",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "3.5",
+          "description": "Halbtage können nur am 1. Tag ab 12.00 Uhr verbraucht werden."
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "172",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "4"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "209",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "5"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "232",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "6"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "258",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "7"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "272",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "8"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "289",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "9"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "304",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "10"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "320",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "11"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "333",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "12"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "346",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "13"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "360",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "14"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "221",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "5",
+          "description": "5 in 7 Tagen"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "342",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "10",
+          "description": "10 in 14 Tagen"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Offer",
+    "name": "Mehrtageskarten Ski)Hit",
+    "itemOffered": {
+      "@type": "Service",
+      "name": "Hauptsaison",
+      "hoursAvailable": {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2017-02-05",
+        "validThrough": "2018-03-24"
+      },
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Erwachsene",
+        "requiredMinAge": "19"
+      },
+      "areaServed": "Mölltaler Gletscherbahnen, Hochgebirgsbahnen Ankogel, Matreier Goldried Bergbahnen, Hochpustertaler Bergbahnen, Bergbahnen St. Jakob, Bergbahnen Kals, Lienzer Bergbahnen, Obertilliacher Bergbahnen, Kartitscher Liftgesellschaft"
+    },
+    "priceSpecification": [
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "80",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "1.5",
+          "description": "Halbtage können nur am 1. Tag ab 12.00 Uhr verbraucht werden."
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "89",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "2"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "117",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "2.5",
+          "description": "Halbtage können nur am 1. Tag ab 12.00 Uhr verbraucht werden."
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "133",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "3"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "161",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "3.5",
+          "description": "Halbtage können nur am 1. Tag ab 12.00 Uhr verbraucht werden."
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "172",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "4"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "209",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "5"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "232",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "6"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "258",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "7"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "272",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "8"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "289",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "9"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "304",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "10"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "320",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "11"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "333",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "12"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "346",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "13"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "360",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "14"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "221",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "5",
+          "description": "5 in 7 Tagen"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "342",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "10",
+          "description": "10 in 14 Tagen"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Offer",
+    "name": "Mehrtageskarten Ski)Hit",
+    "itemOffered": {
+      "@type": "Service",
+      "name": "Nebensaison",
+      "hoursAvailable": {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2016-06-18",
+        "validThrough": "2016-12-24"
+      },
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Kinder",
+        "requiredMinAge": "6",
+        "requiredMaxAge": "19"
+      },
+      "areaServed": "Mölltaler Gletscherbahnen, Hochgebirgsbahnen Ankogel, Matreier Goldried Bergbahnen, Hochpustertaler Bergbahnen, Bergbahnen St. Jakob, Bergbahnen Kals, Lienzer Bergbahnen, Obertilliacher Bergbahnen, Kartitscher Liftgesellschaft"
+    },
+    "priceSpecification": [
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "39,50",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "1.5",
+          "description": "Halbtage können nur am 1. Tag ab 12.00 Uhr verbraucht werden."
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "42",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "2"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "55",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "2.5",
+          "description": "Halbtage können nur am 1. Tag ab 12.00 Uhr verbraucht werden."
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "61,50",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "3"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "75.50",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "3.5",
+          "description": "Halbtage können nur am 1. Tag ab 12.00 Uhr verbraucht werden."
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "81.50",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "4"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "97",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "5"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "107",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "6"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "117",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "7"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "123",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "8"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "130.50",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "9"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "137.50",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "10"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "144",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "11"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "150",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "12"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "155.50",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "13"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "162",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "14"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "103.50",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "5",
+          "description": "5 in 7 Tagen"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "110.50",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "10",
+          "description": "10 in 14 Tagen"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Offer",
+    "name": "Mehrtageskarten Ski)Hit",
+    "itemOffered": {
+      "@type": "Service",
+      "name": "Nebensaison",
+      "hoursAvailable": {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2017-01-07",
+        "validThrough": "2017-02-04"
+      },
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Kinder",
+        "requiredMinAge": "6",
+        "requiredMaxAge": "19"
+      },
+      "areaServed": "Mölltaler Gletscherbahnen, Hochgebirgsbahnen Ankogel, Matreier Goldried Bergbahnen, Hochpustertaler Bergbahnen, Bergbahnen St. Jakob, Bergbahnen Kals, Lienzer Bergbahnen, Obertilliacher Bergbahnen, Kartitscher Liftgesellschaft"
+    },
+    "priceSpecification": [
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "39,50",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "1.5",
+          "description": "Halbtage können nur am 1. Tag ab 12.00 Uhr verbraucht werden."
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "42",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "2"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "55",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "2.5",
+          "description": "Halbtage können nur am 1. Tag ab 12.00 Uhr verbraucht werden."
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "61,50",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "3"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "75.50",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "3.5",
+          "description": "Halbtage können nur am 1. Tag ab 12.00 Uhr verbraucht werden."
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "81.50",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "4"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "97",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "5"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "107",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "6"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "117",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "7"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "123",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "8"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "130.50",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "9"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "137.50",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "10"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "144",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "11"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "150",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "12"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "155.50",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "13"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "162",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "14"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "103.50",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "5",
+          "description": "5 in 7 Tagen"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "110.50",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "10",
+          "description": "10 in 14 Tagen"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Offer",
+    "name": "Mehrtageskarten Ski)Hit",
+    "itemOffered": {
+      "@type": "Service",
+      "name": "Nebensaison",
+      "hoursAvailable": {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2017-03-25",
+        "validThrough": "2017-05-07"
+      },
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Kinder",
+        "requiredMinAge": "6",
+        "requiredMaxAge": "19"
+      },
+      "areaServed": "Mölltaler Gletscherbahnen, Hochgebirgsbahnen Ankogel, Matreier Goldried Bergbahnen, Hochpustertaler Bergbahnen, Bergbahnen St. Jakob, Bergbahnen Kals, Lienzer Bergbahnen, Obertilliacher Bergbahnen, Kartitscher Liftgesellschaft"
+    },
+    "priceSpecification": [
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "39,50",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "1.5",
+          "description": "Halbtage können nur am 1. Tag ab 12.00 Uhr verbraucht werden."
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "42",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "2"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "55",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "2.5",
+          "description": "Halbtage können nur am 1. Tag ab 12.00 Uhr verbraucht werden."
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "61,50",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "3"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "75.50",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "3.5",
+          "description": "Halbtage können nur am 1. Tag ab 12.00 Uhr verbraucht werden."
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "81.50",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "4"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "97",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "5"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "107",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "6"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "117",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "7"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "123",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "8"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "130.50",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "9"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "137.50",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "10"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "144",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "11"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "150",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "12"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "155.50",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "13"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "162",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "14"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "103.50",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "5",
+          "description": "5 in 7 Tagen"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "110.50",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "10",
+          "description": "10 in 14 Tagen"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Offer",
+    "name": "Mehrtageskarten Ski)Hit",
+    "itemOffered": {
+      "@type": "Service",
+      "name": "Hauptsaison",
+      "hoursAvailable": {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2016-12-25",
+        "validThrough": "2017-01-06"
+      },
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Kinder",
+        "requiredMinAge": "6",
+        "requiredMaxAge": "19"
+      },
+      "areaServed": "Mölltaler Gletscherbahnen, Hochgebirgsbahnen Ankogel, Matreier Goldried Bergbahnen, Hochpustertaler Bergbahnen, Bergbahnen St. Jakob, Bergbahnen Kals, Lienzer Bergbahnen, Obertilliacher Bergbahnen, Kartitscher Liftgesellschaft"
+    },
+    "priceSpecification": [
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "40",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "1.5",
+          "description": "Halbtage können nur am 1. Tag ab 12.00 Uhr verbraucht werden."
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "44.50",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "2"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "58,50",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "2.5",
+          "description": "Halbtage können nur am 1. Tag ab 12.00 Uhr verbraucht werden."
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "66",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "3"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "80.50",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "3.5",
+          "description": "Halbtage können nur am 1. Tag ab 12.00 Uhr verbraucht werden."
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "86",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "4"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "104.50",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "5"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "116",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "6"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "129",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "7"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "136",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "8"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "144.50",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "9"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "152",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "10"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "160",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "11"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "166,50",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "12"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "173",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "13"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "180",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "14"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "110,50",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "5",
+          "description": "5 in 7 Tagen"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "171",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "10",
+          "description": "10 in 14 Tagen"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Offer",
+    "name": "Mehrtageskarten Ski)Hit",
+    "itemOffered": {
+      "@type": "Service",
+      "name": "Hauptsaison",
+      "hoursAvailable": {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2017-02-05",
+        "validThrough": "2017-03-24"
+      },
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Kinder",
+        "requiredMinAge": "6",
+        "requiredMaxAge": "19"
+      },
+      "areaServed": "Mölltaler Gletscherbahnen, Hochgebirgsbahnen Ankogel, Matreier Goldried Bergbahnen, Hochpustertaler Bergbahnen, Bergbahnen St. Jakob, Bergbahnen Kals, Lienzer Bergbahnen, Obertilliacher Bergbahnen, Kartitscher Liftgesellschaft"
+    },
+    "priceSpecification": [
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "40",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "1.5",
+          "description": "Halbtage können nur am 1. Tag ab 12.00 Uhr verbraucht werden."
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "44.50",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "2"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "58,50",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "2.5",
+          "description": "Halbtage können nur am 1. Tag ab 12.00 Uhr verbraucht werden."
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "66",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "3"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "80.50",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "3.5",
+          "description": "Halbtage können nur am 1. Tag ab 12.00 Uhr verbraucht werden."
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "86",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "4"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "104.50",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "5"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "116",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "6"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "129",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "7"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "136",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "8"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "144.50",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "9"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "152",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "10"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "160",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "11"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "166,50",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "12"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "173",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "13"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "180",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "14"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "110,50",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "5",
+          "description": "5 in 7 Tagen"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "171",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "DAY",
+          "unitText": "Day",
+          "value": "10",
+          "description": "10 in 14 Tagen"
+        }
+      }
+    ]
+  }
+]

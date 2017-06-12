@@ -1,0 +1,67 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "ImageObject",
+    "contentUrl": "http://www.gg-resort.at/wp-content/2016/08/skibus2.gif",
+    "description": "24/12/2016 - 17/04/2017",
+    "name": "Timetable line Matrei - Center"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "ImageObject",
+    "contentUrl": "http://www.gg-resort.at/wp-content/2016/08/skibus1.gif",
+    "description": "25/12/2016 - 31/03/2017",
+    "name": "Huben - Matrei"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "ImageObject",
+    "contentUrl": "http://www.gg-resort.at/wp-content/2016/08/skibus3.gif",
+    "description": "25/12/2016 - 31/03/2017",
+    "name": "Tauernhaus"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "ImageObject",
+    "contentUrl": "http://www.gg-resort.at/wp-content/2016/08/skibus4.gif",
+    "description": "25.12.2016 - 31.03.2017 according to schedule \r\n04.01.2017 - 04.17.2017 One Way 08:55 / return 16:30",
+    "name": "Prägraten - Virgen - Matrei"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "ImageObject",
+    "contentUrl": "http://www.gg-resort.at/wp-content/2016/08/skibus5.gif",
+    "description": "25/12/2016 - 31/03/2017",
+    "name": "Tauernhaus"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "DigitalDocument",
+    "name": "Roadmap Huben Matrei-2016-2017",
+    "url": "http://www.gg-resort.at/wp-content/2016/08/Fahrplan-Huben-Matrei-2016-2017.pdf"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "DigitalDocument",
+    "name": "Roadmap Zedlach-Ganz Bichl 2016-2017",
+    "url": "http://www.gg-resort.at/wp-content/2016/08/Fahrplan-Zedlach-Ganz-Bichl-2016-2017.pdf"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "DigitalDocument",
+    "name": "Virgental timetable 2016-2017",
+    "url": "http://www.gg-resort.at/wp-content/2016/08/Fahrplan-Virgental-2016-2017.pdf"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "DigitalDocument",
+    "name": "Roadmap Tauernhaus 2016-2017",
+    "url": "http://www.gg-resort.at/wp-content/2016/08/Fahrplan-Tauernhaus-2016-2017.pdf"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "DigitalDocument",
+    "name": "Timetable line Matrei - Center 2016 - 2017",
+    "url": "http://www.gg-resort.at/wp-content/2016/08/Fahrplan-Linie-Matrei-Zentrum-2016-2017.pdf"
+  }
+]

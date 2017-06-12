@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "CreativeWork",
+    "name": "Wanderparadies Mölltaler Gletscher",
+    "url": "http://www.gletscher.co.at/sommer-wandern-skifahren/",
+    "text": "Der Bergsommer lockt viele Kärntner Urlaubsgäste und auch Einheimische in das Wanderparadies am Mölltaler Gletscher. Die Reise beginnt mit der Standseilbahn Gletscher Express.",
+    "hasPart": [
+      {
+        "@type": "CreativeWork",
+        "text": "Nach acht Minuten und 4,8 km ist man auf 2.200 Meter über dem Meer, hier erwartet Sie eine andere Welt. Eine erfrischende Abwechslung mit angenehmen Temperaturen im Vergleich zu den heißen Tagen am Badesee empfängt den Besucher. Die Goldgräberhütte, die Europabar und das Weißseehaus sind erste Stationen auf Ihrem Weg ins Erlebnis 3000. Die Weiterfahrt mit der 6-er Gondelbahn Eissee bringt den Besucher dann zur Bergstation mit dem Panorama-Restaurant Eissee auf 2.800 m Seehöhe.",
+        "image": [
+          "http://www.gletscher.co.at/wp-content/uploads/Wandern-3.jpg",
+          "http://www.gletscher.co.at/wp-content/uploads/Wandern-9-500x375.jpg"
+        ]
+      },
+      {
+        "@type": "CreativeWork",
+        "name": "Gletscher-Wanderweg mit Gipfel-Erlebnis",
+        "text": "Von hier aus stehen dem Wanderer viele Möglichkeiten offen. Die beliebteste Route über den Gletscherwanderweg bis zum Gipfelerlebnis auf dem Schareck (3.122m) ist nur eine von 14 verschiedenen Wandermöglichkeiten und bietet einen herrlichen Blick auf die Bergwelt der Hohen Tauern. Der Sonnblick, der Großglockner und weitere 28 Bergriesen aus Kärnten, Salzburg, Osttirol, Südtirol, Italien und Slowenien bilden die beindruckende Alpinkulisse für diesen Ausflug.Die Rückkehr zur Bergstation kann man dann bequem mit der 6-er Sesselbahn „Gletscher Jet“ machen. Wenn es dann Zeit für eine Pause ist, sucht man sich auf der Sonnenterrasse des „Glaspalastes“ einen lauschigen Platz. Liegestühle laden zum Verweilen ein und die Berge sind ein herrlicher Hintergrund für das Erinnerungsbild für das Fotoalbum zu Hause."
+      },
+      {
+        "@type": "CreativeWork",
+        "name": "Die Bergseen am Mölltaler Gletscher",
+        "text": "Die 8 großen und kleineren Seen, wie der Eissee als Namenspatron des Restaurants, der Weißsee und Schwarzsee, sowie der Hochwurtenspeicher, der seinen Namen vom Wurtenkees hat, prägen im Sommer das Panorama am Mölltaler Gletscher. Die Seen werden zur Gewinnung elektrischen Stroms aus Wasserenergie eingesetzt, eine umweltfreundliche und unerschöpfliche Energiequelle. Gleichzeitig sind sie auch ein herrlicher Rastplatz auf einer der vielen Wanderungen, an welchem der Betrachter sich mit dem Spiegelbild der Alpen im Hintergrund im Bergsee bewundern kann."
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Website",
+    "name": "Osttirol's Glockner-Dolomiten Card",
+    "image": "http://www.gletscher.co.at/wp-content/uploads/csm_OsttirolCard16_NEU_c66ffc868c.jpg",
+    "url": "http://www.osttirol.com/osttirol-erleben/sommerurlaub-osttirol/osttirols-glockner-dolomiten-card.html"
+  }
+]

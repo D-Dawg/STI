@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Hotel",
+  "name": "Adler lounge",
+  "image": "http://www.gg-resort.at/wp-content/idl-067-adler-lounge-kopie-11.jpg",
+  "description": "The Adler Lounge. - enjoyment, tradition and elation. The love of doing and the joy of culinary enjoyment are clearly in the foreground. Linked to this was the desire to develop something special, long driving force to think about something new. So the idea was born to Adler Lounge. The Grossglockner Resort becomes the stage for a get together with a difference. In the Adlerlounge the components mountain, architecture and pleasure meet. In addition, a very special feeling, which is created by the combination of living tradition and lifestyle. an unforgettable time with the guest in is the goal. The Adler Lounge invites to enjoy high up an innovatively packaged delicacies. For people who are looking for a very special time out, the lounge offers stylish suites. Bespoke packages guarantee you that particular time that we call vacation.",
+  "url": "http://www.adlerlounge.at/",
+  "containedInPlace": {
+    "@context": "http://www.schema.org",
+    "@type": "SkiResort",
+    "name": "Großglockner Resort Kals-Matrei",
+    "url": "http://www.gg-resort.at/",
+    "sameAs": [
+      "https://www.facebook.com/ggresort/",
+      "https://twitter.com/schultzgruppe",
+      "https://www.youtube.com/user/SchultzGruppe"
+    ],
+    "logo": "http://www.gg-resort.at/wp-content/logo.png",
+    "image": "http://www.schultz-ski.at/wp-content/uploads/2011/04/Panorama-Kals-Matrei-600x364.jpg",
+    "address": [
+      {
+        "@type": "PostalAddress",
+        "name": "Matreier Goldried Bergbahnen GmbH & Co KG",
+        "streetAddress": "Talstation",
+        "addressLocality": "Matrei in Osttirol",
+        "postalCode": "A-9971",
+        "addressCountry": "Austria",
+        "telephone": "+ 43.4875.6067",
+        "faxNumber": "+ 43.4875.6067.4",
+        "email": "info@matrei-ski.at"
+      },
+      {
+        "@type": "PostalAddress",
+        "name": "Bergbahnen Kals am Großglockner Gmbh & Co KG",
+        "streetAddress": "Großdorf 70",
+        "addressLocality": "Kals am Großglockner",
+        "postalCode": "A-9981",
+        "addressCountry": "Austria",
+        "telephone": "+43.4876.8233",
+        "faxNumber": "+43.4876.8233.10"
+      }
+    ]
+  }
+}

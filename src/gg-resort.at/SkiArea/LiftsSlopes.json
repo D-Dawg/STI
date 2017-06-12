@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "CreativeWork",
+  "name": "Lifts & Slopes",
+  "url": "http://www.gg-resort.at/?page_id=2272",
+  "text": "41.6 km of pistes the Grossglockner Resort is the largest ski resort in East Tyrol. You can expect fun on the slopes at the highest level. 100% of the area is covered with snow and snow-covered three descents guarantee snow until spring. Generous beginner areas both in Kals and in Matrei promise wonderful conditions for experts and beginners.",
+  "image": "http://www.gg-resort.at/wp-content/tn_P100009-1393-300x216.jpg",
+  "hasPart": [
+    {
+      "@type": "CreativeWork",
+      "name": "Facts",
+      "image": "http://www.gg-resort.at/wp-content/tn_P100009-532-300x200.jpg",
+      "text": "Modern quad chair lifts up to 2,426 m\r\nSelective slopes of all levels to front door to the valley\r\nSnow safety through powerful snowmaking system\r\nSki school with ski kindergarten and children's ski lift\r\n14 lifts with a capacity of over 21,491 people\r\nNo waiting"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Ski schools",
+      "hasPart": [
+        {
+          "@type": "CreativeWork",
+          "name": "Kal",
+          "text": "Beginner and Kinderskigelände middle of the village on a sunny meadow"
+        },
+        {
+          "@type": "CreativeWork",
+          "name": "Matrei",
+          "text": "Children under 6 ride for free - even at Anfängerskigelände and in the ski schools\r\nChildren ski pass up to 18 years !!!\r\nDirectly at the mountain station of the gondola: Property closed for children with heat exchange, magic carpet * and spacious grounds\r\nExperienced and award-winning children's ski schools for children from 4 years"
+        }
+      ]
+    }
+  ]
+}

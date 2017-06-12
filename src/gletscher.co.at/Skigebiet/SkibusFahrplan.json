@@ -1,0 +1,8 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "SpreadsheetDigitalDocument",
+  "image": "http://www.gletscher.co.at/wp-content/uploads/skibus201617.gif",
+  "name": "Flattach - Mölltaler Gletscher",
+  "description": "Skibus Hotline: +43 664 1278579\r\n\r\nVerkehrsbeschränkungen:\r\n\r\n1 = Täglich von 25.12.2016 bis 17.04.2017\r\n2 = Täglich von 22.10.2016 bis 01.05.2017",
+  "url": "http://www.gletscher.co.at/das-skigebiet/skibus-fahrplan/"
+}

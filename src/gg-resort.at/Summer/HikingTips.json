@@ -1,0 +1,24 @@
+{
+  "@context": "http://schema.org",
+  "@type": "CreativeWork",
+  "name": "hiking tips",
+  "url": "http://www.gg-resort.at/?page_id=2313",
+  "text": "Rambling on about 1,325 m. Experience the positive effect of the clear mountain air and the healthy climate of East Tyrol. Here you will find in the hustle and bustle of everyday life guarantees the necessary peace and space to relax. East Tyrol them presents with countless hours of sunshine and makes your holiday an experience.",
+  "hasPart": [
+    {
+      "@type": "CreativeWork",
+      "name": "important tips",
+      "text": "Only fit into the mountains and not only fit through the mountains.\r\nNo hike without careful tour.\r\nFor the planned tour to take the right equipment and nothing unnecessary.\r\nAppropriate footwear is essential! Only hiking boots into the ground!\r\nobtain information about the tour and the weather conditions.\r\nInsert every two hours a ten minute break.\r\nDuring the tour extensively drink and eat.\r\nNever leave the marked path.\r\ncancel in time in case of danger or weather worsening the tour.\r\nAn emergency equipment (first-aid box, mobile phone and flashlight) belongs in every backpack.\r\nStay calm in an emergency and to contact the Mountain Rescue:\r\nAlpine distress signal euro emergency call 112, Mountain Rescue 140th"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "good planning",
+      "text": "Even before the start, you can do a lot for the safety on a hike or mountain tour: On the good planning is what matters. The selection of a route must always be based on the physical condition and mountain experience of the weakest member of a group. In mountain tours so be sure to make inquiries about difficulty and Road surface! Who wants to be sure, includes best in a guided hiking group. This has given in addition to the security that the mountain guides know how to tell a lot about the country and people the advantage. In addition, walking with a group of like-minded often even more fun."
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "good equipment",
+      "text": "The equipment must always be adapted to the conditions. Map and sun and rain protection belong in every backpack. The weather in the mountains can often change quickly and provide for unpleasant surprises. Good shoes are without this requirement, and telescopic poles protect the knee joints while walking. not be careless even with easy walks and getting enough to eat and take, especially if children are drinking. Do not forget to exercise in the fresh mountain air makes you thirsty and awakens the appetite!"
+    }
+  ]
+}

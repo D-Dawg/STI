@@ -1,0 +1,165 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "OfferCatalog",
+  "name": "SKIERS PRICES - Winter 2017/18",
+  "url": "http://www.gg-resort.at/?page_id=692",
+  "itemListElement": [
+    {
+      "@type": "OfferCatalog",
+      "name": "Adults from 1998",
+      "itemListElement": {
+        "@type": "Offer",
+        "name": "Day tickets",
+        "itemOffered": {
+          "@type": "Service",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "opens": "09:00",
+            "closes": "16:30",
+            "validFrom": "2017-12-02",
+            "validThrough": "2018-04-08",
+            "description": "Schedule and fare changes! Reduction for severely disabled from 60 percent disability; \r\nSeason tickets 11:00 to 14:00 may only be purchased at the respective time. \r\nDay tickets valid only in the ski resort Sillian Hochpustertal"
+          },
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Adults",
+            "requiredMinAge": "19"
+          }
+        },
+        "priceSpecification": [
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "46.50",
+            "priceCurrency": "EUR",
+            "validFrom": "T09:00"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "41.00",
+            "priceCurrency": "EUR",
+            "validFrom": "T11:00"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "38.00",
+            "priceCurrency": "EUR",
+            "validFrom": "T12:00"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "31.00",
+            "priceCurrency": "EUR",
+            "validFrom": "T13:00"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "23.50",
+            "priceCurrency": "EUR",
+            "validFrom": "T14:00"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "OfferCatalog",
+      "name": "Children (1999-2011)",
+      "itemListElement": {
+        "@type": "Offer",
+        "name": "Day tickets",
+        "itemOffered": {
+          "@type": "Service",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "opens": "09:00",
+            "closes": "16:30",
+            "validFrom": "2017-12-02",
+            "validThrough": "2018-04-08",
+            "description": "Schedule and fare changes! Reduction for severely disabled from 60 percent disability; \r\nSeason tickets 11:00 to 14:00 may only be purchased at the respective time. \r\nDay tickets valid only in the ski resort Sillian Hochpustertal"
+          },
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Children ",
+            "requiredMinAge": "6",
+            "requiredMaxAge": "18"
+          }
+        },
+        "priceSpecification": [
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "24.00",
+            "priceCurrency": "EUR",
+            "validFrom": "T09:00"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "20.50",
+            "priceCurrency": "EUR",
+            "validFrom": "T11:00"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "19.00",
+            "priceCurrency": "EUR",
+            "validFrom": "T12:00"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "15.50",
+            "priceCurrency": "EUR",
+            "validFrom": "T13:00"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "11.50",
+            "priceCurrency": "EUR",
+            "validFrom": "T14:00"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "OfferCatalog",
+      "name": "Children (2012 - 2017)",
+      "itemListElement": {
+        "@type": "Offer",
+        "name": "Day tickets",
+        "itemOffered": {
+          "@type": "Service",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "opens": "09:00",
+            "closes": "16:30",
+            "validFrom": "2017-12-02",
+            "validThrough": "2018-04-08",
+            "description": "Schedule and fare changes! Reduction for severely disabled from 60 percent disability; \r\nSeason tickets 11:00 to 14:00 may only be purchased at the respective time. \r\nDay tickets valid only in the ski resort Sillian Hochpustertal"
+          },
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Children ",
+            "requiredMinAge": "0",
+            "requiredMaxAge": "5"
+          }
+        },
+        "priceSpecification": [
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "0.00",
+            "priceCurrency": "EUR",
+            "validFrom": "T09:00"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "DigitalDocument",
+    "name": "Grossglockner Resort 2016/17",
+    "url": "http://www.gg-resort.at/wp-content/2016/02/GG-RESORT-16-17_a5.pdf"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "DigitalDocument",
+    "name": "SkiHit 2016/17 EN",
+    "url": "http://www.gg-resort.at/wp-content/2016/02/Deckblatt_engl-16-17_a6.pdf"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "DigitalDocument",
+    "name": "SkiHit 2016/17 IT",
+    "url": "http://www.gg-resort.at/wp-content/2016/02/Deckblatt_ital-16-17_a6.pdf"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "DigitalDocument",
+    "name": "Sommerkarte gg ressort kals 2017 ansicht v2",
+    "url": "https://issuu.com/schultzgruppe/docs/sommerkarte_gg-ressort_kals_2017_an"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "DigitalDocument",
+    "name": "Gg resort 16 17 a5",
+    "url": "https://issuu.com/schultzgruppe/docs/gg-resort-16-17_a5/1"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "DigitalDocument",
+    "name": "Tages und Mehrtageskarten SkiHit 2016/17",
+    "url": "https://issuu.com/schultzgruppe/docs/tages-_und_mehrtageskarten_skihit_1_1b214e549a46f4/1"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "DigitalDocument",
+    "name": "SkiHit Winter 2016/17 DE/EN",
+    "url": "https://issuu.com/schultzgruppe/docs/deckblatt_engl-16-17_a6"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "DigitalDocument",
+    "name": "Ski Hit Winter",
+    "url": "https://issuu.com/schultzgruppe/docs/klein_ski_hit_news_winter_2013-14__"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "@context": "http://schema.org",
+  "@type": "CreativeWork",
+  "name": "Summer Panorama",
+  "url": "http://www.gg-resort.at/?page_id=2314",
+  "hasPart": [
+    {
+      "@type": "ImageObject",
+      "name": "Summer Panorama",
+      "contentUrl": "http://www.gg-resort.at/wp-content/KM_PAN_SOMMER_1.jpg"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Some worthwhile and interesting hiking suggestions",
+      "image": "http://www.gg-resort.at/wp-content/somm_1bild_bergstation.jpg",
+      "text": "The Europa Panoramaweg is an ideal family hiking trail between the mountain station Goldried (2,190 m) in Matrei and the top station Blauspitz (2,305 m) in Kals am Grossglockner. Duration: 2.5 hours.\r\n\r\nClimbing mountains: blue peak (2,575 m); Duration: 2.5 hours. Kendlspitze (3,085 m); Duration: about 5 hours.\r\n\r\nMountain station Goldried - Kals-Matreier Törl - Red mountain (2,762 m) - Cimaross left into Goldried - Goldriedsee - Europa Panoramaweg - mountain station Goldried. Duration: about 4 hours.\r\n\r\nMountain station Goldried - Kals-Matreier Törl - Kals height - Hochtor - Kals-Matreier Törl - Europa Panoramaweg - mountain station. The wholesale glockner is within reach and the view to the Tauern and Vir-gental is unique! Duration: about 5 hours.\r\n\r\nMountain station Blauspitz, Kal: Direct access to the fixed rope to the blue peak, excursion around the Blauspitze, Lehrweg living in snow and ice, Panorama for Kals-Matreier Törl and back on the Kals height - about 2.5 hours."
+    }
+  ]
+}

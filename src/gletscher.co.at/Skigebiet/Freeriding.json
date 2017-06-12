@@ -1,0 +1,117 @@
+{
+  "@context": "http://schema.org",
+  "@type": "WebPage",
+  "name": "Freeriding Mölltaler Gletscher",
+  "hasPart": [
+    {
+      "@type": "MediaObject",
+      "name": "Freeride Map - Hohe Tauern Select",
+      "url": "https://youtu.be/vKaC0_NrtVE"
+    },
+    {
+      "@type": "MediaObject",
+      "name": "Freeride Map - Hohe Tauern",
+      "url": "http://www.ankogel-ski.at/wp-content/uploads/FRM_Hohe_Tauern.pdf"
+    }
+  ],
+  "about": [
+    {
+      "@type": "SportsActivityLocation",
+      "name": "Variante\r\nBaumbachspitze-Sportgastein\r\nüber Schlapperebenkees",
+      "image": [
+        "http://www.gletscher.co.at/wp-content/uploads/IMG_3435-150x150.jpg",
+        "http://www.gletscher.co.at/wp-content/uploads/IMG_3332-150x150.jpg",
+        "http://www.gletscher.co.at/wp-content/uploads/IMG_3345-150x150.jpg",
+        "http://www.gletscher.co.at/wp-content/uploads/IMG_3374-150x150.jpg"
+      ],
+      "amenityFeature": [
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": "Schwierigkeit",
+          "value": "leicht bis mittel"
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": "Exposition",
+          "value": "Südost, Nordost, Ost"
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": "Höhenmeter Abfahrt",
+          "value": "1500 ",
+          "unitCode": "MTR"
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": "Strecke",
+          "value": "4700",
+          "unitCode": "MTR"
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": "Charakter",
+          "value": "Die hier beschriebene Skivariante ist sozusagen der Klassiker unter den vielen  Möglichkeiten, mit breiten Freeride Skiern vom Skigebiet Mölltaler Gletscher nach Sportgastein zu fahren. Das weite Skigelände und einzigartige Panorama der Hohen Tauern machen den Tag im Pulverschnee zum Erlebnis. In Sportgastein angekommen, kann man entweder dort weiterfahren oder mittels Bus und Bahn zum Ankogel wechseln, wo ebenfalls ein weitläufiges Freeride-Gelände vorhanden ist."
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": "Anschluss",
+          "value": "In Sportgastein weiter skifahren oder mittels Taxi/Bus und Bahn nach Mallnitz.  Dort im Skigebiet Ankogel weiterfahren (mit Taxi/Bus erreichbar) oder mittels Taxi zurück zum Mölltaler Gletscher."
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": "Beschreibung",
+          "value": "Im Skigebiet Mölltaler Gletscher mit dem Gletscher Jet zum höchsten Punkt. Nun steigt man entweder zur südöstlich gelegenen Baumbachspitze (3105m) auf oder fährt über den Ziehweg zur noch südöstlicher gelegenen Scharte (ca. 300m). Nun über die südöstlichen Hänge zum Schlapperebenkees. Kurz etwas flacher mündet es in eine etwas steilere Engstelle, die linkerhand gefahren wird. In nordöstlicher Richtung weiter erreicht man das Schlapperebenkar. Hier hält man sich unter den Felsbändern rechts und gelangt so in die große Burgstallrinne. Die Einfahrt ist kurz etwas steiler, flacht aber rasch ab. Am Ende der Rinne angelangt fährt man sich immer links haltend über einen Karrenweg bis zur Talstation Sportgastein."
+        }
+      ]
+    },
+    {
+      "@type": "SportsActivityLocation",
+      "name": "Variante Schareck-Sportgastein",
+      "image": [
+        "http://www.gletscher.co.at/wp-content/uploads/IMG_3358-150x150.jpg",
+        "http://www.gletscher.co.at/wp-content/uploads/IMG_3370-150x150.jpg",
+        "http://www.gletscher.co.at/wp-content/uploads/IMG_3350-150x150.jpg",
+        "http://www.gletscher.co.at/wp-content/uploads/IMG_3356-150x150.jpg"
+      ],
+      "amenityFeature": [
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": "Schwierigkeit",
+          "value": "mittel bis schwer"
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": "Exposition",
+          "value": "Südost, Nordost, Ost"
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": "Höhenmeter Abfahrt",
+          "value": "1500 ",
+          "unitCode": "MTR"
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": "Strecke",
+          "value": "4400",
+          "unitCode": "MTR"
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": "Charakter",
+          "value": "Diese Skivariante ist, wie man im Volksmund sagt, ein echtes Zuckerl. Zunächst rauscht man im wahrsten Sinne des Wortes über einen 800 Höhenmeter langen  und gleichmäßig steilen Hang hinunter. Anschließend sollte man den Radius verkürzen, wenn man über eine der beiden Rinnen bis nach Sportgastein gelangt. Aufgrund der Steilheit und des alpinen Charakters bleibt diese Route erfahrenen Skifahrern vorbehalten und sollte nur an sicheren Tagen befahren werden!"
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": "Anschluss",
+          "value": "In Sportgastein weiter skifahren oder mittels Taxi/Bus und Bahn nach Mallnitz.  Dort im Skigebiet Ankogel weiterfahren (mit Taxi/Bus erreichbar) oder mittels Taxi zurück zum Mölltaler Gletscher."
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": "Beschreibung",
+          "value": "Im Skigebiet Mölltaler Gletscher mit dem Gletscher Jet zum höchsten Punkt. Nach dem Aussteigen an der Bergstation gleich rechts weg und hinter dem Lifthaus in die Scharte zwischen Schareck und Baumbachspitze (Aufstiegszeit: ca. 15 Sekunden :-)). Kurz links haltend erreicht man nach wenigen Höhenmetern den langen Nordosthang. Diesen hinab ins Schlapperebenkar. Nun entweder über die kleine Burgstallrinne (ca. in der Mitte des Kars) oder über die große Burgstallrinne hinab. Am Ende beider Rinnen sieht man bereits den Weiterweg über den Ziehweg zur Talstation in Sportgastein."
+        }
+      ]
+    }
+  ]
+}

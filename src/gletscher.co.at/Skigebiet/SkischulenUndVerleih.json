@@ -1,0 +1,32 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Intesport Mölltaler Gletscher",
+    "image": "http://www.gletscher.co.at/wp-content/uploads/intersport.jpg",
+    "email": "daniel.mentil@intersport.at",
+    "url": "www.intersportmentil.at"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Skischule „Ski & Board Academy“",
+    "image": "http://www.gletscher.co.at/wp-content/uploads/logo_schischule-1.jpg",
+    "email": "skischool@flattach.at",
+    "url": "http://www.appartementhaus-mentil.info/schischule.htm",
+    "telephone": "+43 664 2252860"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Skischule & Skiverleih „Sporthaus Zraunig“",
+    "image": "http://www.gletscher.co.at/wp-content/uploads/25-jahre-Logo.jpg",
+    "email": "info@weisseehaus.at",
+    "url": "http://www.weisseehaus.at/",
+    "faxNumber": "+43 (0) 4785 20738",
+    "telephone": [
+      "+43 (0) 4785 20734",
+      "+43 (0) 664 45 51 848"
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Tyrolean ski school Kals ",
+  "description": "ATU 69913524",
+  "telephone": "+43 680 21 43 580",
+  "email": "info@skischule-kals.at",
+  "image": "http://www.gg-resort.at/wp-content/image001.png",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Grossdorf 84 ",
+    "addressLocality": "Kals",
+    "postalCode": "A-9981",
+    "addressCountry": "Austria"
+  },
+  "url": "www.skischule-kals.at"
+}

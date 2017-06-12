@@ -1,0 +1,26 @@
+{
+  "@context": "schema.org",
+  "@type": "SportsActivityLocation",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "telephone": "+43 4785 / 8110",
+    "email": "info@gletscher.co.at"
+  },
+  "event": {
+    "@type": "Event",
+    "name": "Sommersaison",
+    "offers": {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "hoursAvailable": {
+          "@type": "OpeningHoursSpecification",
+          "opens": "08:00",
+          "closes": "16:30",
+          "validFrom": "2017-06-15"
+        }
+      }
+    }
+  }
+}

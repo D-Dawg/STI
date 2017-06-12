@@ -1,0 +1,112 @@
+[{
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name": "Snow Fit",
+  "url": "http://www.gg-resort.at/?p=2397",
+  "startDate": "2018-01-06",
+  "endDate": "2018-02-03",
+  "description": "3 nights in each category3-day ski pass SKi) Hit3 days ski hire1 x Packed lunch on the mountain",
+  "location": {
+    "@type": "Place",
+    "name": "Accommodation is in selected private pensions, guesthouses or hotels."
+  },
+  "offers": [
+    {
+      "@type": "Offer",
+      "name": "PRIVATE PENSION",
+      "description": "bed / breakfast with shower / toilet ",
+      "priceSpecification": {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "322.00",
+        "priceCurrency": "EUR"
+      }
+    },
+    {
+      "@type": "Offer",
+      "name": "INNS / HOTELS ***",
+      "description": "with half board ",
+      "priceSpecification": {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "419.00",
+        "priceCurrency": "EUR"
+      }
+    }
+  ]
+},
+{
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name": "Snow Fit",
+  "url": "http://www.gg-resort.at/?p=2397",
+  "startDate": "2018-03-09",
+  "endDate": "2018-03-24",
+  "description": "3 nights in each category3-day ski pass SKi) Hit3 days ski hire1 x Packed lunch on the mountain",
+  "location": {
+    "@type": "Place",
+    "name": "Accommodation is in selected private pensions, guesthouses or hotels."
+  },
+  "offers": [
+    {
+      "@type": "Offer",
+      "name": "PRIVATE PENSION",
+      "description": "bed / breakfast with shower / toilet ",
+      "priceSpecification": {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "322.00",
+        "priceCurrency": "EUR"
+      }
+    },
+    {
+      "@type": "Offer",
+      "name": "INNS / HOTELS ***",
+      "description": "with half board ",
+      "priceSpecification": {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "419.00",
+        "priceCurrency": "EUR"
+      }
+    }
+  ]
+},
+{
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name": "Snow Fit",
+  "url": "http://www.gg-resort.at/?p=2397",
+  "startDate": "2018-04-03",
+  "endDate": "2018-04-08",
+  "description": "3 nights in each category3-day ski pass SKi) Hit3 days ski hire1 x Packed lunch on the mountain",
+  "location": {
+    "@type": "Place",
+    "name": "Accommodation is in selected private pensions, guesthouses or hotels."
+  },
+  "offers": [
+    {
+      "@type": "Offer",
+      "name": "PRIVATE PENSION",
+      "description": "bed / breakfast with shower / toilet ",
+      "priceSpecification": {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "322.00",
+        "priceCurrency": "EUR"
+      }
+    },
+    {
+      "@type": "Offer",
+      "name": "INNS / HOTELS ***",
+      "description": "with half board ",
+      "priceSpecification": {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "419.00",
+        "priceCurrency": "EUR"
+      }
+    }
+  ]
+}
+]

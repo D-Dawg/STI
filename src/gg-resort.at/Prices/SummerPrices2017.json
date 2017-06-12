@@ -1,0 +1,1456 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "OfferCatalog",
+  "name": "Summer prices 2017",
+  "url": "http://www.gg-resort.at/?page_id=753",
+  "description": "Summer mode (only in good weather)\r\n\r\nMatrei: continuously from 25.06.2017 to 09.10.2017\r\nKal: from June once a week\r\nnon-stop from 25/06/2017 to 24/09/2017",
+  "itemListElement": [
+    {
+      "@context": "http://www.schema.org",
+      "@type": "OfferCatalog",
+      "name": "Season hiking map, 6 lifts",
+      "description": "Available from June 2017 to 24 September 2017: St. Matreier Goldried mountain railways, cable cars Kals am Grossglockner, Hochpustertaler tracks Sillian, ski Jakob iD, Mölltaler Glacier (Glacier Express and EUB) and high mountain Ankogel.",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "name": "Season hiking map, 6 lifts - adult",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "St. Matreier Goldried mountain railways, cable cars Kals am Grossglockner, Hochpustertaler tracks Sillian, ski Jakob iD, Mölltaler Glacier (Glacier Express and EUB) and high mountain Ankogel.",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Adults",
+              "requiredMinAge": "19"
+            },
+            "description": "Each one ascent and descent of 2 sections per day. Only for pedestrians without sports equipment.\r\n        All prices are in EURO and include VAT. Children born in 1999 -2011. Opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "256.50",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Season hiking map, 6 lifts - children",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "St. Matreier Goldried mountain railways, cable cars Kals am Grossglockner, Hochpustertaler tracks Sillian, ski Jakob iD, Mölltaler Glacier (Glacier Express and EUB) and high mountain Ankogel.",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Children",
+              "requiredMinAge": "6",
+              "requiredMaxAge": "18"
+            },
+            "description": "Each one ascent and descent of 2 sections per day. Only for pedestrians without sports equipment.\r\n        All prices are in EURO and include VAT. Children born in 1999 -2011. Opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "124,00",
+            "priceCurrency": "EUR"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "http://www.schema.org",
+      "@type": "OfferCatalog",
+      "name": "family ticket - full price",
+      "description": "Valid for Matreier Goldried Bergbahnen & Kals am Grossglockner lifts",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "name": "Family with 1 child",
+          "description": " 2 adults for ascent and descent, both sections",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "Matreier Goldried Bergbahnen & Kals am Grossglockner lifts",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Family with 1 child"
+            },
+            "description": "Each additional child\t€ 5.50."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "51.50",
+            "priceCurrency": "EUR",
+            "description": "All prices are in EURO and include VAT. Children born in 1999 -2011. Opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Family with 2 children",
+          "description": " 2 adults for ascent and descent, both sections",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "Matreier Goldried Bergbahnen & Kals am Grossglockner lifts",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Family with 2 children"
+            },
+            "description": "Each additional child\t€ 5.50."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "56.00",
+            "priceCurrency": "EUR",
+            "description": "All prices are in EURO and include VAT. Children born in 1999 -2011. Opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Family with 3 children",
+          "description": " 2 adults for ascent and descent, both sections",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "Matreier Goldried Bergbahnen & Kals am Grossglockner lifts",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Family with 3 children"
+            },
+            "description": "Each additional child\t€ 5.50."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "59.50",
+            "priceCurrency": "EUR",
+            "description": "All prices are in EURO and include VAT. Children born in 1999 -2011. Opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          }
+        }
+      ]
+    },
+    {
+      "@context": "http://www.schema.org",
+      "@type": "OfferCatalog",
+      "name": "family ticket - guest card",
+      "description": "Valid for Matreier Goldried Bergbahnen & Kals am Grossglockner lifts",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "name": "Family with 1 child",
+          "description": " 2 adults for ascent and descent, both sections",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "Matreier Goldried Bergbahnen & Kals am Grossglockner lifts",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Family with 1 child"
+            },
+            "description": "Each additional child\t€ 5.00."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "48.00",
+            "priceCurrency": "EUR",
+            "description": "All prices are in EURO and include VAT. Children born in 1999 -2011. Opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Family with 2 children",
+          "description": " 2 adults for ascent and descent, both sections",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "Matreier Goldried Bergbahnen & Kals am Grossglockner lifts",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Family with 2 children"
+            },
+            "description": "Each additional child\t€ 5.00."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "52.50",
+            "priceCurrency": "EUR",
+            "description": "All prices are in EURO and include VAT. Children born in 1999 -2011. Opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Family with 3 children",
+          "description": " 2 adults for ascent and descent, both sections",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "Matreier Goldried Bergbahnen & Kals am Grossglockner lifts",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Family with 3 children"
+            },
+            "description": "Each additional child\t€ 5.00."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "57.00",
+            "priceCurrency": "EUR",
+            "description": "All prices are in EURO and include VAT. Children born in 1999 -2011. Opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          }
+        }
+      ]
+    },
+    {
+      "@context": "http://www.schema.org",
+      "@type": "OfferCatalog",
+      "name": "Hiking map adults, 2 sections - full price",
+      "description": "Valid for Matreier Goldried Bergbahnen & Kals am Grossglockner lifts",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "name": "Ups and downs",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "Matreier Goldried Bergbahnen & Kals am Grossglockner lifts",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Adults",
+              "requiredMinAge": "19"
+            },
+            "description": "All prices are in EURO and include VAT. Opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "24.00",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "ascent",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "Matreier Goldried Bergbahnen & Kals am Grossglockner lifts",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Adults",
+              "requiredMinAge": "19"
+            },
+            "description": "All prices are in EURO and include VAT. Opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "21.00",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "descent",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "Matreier Goldried Bergbahnen & Kals am Grossglockner lifts",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Adults",
+              "requiredMinAge": "19"
+            },
+            "description": "All prices are in EURO and include VAT. Opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "19.00",
+            "priceCurrency": "EUR"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "http://www.schema.org",
+      "@type": "OfferCatalog",
+      "name": "Hiking map adults, 2 sections - guest card",
+      "description": "Valid for Matreier Goldried Bergbahnen & Kals am Grossglockner lifts",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "name": "Ups and downs",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "Matreier Goldried Bergbahnen & Kals am Grossglockner lifts",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Adults",
+              "requiredMinAge": "19"
+            },
+            "description": "All prices are in EURO and include VAT. Opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "23.50",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "ascent",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "Matreier Goldried Bergbahnen & Kals am Grossglockner lifts",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Adults",
+              "requiredMinAge": "19"
+            },
+            "description": "All prices are in EURO and include VAT. Opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "20.50",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "descent",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "Matreier Goldried Bergbahnen & Kals am Grossglockner lifts",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Adults",
+              "requiredMinAge": "19"
+            },
+            "description": "All prices are in EURO and include VAT. Opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "18.50",
+            "priceCurrency": "EUR"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "http://www.schema.org",
+      "@type": "OfferCatalog",
+      "name": "Hiking map adults, 1 section - full price",
+      "description": "Valid only for cableways Kals am Grossglockner",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "name": "Ups and downs",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "Kals am Grossglockner",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Adults",
+              "requiredMinAge": "19"
+            },
+            "description": "All prices are in EURO and include VAT. Opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "17.50",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "ascent",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "Kals am Grossglockner",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Adults",
+              "requiredMinAge": "19"
+            },
+            "description": "All prices are in EURO and include VAT. Opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "14.50",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "descent",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "Kals am Grossglockner",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Adults",
+              "requiredMinAge": "19"
+            },
+            "description": "All prices are in EURO and include VAT. Opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "12.00",
+            "priceCurrency": "EUR"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "http://www.schema.org",
+      "@type": "OfferCatalog",
+      "name": "Hiking map adults, 1 section - guest card",
+      "description": "Valid only for cableways Kals am Grossglockner",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "name": "Ups and downs",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "Kals am Grossglockner",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Adults",
+              "requiredMinAge": "19"
+            },
+            "description": "All prices are in EURO and include VAT. Opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "16.50",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "ascent",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "Kals am Grossglockner",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Adults",
+              "requiredMinAge": "19"
+            },
+            "description": "All prices are in EURO and include VAT. Opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "14.00",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "descent",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "Kals am Grossglockner",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Adults",
+              "requiredMinAge": "19"
+            },
+            "description": "All prices are in EURO and include VAT. Opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "11.00",
+            "priceCurrency": "EUR"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "http://www.schema.org",
+      "@type": "OfferCatalog",
+      "name": "Hiking map adults, 1.5 sections - full price",
+      "description": "Valid only for cableways Kals am Grossglockner",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "name": "Mountain / Mountain / Valley",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "Kals am Grossglockner",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Adults",
+              "requiredMinAge": "19"
+            },
+            "description": "All prices are in EURO and include VAT. Opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "21.50",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Mountain / Valley / Valley",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "Kals am Grossglockner",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Adults",
+              "requiredMinAge": "19"
+            },
+            "description": "All prices are in EURO and include VAT. Opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "21.50",
+            "priceCurrency": "EUR"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "http://www.schema.org",
+      "@type": "OfferCatalog",
+      "name": "Hiking map adults, 1.5 sections - guest card",
+      "description": "Valid only for cableways Kals am Grossglockner",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "name": "Mountain / Mountain / Valley",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "Kals am Grossglockner",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Adults",
+              "requiredMinAge": "19"
+            },
+            "description": "All prices are in EURO and include VAT. Opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "20.50",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Mountain / Valley / Valley",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "Kals am Grossglockner",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Adults",
+              "requiredMinAge": "19"
+            },
+            "description": "All prices are in EURO and include VAT. Opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "20.50",
+            "priceCurrency": "EUR"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "http://www.schema.org",
+      "@type": "OfferCatalog",
+      "name": "Hiking map children, 2 sections - full price",
+      "description": "Valid for Matreier Goldried Bergbahnen & Kals am Grossglockner lifts",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "name": "Ups and downs",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "Matreier Goldried Bergbahnen & Kals am Grossglockner lifts",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Children",
+              "requiredMinAge": "6",
+              "requiredMaxAge": "18"
+            },
+            "description": "All prices are in EURO and include VAT. Children born 1999 to 2011. opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "11.50",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "ascent",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "Matreier Goldried Bergbahnen & Kals am Grossglockner lifts",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Children",
+              "requiredMinAge": "6",
+              "requiredMaxAge": "18"
+            },
+            "description": "All prices are in EURO and include VAT. Children born 1999 to 2011. opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "10.00",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "descent",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "Matreier Goldried Bergbahnen & Kals am Grossglockner lifts",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Children",
+              "requiredMinAge": "6",
+              "requiredMaxAge": "18"
+            },
+            "description": "All prices are in EURO and include VAT. Children born 1999 to 2011. opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "9.00",
+            "priceCurrency": "EUR"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "http://www.schema.org",
+      "@type": "OfferCatalog",
+      "name": "Hiking map children, 2 sections - guest card",
+      "description": "Valid for Matreier Goldried Bergbahnen & Kals am Grossglockner lifts",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "name": "Ups and downs",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "Matreier Goldried Bergbahnen & Kals am Grossglockner lifts",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Children",
+              "requiredMinAge": "6",
+              "requiredMaxAge": "18"
+            },
+            "description": "All prices are in EURO and include VAT. Children born 1999 to 2011. opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "11.00",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "ascent",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "Matreier Goldried Bergbahnen & Kals am Grossglockner lifts",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Children",
+              "requiredMinAge": "6",
+              "requiredMaxAge": "18"
+            },
+            "description": "All prices are in EURO and include VAT. Children born 1999 to 2011. opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "9.50",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "descent",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "Matreier Goldried Bergbahnen & Kals am Grossglockner lifts",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Children",
+              "requiredMinAge": "6",
+              "requiredMaxAge": "18"
+            },
+            "description": "All prices are in EURO and include VAT. Children born 1999 to 2011. opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "8.50",
+            "priceCurrency": "EUR"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "http://www.schema.org",
+      "@type": "OfferCatalog",
+      "name": "Hiking map children, 1 section - full price",
+      "description": "Valid only for cableways Kals am Grossglockner",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "name": "Ups and downs",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "Kals am Grossglockner",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Children",
+              "requiredMinAge": "6",
+              "requiredMaxAge": "18"
+            },
+            "description": "All prices are in EURO and include VAT. Children born 1999 to 2011. opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "9.00",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "ascent",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "Kals am Grossglockner",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Children",
+              "requiredMinAge": "6",
+              "requiredMaxAge": "18"
+            },
+            "description": "All prices are in EURO and include VAT. Children born 1999 to 2011. opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "6.50",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "descent",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "Kals am Grossglockner",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Children",
+              "requiredMinAge": "6",
+              "requiredMaxAge": "18"
+            },
+            "description": "All prices are in EURO and include VAT. Children born 1999 to 2011. opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "5.50",
+            "priceCurrency": "EUR"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "http://www.schema.org",
+      "@type": "OfferCatalog",
+      "name": "Hiking map children, 1 section - guest card",
+      "description": "Valid only for cableways Kals am Grossglockner",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "name": "Ups and downs",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "Kals am Grossglockner",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Children",
+              "requiredMinAge": "6",
+              "requiredMaxAge": "18"
+            },
+            "description": "All prices are in EURO and include VAT. Children born 1999 to 2011. opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "8.00",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "ascent",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "Kals am Grossglockner",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Children",
+              "requiredMinAge": "6",
+              "requiredMaxAge": "18"
+            },
+            "description": "All prices are in EURO and include VAT. Children born 1999 to 2011. opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "6.00",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "descent",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "Kals am Grossglockner",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Children",
+              "requiredMinAge": "6",
+              "requiredMaxAge": "18"
+            },
+            "description": "All prices are in EURO and include VAT. Children born 1999 to 2011. opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "5.00",
+            "priceCurrency": "EUR"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "http://www.schema.org",
+      "@type": "OfferCatalog",
+      "name": "Hiking map children, 1.5 sections - full price",
+      "description": "Valid only for cableways Kals am Grossglockner",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "name": "Mountain / Mountain / Valley",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "Kals am Grossglockner",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Children",
+              "requiredMinAge": "6",
+              "requiredMaxAge": "18"
+            },
+            "description": "All prices are in EURO and include VAT. Children born 1999 to 2011. opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "10.50",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Mountain / Valley / Valley",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "Kals am Grossglockner",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Children",
+              "requiredMinAge": "6",
+              "requiredMaxAge": "18"
+            },
+            "description": "All prices are in EURO and include VAT. Children born 1999 to 2011. opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "10.50",
+            "priceCurrency": "EUR"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "http://www.schema.org",
+      "@type": "OfferCatalog",
+      "name": "Hiking map children, 1.5 sections - guest card",
+      "description": "Valid only for cableways Kals am Grossglockner",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "name": "Mountain / Mountain / Valley",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "Kals am Grossglockner",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Children",
+              "requiredMinAge": "6",
+              "requiredMaxAge": "18"
+            },
+            "description": "All prices are in EURO and include VAT. Children born 1999 to 2011. opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "9.50",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Mountain / Valley / Valley",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "Kals am Grossglockner",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Children",
+              "requiredMinAge": "6",
+              "requiredMaxAge": "18"
+            },
+            "description": "All prices are in EURO and include VAT. Children born 1999 to 2011. opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "9.50",
+            "priceCurrency": "EUR"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "http://www.schema.org",
+      "@type": "OfferCatalog",
+      "name": "Summit Ticket, 3 x ascent and descent",
+      "description": "Available from June 2017 to 24 September 2017: St. Matreier Goldried mountain railways, cable cars Kals am Grossglockner, Hochpustertaler tracks Sillian, ski Jakob iD, Mölltaler Glacier (Glacier Express and EUB) and high mountain Ankogel.",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "name": "Summit Ticket, 3 x ascent and descent - full price",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "St. Matreier Goldried mountain railways, cable cars Kals am Grossglockner, Hochpustertaler tracks Sillian, ski Jakob iD, Mölltaler Glacier (Glacier Express and EUB) and high mountain Ankogel.",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Adults",
+              "requiredMinAge": "19"
+            },
+            "description": "Each one ascent and descent of 2 sections per day. Only for pedestrians without sports equipment.\r\n        All prices are in EURO and include VAT. Children born in 1999 -2011. Opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "51.00",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Summit Ticket, 3 x ascent and descent - full price",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "St. Matreier Goldried mountain railways, cable cars Kals am Grossglockner, Hochpustertaler tracks Sillian, ski Jakob iD, Mölltaler Glacier (Glacier Express and EUB) and high mountain Ankogel.",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Children",
+              "requiredMinAge": "6",
+              "requiredMaxAge": "18"
+            },
+            "description": "Each one ascent and descent of 2 sections per day. Only for pedestrians without sports equipment.\r\n        All prices are in EURO and include VAT. Children born in 1999 -2011. Opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "25.50",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Summit Ticket, 3 x ascent and descent - full price",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "St. Matreier Goldried mountain railways, cable cars Kals am Grossglockner, Hochpustertaler tracks Sillian, ski Jakob iD, Mölltaler Glacier (Glacier Express and EUB) and high mountain Ankogel.",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Family with 1 child"
+            },
+            "description": "Each one ascent and descent of 2 sections per day. Only for pedestrians without sports equipment.\r\n        All prices are in EURO and include VAT. Children born in 1999 -2011. Opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "119,00",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Summit Ticket, 3 x ascent and descent - full price",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "St. Matreier Goldried mountain railways, cable cars Kals am Grossglockner, Hochpustertaler tracks Sillian, ski Jakob iD, Mölltaler Glacier (Glacier Express and EUB) and high mountain Ankogel.",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Family with two children"
+            },
+            "description": "Each one ascent and descent of 2 sections per day. Only for pedestrians without sports equipment.\r\n        All prices are in EURO and include VAT. Children born in 1999 -2011. Opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "139,50",
+            "priceCurrency": "EUR",
+            "description": "Each additional child\tfree."
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Summit Ticket, 3 x ascent and descent - guest card",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "St. Matreier Goldried mountain railways, cable cars Kals am Grossglockner, Hochpustertaler tracks Sillian, ski Jakob iD, Mölltaler Glacier (Glacier Express and EUB) and high mountain Ankogel.",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Adults",
+              "requiredMinAge": "19"
+            },
+            "description": "Each one ascent and descent of 2 sections per day. Only for pedestrians without sports equipment.\r\n        All prices are in EURO and include VAT. Children born in 1999 -2011. Opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "49.00",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Summit Ticket, 3 x ascent and descent - guest card",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "St. Matreier Goldried mountain railways, cable cars Kals am Grossglockner, Hochpustertaler tracks Sillian, ski Jakob iD, Mölltaler Glacier (Glacier Express and EUB) and high mountain Ankogel.",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Children",
+              "requiredMinAge": "6",
+              "requiredMaxAge": "18"
+            },
+            "description": "Each one ascent and descent of 2 sections per day. Only for pedestrians without sports equipment.\r\n        All prices are in EURO and include VAT. Children born in 1999 -2011. Opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "24.50",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Summit Ticket, 3 x ascent and descent - guest card",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "St. Matreier Goldried mountain railways, cable cars Kals am Grossglockner, Hochpustertaler tracks Sillian, ski Jakob iD, Mölltaler Glacier (Glacier Express and EUB) and high mountain Ankogel.",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Family with 1 child"
+            },
+            "description": "Each one ascent and descent of 2 sections per day. Only for pedestrians without sports equipment.\r\n        All prices are in EURO and include VAT. Children born in 1999 -2011. Opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "115.50",
+            "priceCurrency": "EUR"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Summit Ticket, 3 x ascent and descent - guest card",
+          "itemOffered": {
+            "@type": "Service",
+            "areaServed": "St. Matreier Goldried mountain railways, cable cars Kals am Grossglockner, Hochpustertaler tracks Sillian, ski Jakob iD, Mölltaler Glacier (Glacier Express and EUB) and high mountain Ankogel.",
+            "hoursAvailable": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "validFrom": "2017-06",
+                "validThrough": "2017-09-24"
+              }
+            ],
+            "audience": {
+              "@type": "PeopleAudience",
+              "audienceType": "Family with two children"
+            },
+            "description": "Each one ascent and descent of 2 sections per day. Only for pedestrians without sports equipment.\r\n        All prices are in EURO and include VAT. Children born in 1999 -2011. Opening times and operating hours as posted. Errors, misprint, schedule and fare changes."
+          },
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "135,50",
+            "priceCurrency": "EUR",
+            "description": "Each additional child\tfree."
+          }
+        }
+      ]
+    }
+  ]
+}

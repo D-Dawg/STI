@@ -1,0 +1,68 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "DigitalDocument",
+    "name": "Sommer Folder 2017",
+    "url": "http://www.ankogel-ski.at/wp-content/uploads/Sommerkarte-Ankogel-2017-Ansicht-v3.pdf"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "DigitalDocument",
+    "name": "Mölltaler Gletscher und Ankogel 2016/17",
+    "url": "http://www.gletscher.co.at/wp-content/uploads/Tages-und-Mehrtageskarten-Skihit-16_17-DE-FIX.pdf"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "DigitalDocument",
+    "name": "Mölltaler Gletscher und Ankogel Deckblatt 2016/17 DE/EN",
+    "url": "http://www.gletscher.co.at/wp-content/uploads/Deckblatt_engl-16-17_a6.pdf"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "DigitalDocument",
+    "name": "Tages- und Mehrtageskarten SkiHit 2016/17 DE",
+    "url": "http://www.gletscher.co.at/wp-content/uploads/Tages-und-Mehrtageskarten-Skihit-16_17-DE-FIX.pdf"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "DigitalDocument",
+    "name": "Sommerkarte 2017 moelltaler ansicht v3",
+    "url": "https://issuu.com/schultzgruppe/docs/sommerkarte_2017_moelltaler_ansicht"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "DigitalDocument",
+    "name": "Sommerkarte ankogel 2017 ansicht v3",
+    "url": "https://issuu.com/schultzgruppe/docs/sommerkarte_ankogel_2017_ansicht_v3"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "DigitalDocument",
+    "name": "Tages und Mehrtageskarten SkiHit 2016/17",
+    "url": "https://issuu.com/schultzgruppe/docs/tages-_und_mehrtageskarten_skihit_1_1b214e549a46f4"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "DigitalDocument",
+    "name": "SkiHit Winter 2016/17 DE/EN",
+    "url": "https://issuu.com/schultzgruppe/docs/deckblatt_engl-16-17_a6"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "DigitalDocument",
+    "name": "Mölltaler Gletscher & Ankogel 2016/17",
+    "url": "https://issuu.com/schultzgruppe/docs/moelltaler-16-17_a5"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "DigitalDocument",
+    "name": "Freeride Map Hohe Tauern / Ankogel",
+    "url": "https://issuu.com/schultzgruppe/docs/frm_hohe_tauern"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "DigitalDocument",
+    "name": "Ski Hit Winter",
+    "url": "https://issuu.com/schultzgruppe/docs/klein_ski_hit_news_winter_2013-14__"
+  }
+]

@@ -1,0 +1,237 @@
+{
+  "@context": "schema.org",
+  "@type": "SportsActivityLocation",
+  "name": "Mölltaler Gletscher",
+  "description": "Wandertouren",
+  "image": "http://www.gletscher.co.at/wp-content/uploads/MG_PANORAMA_SOMMER_2013-f%C3%BCr-WEB1.jpg",
+  "hasOfferCatalog": [
+    {
+      "@type": "OfferCatalog",
+      "name": "Einfache Wanderwege",
+      "itemListElement": [
+        {
+          "@type": "SportsActivityLocation",
+          "name": "2 Eisseeweg – Gletschererlebnis (ideal für Familien)",
+          "amenityFeature": [
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Ausgangspunkt",
+              "value": "Bergstation Eisseebahn beim Panoramarestaurant Eissee."
+            },
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Gehzeit",
+              "value": "20",
+              "unitCode": "MIN"
+            },
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Beschreibung",
+              "value": "Wanderung über den Weg Nr. 2 zur Bergfahrt mit dem Sessellift, bis zum Gipfel (3.122 m).\r\nVon dort aus eröffnet sich dem Betrachter ein traumhaftes Panorama.\r\nTalfahrt wieder mit dem Sessellift!"
+            }
+          ]
+        },
+        {
+          "@type": "SportsActivityLocation",
+          "name": "3 Duisburgerweg",
+          "amenityFeature": [
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Ausgangspunkt",
+              "value": "Panoramarestaurant Eissee bzw. Bergstation Eisseebahn."
+            },
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Gehzeit",
+              "value": "30-45",
+              "unitCode": "MIN"
+            },
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Beschreibung",
+              "value": "Leichte Wanderung, die von der Bergstation Eisseebahn über den Weg Nr. 3\r\nzur Duisburger Hütte führt. Bewirtschaftete Hütte des Deutschen Alpenvereins,\r\nSektion Duisburg. Eine herrliche Sonnenterrasse und hausgemachte Spezialitäten vom Hüttenwirt „Düsi“ (Mobiltelefon: 0664/4453353) verlocken dort zum Einkehren."
+            }
+          ]
+        },
+        {
+          "@type": "SportsActivityLocation",
+          "name": "10 Wanderweg Hochwurtenspeicher",
+          "amenityFeature": [
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Ausgangspunkt",
+              "value": "Bergstation Eisseebahn bwz. Panoramarestaurant Eissee."
+            },
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Gehzeit",
+              "value": "2,5-3",
+              "unitCode": "HR"
+            },
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Beschreibung",
+              "value": "Über den Weg Nr. 10 vom Panorama-Restaurant Eissee talwärts zum Ufer des Hochwurtenspeichers (beachten Sie das Naturschauspiel Gletscherbach),\r\nentlang des Sees bietet sich eine leichte und sichere Wanderung auf ca. 2.450 m Seehöhe an. Beim Hochwurtenspeicher weiter auf Weg Nr. 14 zur Mittelstation."
+            }
+          ]
+        },
+        {
+          "@type": "SportsActivityLocation",
+          "name": "13 Wanderweg Weißseehaus",
+          "amenityFeature": [
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Ausgangspunkt",
+              "value": "Mittelstation"
+            },
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Gehzeit",
+              "value": "30",
+              "unitCode": "MIN"
+            },
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Beschreibung",
+              "value": "Über den Weg Nr. 13 wandern Sie leicht und gemütlich zum Alpincenter Weißseehaus (Hüttenwirt Zraunig Peter / Telefon: 0664/4551848)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "OfferCatalog",
+      "name": "Anspruchsvollere Wanderungen",
+      "itemListElement": [
+        {
+          "@type": "SportsActivityLocation",
+          "name": "1 Gletscherwanderweg – Blick auf 30 Dreitausender Gipfel",
+          "amenityFeature": [
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Ausgangspunkt",
+              "value": "Bergstation Eisseebahn bzw. Panoramarestaurant Eissee."
+            },
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Gehzeit",
+              "value": "1,5",
+              "unitCode": "HR"
+            },
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Beschreibung",
+              "value": "Gesicherter und markierter Wanderweg, teilweise über den Gletscher verlaufend.\r\nAufstieg über den Weg Nr. 1 am rechten Rand des Gletschers bis zum Gipfel (3.122 m).\r\nVon dort aus eröffnet sich dem Betrachter ein traumhaftes Panorama.\r\nRückfahrt ins Tal mit dem Sessellift und weiter über den Weg Nr. 2\r\nzurück zur Bergstation Eisseebahn mit Panoramarestaurant Eissee."
+            }
+          ]
+        },
+        {
+          "@type": "SportsActivityLocation",
+          "name": "4 Höhenwanderung",
+          "amenityFeature": [
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Ausgangspunkt",
+              "value": "Mittelstation"
+            },
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Gehzeit",
+              "value": "1,5",
+              "unitCode": "HR"
+            },
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Beschreibung",
+              "value": "Von 2.200 m auf 2.800 m Seehöhe.\r\nDas ist der klassische Verbindungsweg zur Bergstation Eisseebahn.\r\nÜber den Weg Nr. 14 oder Weg Nr. 13 über das Weißseehaus und weiter zum Hochwurtenspeicher. Dort weiter über den Weg Nr. 4 bis zum Panoramarestaurant Eissee!\r\nDie Bergseen haben im Sommer einen besonderen Reiz.\r\nDiese Wanderung ist aber auch umgekehrt vom Berg ins Tal sehr empfehlenswert."
+            }
+          ]
+        },
+        {
+          "@type": "SportsActivityLocation",
+          "name": "6 Feldseewanderung",
+          "amenityFeature": [
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Ausgangspunkt",
+              "value": "Mittelstation"
+            },
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Gehzeit",
+              "value": "1,5",
+              "unitCode": "HR"
+            },
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Beschreibung",
+              "value": "Über den asphaltierten Panorama Weg Nr. 11 bis zur Kreuzung Feldsee,\r\nder Weg Nr. 6 ist ebenfalls asphaltiert und führt direkt zum idyllischen Feldsee mit seinen schönen Plätzen. Eine Seerundwanderung ist wegen des teilweise sehr steilen\r\nUfers nicht zu empfehlen."
+            }
+          ]
+        },
+        {
+          "@type": "SportsActivityLocation",
+          "name": "9 Verbindungsweg nach Kleinfragant – Innerfragant",
+          "amenityFeature": [
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Ausgangspunkt",
+              "value": "Mittelstation"
+            },
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Gehzeit",
+              "value": "5,5",
+              "unitCode": "HR"
+            },
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Beschreibung",
+              "value": "Vom Weg Nr. 13 Richtung Weißseehaus weiter zum Weg Nr. 12 (Sadnig Höhenweg), über die Saustellscharte zur Wegkreuzung mit Weg Nr. 9.\r\nDiese Wanderung führt über die sogenannte Patschgalm (Kleinfragant) bis ins Tal zurück in die Innnerfragant (Alpenhotel Badmeister).\r\nDer Weg Nr. 9 ist nicht durchgehend markiert. "
+            }
+          ]
+        },
+        {
+          "@type": "SportsActivityLocation",
+          "name": "14 Richard-Helfer-Weg",
+          "amenityFeature": [
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Ausgangspunkt",
+              "value": "Mittelstation"
+            },
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Gehzeit",
+              "value": "3",
+              "unitCode": "HR"
+            },
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Beschreibung",
+              "value": "Von der Mittelstation ausgehend talwärts über den Weg Nr. 14 bis zum Wurtenspeicher und weiter über den Weg Nr. 11 die „Panoramastraße“ zurück zur Talstation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "OfferCatalog",
+      "name": "A, B, C Tourenwege",
+      "description": "Tourenwege sind Steige und Bergpfade, die teilweise nur für geübte Wanderer geeignet sind. Es wird empfohlen, diese Wege nur mit einem Bergführer zu begehen und eine entsprechende Bergausrüstung zu tragen. Tagestouren auf den genannten Tourenwegen und zum Sonnblick bietet die Alpinschule Flattach an. Informationen erhalten Sie bei unserem örtlichen Bergführer, Herrn Zraunig Peter (0664/4551848). Für diese Touren empfehlen wir Ihnen eine professionelle Wanderkarte!",
+      "itemListElement": [
+        {
+          "@type": "SportsActivityLocation",
+          "name": "5 Tauernhöhenweg und Tourenweg A",
+          "amenityFeature": [
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Beschreibung",
+              "value": "Dieser klassische Tauernhöhenweg ist ein gut markierter Höhensteig, welcher vom Sonnblick bis zum Ankogel (Mallnitz) reicht. Der Weg Nr. A führt vom Sonnblick über die Fraganter Scharte – Duisburger Hütte (Weg Nr. 5)  – Feldseescharte – Hagener Hütte bis zum Hannoverhaus. Der Weg führt zum Teil direkt über den Gletscher. Wanderer sollten auf jeden Fall alpine Erfahrung haben."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

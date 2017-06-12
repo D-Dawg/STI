@@ -1,0 +1,11 @@
+{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "url": "http://www.gletscher.co.at/",
+  "about": {
+    "@type": "SkiResort",
+    "name": "Mölltaler Gletscherbahnen",
+    "url": "http://www.gletscher.co.at/anreise-kontakt/"
+  },
+  "sameAs": "https://www.facebook.com/moelltaler.gletscher/"
+}

@@ -1,0 +1,11 @@
+{
+  "@context": "http://schema.org",
+  "@type": "ContactPage",
+  "name": "Kontaktformular",
+  "significantLink": "http://www.gletscher.co.at/anreise-kontakt/kontaktformular/",
+  "publisher": {
+    "@type": "SkiResort",
+    "name": "Mölltaler Gletscherbahnen",
+    "url": "http://www.gletscher.co.at/anreise-kontakt/kontaktformular/"
+  }
+}

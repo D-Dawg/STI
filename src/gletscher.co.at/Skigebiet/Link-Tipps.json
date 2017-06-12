@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": "WebPage",
+  "name": "Link-Tipps",
+  "url": "hhttp://www.gletscher.co.at/das-skigebiet/link-tipps/",
+  "significantLink": [
+  "http://www.ankogel-ski.at/",
+  "http://www.flattach.at/",
+  "http://www.mallnitz.at/",
+  "http://www.skiholiday.com/oesterreich/kaernten/moelltaler-gletscher",
+  "http://www.skiline.cc/ticket/moelltaler_gletscher",
+  "http://www.klassenfahrten-kluehspies.de/reise/ski-gruppenreisen/moelltaler-gletscher-mallnitz-ankogel/",
+  "http://www.skirace-academy.at/",
+  "http://www.ankogel-ski.at/",
+  "http://www.flattach.at/",
+  "http://www.mallnitz.at/",
+  "http://www.zimmer-suche.at/zimmersuche/l/moelltalgletscher.html",
+  "http://www.nawus-kinderhotel.com/",
+  "http://www.moserhof.net/de",
+  "http://www.grandhotel-lienz.com/",
+  "https://www.facebook.com/moelltaler.gletscher/",
+  "https://twitter.com/SchultzGruppe",
+  "https://www.youtube.com/user/SchultzGruppe",
+  "http://www.sporthotel-sillian.at/",
+  "http://www.gradonna.at/",
+  "http://www.stjakob-ski.at/",
+  "http://www.gg-resort.at/",
+  "http://www.gletscher.co.at/",
+  "http://www.ankogel-ski.at/",
+  "http://www.hochzillertal.com/",
+  "http://www.golf-zillertal.at/","http://www.sportresidenz.at/"
+  ]
+}

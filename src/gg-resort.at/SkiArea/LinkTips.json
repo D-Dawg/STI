@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "WebPage",
+  "name": "Tips",
+  "url": "http://www.gg-resort.at/?page_id=2305",
+  "significantLink": [
+    "http://www.facebook.com/ggresort/",
+    "http://www.bergfex.at/kals/",
+    "http://www.skiresort.de/skigebiet/grossglockner-resort-kals-matrei/",
+    "http://www.skigebiete-test.de/skigebiete/grossglockner-resort-kals-matrei.html",
+    "http://www.sport-gratz.com/",
+    "http://www.sport2000.at/haendlerseite.php?id=64",
+    "http://www.skischule-osttirol3000.at/",
+    "http://www.schischulematrei.at/",
+    "http://www.bergfuehrer-kals.at/",
+    "http://www.gradonna.at/",
+    "http://www.adlerlounge.at/",
+    "http://www.sporthotel-sillian.at/",
+    "http://www.grandhotel-lienz.com/",
+    "http://www.klassenfahrten-kluehspies.de/"
+  ]
+}

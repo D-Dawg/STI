@@ -1,0 +1,113 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Offer",
+    "name": "Tageskarten",
+    "itemOffered": {
+      "@type": "Service",
+      "hoursAvailable": {
+        "@type": "OpeningHoursSpecification",
+        "validThrough": "2017-05-07",
+        "validFrom": "2016-06-18"
+      },
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Erwachsene",
+        "requiredMinAge": "19"
+      }
+    },
+    "priceSpecification": [
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "45.00",
+        "priceCurrency": "EUR",
+        "validFrom": "T08:00"
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "40.00",
+        "priceCurrency": "EUR",
+        "validFrom": "T11:00"
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "37.00",
+        "priceCurrency": "EUR",
+        "validFrom": "T12:00"
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "30.00",
+        "priceCurrency": "EUR",
+        "validFrom": "T13:00"
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "23.00",
+        "priceCurrency": "EUR",
+        "validFrom": "T14:00"
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Offer",
+    "name": "Tageskarten",
+    "itemOffered": {
+      "@type": "Service",
+      "hoursAvailable": {
+        "@type": "OpeningHoursSpecification",
+        "validThrough": "2017-05-07",
+        "validFrom": "2016-06-18"
+      },
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Kinder",
+        "requiredMaxAge": "18",
+        "requiredMinAge": "6"
+      }
+    },
+    "priceSpecification": [
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "22.50",
+        "priceCurrency": "EUR",
+        "validFrom": "T08:00"
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "20.00",
+        "priceCurrency": "EUR",
+        "validFrom": "T11:00"
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "18.50",
+        "priceCurrency": "EUR",
+        "validFrom": "T12:00"
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "15.00",
+        "priceCurrency": "EUR",
+        "validFrom": "T13:00"
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "11.50",
+        "priceCurrency": "EUR",
+        "validFrom": "T14:00"
+      }
+    ]
+  }
+]

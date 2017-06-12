@@ -1,0 +1,44 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "SkiResort",
+  "name": "Großglockner Resort Kals-Matrei",
+  "url": "http://www.gg-resort.at/?page_id=2388",
+  "logo": "http://www.gg-resort.at/wp-content/logo.png",
+  "image": "http://www.gg-resort.at/wp-content/anfahrt2.gif",
+  "address": [
+    {
+      "@type": "PostalAddress",
+      "name": "Matreier Goldried Bergbahnen GmbH & Co KG",
+      "streetAddress": "Valley station ",
+      "addressLocality": "Matrei in Osttirol",
+      "postalCode": "A-9971",
+      "addressCountry": "Austria",
+      "telephone": "+ 43.4875.6067",
+      "faxNumber": "+ 43.4875.6067.4",
+      "email": "info@matrei-ski.at"
+    },
+    {
+      "@type": "PostalAddress",
+      "name": "Bergbahnen Kals am Großglockner Gmbh & Co KG",
+      "streetAddress": "Großdorf 70",
+      "addressLocality": "Kals am Großglockner",
+      "postalCode": "A-9981",
+      "addressCountry": "Austria",
+      "telephone": "+43.4876.8233",
+      "faxNumber": "+43.4876.8233.10"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.010286",
+    "longitude": "12.623661"
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "opens": "9:00:00",
+    "closes": "16:30:00",
+    "dayOfWeek": "Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday",
+    "validFrom":"2016-03-12",
+    "validThrough":"2017-04-17"
+  }
+}

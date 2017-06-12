@@ -1,0 +1,57 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Restaurant",
+  "name": "Panorama-Restaurant Eissee",
+  "email": "restaurant@gletscher.co.at",
+  "image": "http://www.gletscher.co.at/wp-content/uploads/Glaspalast-Nordseite-mit-Skifahrern.jpg",
+  "description": "Schon bei der Auffahrt zur Bergstation schlägt einen die gigantische Glas-Stahl-Konstruktion in ihren Bann. Wie ein Glaspalast, majestätisch am Rand des Gletschers stehend, spiegelt sich die Bergwelt in seiner Fassade wider. Das Restaurant mit herrlicher Sonnenterrasse, Wintergarten mit Seminarraum und großzügigen Sitzecken ist spezialisiert für Gruppen und Events. Das dazugehörige Jugendhotel mit 68 Betten mit Du/WC ist ideal für Jugend- und Trainingsgruppen.",
+  "amenityFeature": {
+    "@type": "LocationFeatureSpecification",
+    "name": "FREE WIFI",
+    "value": "true"
+  },
+  "containsPlace": {
+    "@type": "Hostel",
+    "name": "Jugendhotel",
+    "email": "restaurant@gletscher.co.at",
+    "description": "direkt im Gletscherskigebiet auf 2.800m\r\n68 Betten (nur Stockbetten)\r\nMehrbettzimmer 6, 8 oder 10 Betten\r\nmit Duschen und getrennten Toiletten",
+    "priceRange": "€31,50 - €48,50 pro Person",
+    "amenityFeature": [
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Frühstücksbuffet",
+        "value": "true"
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Mittagsmenü",
+        "value": "true"
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Abendmenü",
+        "value": "true"
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Bar",
+        "value": "true"
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Skiraum",
+        "value": "true"
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Aufenthaltsraum",
+        "value": "true"
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Fernsehraum",
+        "value": "true"
+      }
+    ]
+  }
+}
