@@ -1,7 +1,7 @@
 [
   {
     "@context": "http://schema.org",
-    "@type":"LocalBusiness",
+    "@type":"SportsActivityLocation",
     "name":"SPIELJOCHBAHN",
     "openingHoursSpecification":{
       "@type":"OpeningHoursSpecification",
@@ -13,7 +13,7 @@
   },
   {
     "@context": "http://schema.org",
-    "@type":"LocalBusiness",
+    "@type":"SportsActivityLocation",
     "name":"Panoramabahn",
     "openingHoursSpecification":{
       "@type":"OpeningHoursSpecification",
@@ -25,7 +25,7 @@
   },
   {
     "@context": "http://schema.org",
-    "@type":"LocalBusiness",
+    "@type":"SportsActivityLocation",
     "name":"Tallift (Dorflift)",
     "openingHoursSpecification":{
       "@type":"OpeningHoursSpecification",
