@@ -3,25 +3,25 @@
   "@type": "ItemList",
   "itemListElement": [
     {
-      "@type": "ImageObject",
+      "@type": "MediaObject",
       "position": "1",
       "name": "Mountain station Matrei",
       "url": "http://www.webcamsggresort.schultz.at/webcam/matrei-Bergstation"
     },
     {
-      "@type": "ImageObject",
+      "@type": "MediaObject",
       "position": "2",
       "name": "Adler lounge",
       "url": "http://www.webcamsggresort.schultz.at/webcam/matrei-AdlerLounge"
     },
     {
-      "@type": "ImageObject",
+      "@type": "MediaObject",
       "position": "3",
       "name": "Gradonna Mountain Resort",
       "url": "http://www.webcamsggresort.schultz.at/webcam/kals-Gradonna"
     },
     {
-      "@type": "ImageObject",
+      "@type": "MediaObject",
       "position": "4",
       "name": "Kal",
       "url": "http://www.webcamsggresort.schultz.at/webcam/kals-Talstation"

@@ -4,14 +4,14 @@
   "itemListElement": {
     " @type": "ListItem",
     "item": {
-      "@type": "ImageObject",
+      "@type": "MediaObject",
       "name": "Weissspitz",
       "contentUrl": "http://webcamsstjakob.schultz.at/webcam/weissspitz/"
     },
     "nextItem": {
       " @type": "ListItem",
       "item": {
-        "@type": "ImageObject",
+        "@type": "MediaObject",
         "name": "Mooseralm",
         "contentUrl": "http://webcamsstjakob.schultz.at/webcam/mooseralm/"
       }

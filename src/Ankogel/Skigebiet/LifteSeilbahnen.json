@@ -4,24 +4,22 @@
     "@type":"SportsActivityLocation",
     "image":"http://www.ankogel-ski.at/wp-content/uploads/Ankogel-mit-Gondeln-Sonnenskilauf.jpg",
     "name":"Ankogelbahn 1",
-    "amenityFeature":[
+    "amenityFeature": {
+      "@type": "LocationFeatureSpecification",
+      "name": "Länge",
+      "value": "1808",
+      "unitCode": "MTR"
+    },
+    "geo":[
       {
-        "@type":"LocationFeatureSpecification",
-        "name":"Länge",
-        "value":"1808",
-        "unitCode":"MTR"
-      },
-      {
-        "@type":"LocationFeatureSpecification",
+        "@type":"GeoCoordinates",
         "name":"Höhe Berg",
-        "value":"1941",
-        "unitCode":"MTR"
+        "elevation":"1941"
       },
       {
-        "@type":"LocationFeatureSpecification",
+        "@type":"GeoCoordinates",
         "name":"Höhe Tal",
-        "value":"1287",
-        "unitCode":"MTR"
+        "elevation":"1287"
       }
     ]
   },
@@ -30,24 +28,22 @@
     "@type":"SportsActivityLocation",
     "image":"http://www.ankogel-ski.at/wp-content/uploads/ANK-Gondelbahn1.jpg",
     "name":"Ankogelbahn 2",
-    "amenityFeature":[
+    "amenityFeature": {
+      "@type": "LocationFeatureSpecification",
+      "name": "Länge",
+      "value": "2387",
+      "unitCode": "MTR"
+    },
+    "geo":[
       {
-        "@type":"LocationFeatureSpecification",
-        "name":"Länge",
-        "value":"2387",
-        "unitCode":"MTR"
-      },
-      {
-        "@type":"LocationFeatureSpecification",
+        "@type":"GeoCoordinates",
         "name":"Höhe Berg",
-        "value":"2637",
-        "unitCode":"MTR"
+        "elevation":"2637"
       },
       {
-        "@type":"LocationFeatureSpecification",
+        "@type":"GeoCoordinates",
         "name":"Höhe Tal",
-        "value":"1941",
-        "unitCode":"MTR"
+        "elevation":"1941"
       }
     ]
   },
@@ -56,24 +52,22 @@
     "@type":"SportsActivityLocation",
     "image":"http://www.ankogel-ski.at/wp-content/uploads/ank1.jpg",
     "name":"Ankogelschlepplift",
-    "amenityFeature":[
+    "amenityFeature": {
+      "@type": "LocationFeatureSpecification",
+      "name": "Länge",
+      "value": "900",
+      "unitCode": "MTR"
+    },
+    "geo":[
       {
-        "@type":"LocationFeatureSpecification",
-        "name":"Länge",
-        "value":"900",
-        "unitCode":"MTR"
-      },
-      {
-        "@type":"LocationFeatureSpecification",
+        "@type":"GeoCoordinates",
         "name":"Höhe Berg",
-        "value":"2461",
-        "unitCode":"MTR"
+        "elevation":"2461"
       },
       {
-        "@type":"LocationFeatureSpecification",
+        "@type":"GeoCoordinates",
         "name":"Höhe Tal",
-        "value":"2200",
-        "unitCode":"MTR"
+        "elevation":"2200"
       }
     ]
   },
@@ -82,24 +76,22 @@
     "@type":"SportsActivityLocation",
     "image":"http://www.ankogel-ski.at/wp-content/uploads/ANK-Gondelbahn1.jpg",
     "name":"Köfele I",
-    "amenityFeature":[
+    "amenityFeature": {
+      "@type": "LocationFeatureSpecification",
+      "name": "Länge",
+      "value": "632",
+      "unitCode": "MTR"
+    },
+    "geo":[
       {
-        "@type":"LocationFeatureSpecification",
-        "name":"Länge",
-        "value":"632",
-        "unitCode":"MTR"
-      },
-      {
-        "@type":"LocationFeatureSpecification",
+        "@type":"GeoCoordinates",
         "name":"Höhe Berg",
-        "value":"1368",
-        "unitCode":"MTR"
+        "elevation":"1368"
       },
       {
-        "@type":"LocationFeatureSpecification",
+        "@type":"GeoCoordinates",
         "name":"Höhe Tal",
-        "value":"1267",
-        "unitCode":"MTR"
+        "elevation":"1267"
       }
     ]
   },
@@ -108,24 +100,22 @@
     "@type":"SportsActivityLocation",
     "image":"http://www.ankogel-ski.at/wp-content/uploads/ANK-Gondelbahn1.jpg",
     "name":"Köfele II",
-    "amenityFeature":[
+    "amenityFeature": {
+      "@type": "LocationFeatureSpecification",
+      "name": "Länge",
+      "value": "300",
+      "unitCode": "MTR"
+    },
+    "geo":[
       {
-        "@type":"LocationFeatureSpecification",
-        "name":"Länge",
-        "value":"300",
-        "unitCode":"MTR"
-      },
-      {
-        "@type":"LocationFeatureSpecification",
+        "@type":"GeoCoordinates",
         "name":"Höhe Berg",
-        "value":"1309",
-        "unitCode":"MTR"
+        "elevation":"1309"
       },
       {
-        "@type":"LocationFeatureSpecification",
+        "@type":"GeoCoordinates",
         "name":"Höhe Tal",
-        "value":"1270",
-        "unitCode":"MTR"
+        "elevation":"1270"
       }
     ]
   }

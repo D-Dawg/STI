@@ -9,53 +9,53 @@
       "url": "http://www.gletscher.co.at/news/live-cams/",
       "hasPart": [
         {
-          "@type": "ImageObject",
+          "@type": "MediaObject",
           "url": "http://www.webcams.schultz.at/webcam/gletscher-nord/"
         },
         {
-          "@type": "ImageObject",
+          "@type": "MediaObject",
           "url": "http://www.webcams.schultz.at/webcam/gletscher-schareck/"
         },
         {
-          "@type": "ImageObject",
+          "@type": "MediaObject",
           "url": "http://www.webcams.schultz.at/webcam/gletscher-sued/"
         },
         {
-          "@type": "ImageObject",
+          "@type": "MediaObject",
           "url": "http://www.webcams.schultz.at/webcam/gletscher-alteck/"
         },
         {
-          "@type": "ImageObject",
+          "@type": "MediaObject",
           "url": "http://www.webcams.schultz.at/webcam/gletscher-schwarzkopf/"
         }
       ]
     },
     {
-      "@type": "ImageObject",
+      "@type": "MediaObject",
       "position": "2",
       "name": "Schareck",
       "url": "http://www.webcams.schultz.at/webcam/gletscher-schareck/"
     },
     {
-      "@type": "ImageObject",
+      "@type": "MediaObject",
       "position": "3",
       "name": "Eissee",
       "url": "http://www.webcams.schultz.at/webcam/gletscher-sued/"
     },
     {
-      "@type": "ImageObject",
+      "@type": "MediaObject",
       "position": "4",
       "name": "Panorama",
       "url": "http://www.webcams.schultz.at/webcam/gletscher-nord/"
     },
     {
-      "@type": "ImageObject",
+      "@type": "MediaObject",
       "position": "5",
       "name": "Alteck",
       "url": "http://www.webcams.schultz.at/webcam/gletscher-alteck/"
     },
     {
-      "@type": "ImageObject",
+      "@type": "MediaObject",
       "position": "6",
       "name": "Schwarzkopf",
       "url": "http://www.webcams.schultz.at/webcam/gletscher-schwarzkopf/"

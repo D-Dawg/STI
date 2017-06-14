@@ -1,5 +1,72 @@
-{
-  "@context": "http://schema.org",
-  "@type":"Place"
+[
+  {
+    "@context": "http://schema.org",
+    "@type":"SportsActivityLocation",
+    "name":"Lifte und Pisten",
+    "amenityFeature":[
+      {
+        "@type":"LocationFeatureSpecification",
+        "name":"Pisten gesamt",
+        "value":"88.07",
+        "unitCode":"KMT"
+      },
+      {
+        "@type":"LocationFeatureSpecification",
+        "name":"davon blau",
+        "value":"28.70",
+        "unitCode":"KMT"
+      },
+      {
+        "@type":"LocationFeatureSpecification",
+        "name":"rot",
+        "value":"41.30",
+        "unitCode":"KMT"
+      },
+      {
+        "@type":"LocationFeatureSpecification",
+        "name":"schwarz",
+        "value":"13.00",
+        "unitCode":"KMT"
+      },
+      {
+        "@type":"LocationFeatureSpecification",
+        "name":"Skirouten",
+        "value":"3.58",
+        "unitCode":"KMT"
+      },
+      {
+        "@type":"LocationFeatureSpecification",
+        "name":"Park",
+        "value":"1.49",
+        "unitCode":"KMT"
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"SportsActivityLocation",
+    "name":"Betterpark",
+    "image":"http://www.hochzillertal.com/wp-content/uploads/DSC00673.JPG",
+    "description":"Betterpark exclusiv im Zillertal – SNOWPARK Naturhalfpipe Abfahrt 4er Sesselbahn Krössbichl + eigener Lift für den Snowpark . Funpark vom Anfänger bis zum Profi bei 8er Sesselbahn Schneeexpress."
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"SportsActivityLocation",
+    "name":"Lift-Anlagen",
+    "amenityFeature":[
+      {
+        "@type":"LocationFeatureSpecification",
+        "name":"Gondelbahnen",
+        "value":"5",
+        "unitText":"Gondelbahnen"
+      },
+      {
+        "@type":"LocationFeatureSpecification",
+        "name":"Sesselbahnen",
+        "value":"12",
+        "unitText":"Sesselbahnen"
+      }
+    ]
+  }
 
-}
+]

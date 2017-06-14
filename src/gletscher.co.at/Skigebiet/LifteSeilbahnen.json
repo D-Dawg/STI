@@ -4,24 +4,22 @@
     "@type": "SportsActivityLocation",
     "image": "http://www.gletscher.co.at/wp-content/uploads/Stollenbahn-Wagen-2-NEU.jpg",
     "name": "Mölltaler Gletscher Express",
-    "amenityFeature": [
+    "amenityFeature": {
+      "@type": "LocationFeatureSpecification",
+      "name": "Länge",
+      "value": "4718",
+      "unitCode": "MTR"
+    },
+    "geo":[
       {
-        "@type": "LocationFeatureSpecification",
-        "name": "Länge",
-        "value": "4718",
-        "unitCode": "MTR"
+        "@type":"GeoCoordinates",
+        "name":"Höhe Berg",
+        "elevation":"2234"
       },
       {
-        "@type": "LocationFeatureSpecification",
-        "name": "Höhe Berg",
-        "value": "2234",
-        "unitCode": "MTR"
-      },
-      {
-        "@type": "LocationFeatureSpecification",
-        "name": "Höhe Tal",
-        "value": "1222",
-        "unitCode": "MTR"
+        "@type":"GeoCoordinates",
+        "name":"Höhe Tal",
+        "elevation":"1222"
       }
     ]
   },
@@ -30,24 +28,22 @@
     "@type": "SportsActivityLocation",
     "image": "http://www.gletscher.co.at/wp-content/uploads/013.jpg",
     "name": "6er Gondelbahn Eissee",
-    "amenityFeature": [
+    "amenityFeature": {
+      "@type": "LocationFeatureSpecification",
+      "name": "Länge",
+      "value": "1775",
+      "unitCode": "MTR"
+    },
+    "geo":[
       {
-        "@type": "LocationFeatureSpecification",
-        "name": "Länge",
-        "value": "1775",
-        "unitCode": "MTR"
+        "@type":"GeoCoordinates",
+        "name":"Höhe Berg",
+        "elevation":"2800"
       },
       {
-        "@type": "LocationFeatureSpecification",
-        "name": "Höhe Berg",
-        "value": "2800",
-        "unitCode": "MTR"
-      },
-      {
-        "@type": "LocationFeatureSpecification",
-        "name": "Höhe Tal",
-        "value": "2241",
-        "unitCode": "MTR"
+        "@type":"GeoCoordinates",
+        "name":"Höhe Tal",
+        "elevation":"2241"
       }
     ]
   },
@@ -56,24 +52,22 @@
     "@type": "SportsActivityLocation",
     "image": "http://clients.intermaps.com/admin/imgupload/2015_09_23_09_38_08_873_0.jpg",
     "name": "6er Sesselbahn Gletscher Jet",
-    "amenityFeature": [
+    "amenityFeature": {
+      "@type": "LocationFeatureSpecification",
+      "name": "Länge",
+      "value": "1075",
+      "unitCode": "MTR"
+    },
+    "geo":[
       {
-        "@type": "LocationFeatureSpecification",
-        "name": "Länge",
-        "value": "1075",
-        "unitCode": "MTR"
+        "@type":"GeoCoordinates",
+        "name":"Höhe Berg",
+        "elevation":"3122"
       },
       {
-        "@type": "LocationFeatureSpecification",
-        "name": "Höhe Berg",
-        "value": "3122",
-        "unitCode": "MTR"
-      },
-      {
-        "@type": "LocationFeatureSpecification",
-        "name": "Höhe Tal",
-        "value": "2717",
-        "unitCode": "MTR"
+        "@type":"GeoCoordinates",
+        "name":"Höhe Tal",
+        "elevation":"2717"
       }
     ]
   },
@@ -82,24 +76,22 @@
     "@type": "SportsActivityLocation",
     "image": "http://www.gletscher.co.at/wp-content/uploads/schwarzkopf.jpg",
     "name": "4er-Sesselbahn Schwarzkopf",
-    "amenityFeature": [
+    "amenityFeature": {
+      "@type": "LocationFeatureSpecification",
+      "name": "Länge",
+      "value": "765",
+      "unitCode": "MTR"
+    },
+    "geo":[
       {
-        "@type": "LocationFeatureSpecification",
-        "name": "Länge",
-        "value": "765",
-        "unitCode": "MTR"
+        "@type":"GeoCoordinates",
+        "name":"Höhe Berg",
+        "elevation":"2384"
       },
       {
-        "@type": "LocationFeatureSpecification",
-        "name": "Höhe Berg",
-        "value": "2384",
-        "unitCode": "MTR"
-      },
-      {
-        "@type": "LocationFeatureSpecification",
-        "name": "Höhe Tal",
-        "value": "2108",
-        "unitCode": "MTR"
+        "@type":"GeoCoordinates",
+        "name":"Höhe Tal",
+        "elevation":"2108"
       }
     ]
   },
@@ -108,24 +100,22 @@
     "@type": "SportsActivityLocation",
     "image": "http://clients.intermaps.com/admin/imgupload/2015_09_23_09_33_50_686_0.jpg",
     "name": "4er Sesselbahn Alteck",
-    "amenityFeature": [
+    "amenityFeature": {
+      "@type": "LocationFeatureSpecification",
+      "name": "Länge",
+      "value": "851",
+      "unitCode": "MTR"
+    },
+    "geo":[
       {
-        "@type": "LocationFeatureSpecification",
-        "name": "Länge",
-        "value": "851",
-        "unitCode": "MTR"
+        "@type":"GeoCoordinates",
+        "name":"Höhe Berg",
+        "elevation":"2751"
       },
       {
-        "@type": "LocationFeatureSpecification",
-        "name": "Höhe Berg",
-        "value": "2751",
-        "unitCode": "MTR"
-      },
-      {
-        "@type": "LocationFeatureSpecification",
-        "name": "Höhe Tal",
-        "value": "2430",
-        "unitCode": "MTR"
+        "@type":"GeoCoordinates",
+        "name":"Höhe Tal",
+        "elevation":"2430"
       }
     ]
   },
@@ -134,24 +124,22 @@
     "@type": "SportsActivityLocation",
     "image": "http://www.gletscher.co.at/wp-content/uploads/300er.jpg",
     "name": "2er-Sesselbahn 3000er",
-    "amenityFeature": [
+    "amenityFeature": {
+      "@type": "LocationFeatureSpecification",
+      "name": "Länge",
+      "value": "1065",
+      "unitCode": "MTR"
+    },
+    "geo":[
       {
-        "@type": "LocationFeatureSpecification",
-        "name": "Länge",
-        "value": "1065",
-        "unitCode": "MTR"
+        "@type":"GeoCoordinates",
+        "name":"Höhe Berg",
+        "elevation":"3122"
       },
       {
-        "@type": "LocationFeatureSpecification",
-        "name": "Höhe Berg",
-        "value": "3122",
-        "unitCode": "MTR"
-      },
-      {
-        "@type": "LocationFeatureSpecification",
-        "name": "Höhe Tal",
-        "value": "2716",
-        "unitCode": "MTR"
+        "@type":"GeoCoordinates",
+        "name":"Höhe Tal",
+        "elevation":"2716"
       }
     ]
   },
@@ -160,24 +148,22 @@
     "@type": "SportsActivityLocation",
     "image": "http://www.gletscher.co.at/wp-content/uploads/panoramabahn.jpg",
     "name": "2er-Sesselbahn Panoramabahn",
-    "amenityFeature": [
+    "amenityFeature": {
+      "@type": "LocationFeatureSpecification",
+      "name": "Länge",
+      "value": "989",
+      "unitCode": "MTR"
+    },
+    "geo":[
       {
-        "@type": "LocationFeatureSpecification",
-        "name": "Länge",
-        "value": "989",
-        "unitCode": "MTR"
+        "@type":"GeoCoordinates",
+        "name":"Höhe Berg",
+        "elevation":"2795"
       },
       {
-        "@type": "LocationFeatureSpecification",
-        "name": "Höhe Berg",
-        "value": "2795",
-        "unitCode": "MTR"
-      },
-      {
-        "@type": "LocationFeatureSpecification",
-        "name": "Höhe Tal",
-        "value": "2483",
-        "unitCode": "MTR"
+        "@type":"GeoCoordinates",
+        "name":"Höhe Tal",
+        "elevation":"2483"
       }
     ]
   },
@@ -185,24 +171,22 @@
     "@context": "http://schema.org",
     "@type": "SportsActivityLocation",
     "name": "Schlepplift Mittelstation",
-    "amenityFeature": [
+    "amenityFeature": {
+      "@type": "LocationFeatureSpecification",
+      "name": "Länge",
+      "value": "300",
+      "unitCode": "MTR"
+    },
+    "geo":[
       {
-        "@type": "LocationFeatureSpecification",
-        "name": "Länge",
-        "value": "300",
-        "unitCode": "MTR"
+        "@type":"GeoCoordinates",
+        "name":"Höhe Berg",
+        "elevation":"2265"
       },
       {
-        "@type": "LocationFeatureSpecification",
-        "name": "Höhe Berg",
-        "value": "2265",
-        "unitCode": "MTR"
-      },
-      {
-        "@type": "LocationFeatureSpecification",
-        "name": "Höhe Tal",
-        "value": "2228",
-        "unitCode": "MTR"
+        "@type":"GeoCoordinates",
+        "name":"Höhe Tal",
+        "elevation":"2228"
       }
     ]
   },
@@ -210,24 +194,22 @@
     "@context": "http://schema.org",
     "@type": "SportsActivityLocation",
     "name": "Schlepplift Stübele",
-    "amenityFeature": [
+    "amenityFeature": {
+      "@type": "LocationFeatureSpecification",
+      "name": "Länge",
+      "value": "178",
+      "unitCode": "MTR"
+    },
+    "geo":[
       {
-        "@type": "LocationFeatureSpecification",
-        "name": "Länge",
-        "value": "178",
-        "unitCode": "MTR"
+        "@type":"GeoCoordinates",
+        "name":"Höhe Berg",
+        "elevation":"2261"
       },
       {
-        "@type": "LocationFeatureSpecification",
-        "name": "Höhe Berg",
-        "value": "2261",
-        "unitCode": "MTR"
-      },
-      {
-        "@type": "LocationFeatureSpecification",
-        "name": "Höhe Tal",
-        "value": "2226",
-        "unitCode": "MTR"
+        "@type":"GeoCoordinates",
+        "name":"Höhe Tal",
+        "elevation":"2226"
       }
     ]
   }
