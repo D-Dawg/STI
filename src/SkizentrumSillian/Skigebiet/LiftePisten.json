@@ -1,42 +1,199 @@
 [{
   "@context": "http://schema.org",
-  "@type":"CivicStructure",
+  "@type":"SportsActivityLocation",
   "name":"Brunnalm Gondelbahn",
-  "description":"6 EUB Gondelbahn; 2.400 Pers. / Std.; Länge: 1.600 m;  Höhe Berg: 2.050 m; Höhe Tal: 1.400 m"
+  "amenityFeature":[{
+    "@type":"LocationFeatureSpecification",
+    "name":"Länge",
+    "value":"1600",
+    "unitCode":"MTR"
+  },{
+    "@type":"LocationFeatureSpecification",
+    "name":"Anzahl Personen",
+    "value":"2400",
+    "unitCode":"IE"
+  }],
+  "geo":[
+    {
+      "@type":"GeoCoordinates",
+      "name":"Höhe Berg",
+      "elevation":"2407"
+    },
+    {
+      "@type":"GeoCoordinates",
+      "name":"Höhe Tal",
+      "elevation":"1100"
+    }
+  ],
+  "description":"6 EUB Gondelbahn"
 },
+
   {
     "@context": "http://schema.org",
-    "@type":"CivicStructure",
+    "@type":"SportsActivityLocation",
     "name":"Weißspitzbahn",
-    "description":"6er Sesselbahn; 2.400 Pers. / Std.;Länge: 1.784 m"
+    "geo":[
+      {
+        "@type":"GeoCoordinates",
+        "name":"Höhe Berg",
+        "elevation":"2407"
+      },
+      {
+        "@type":"GeoCoordinates",
+        "name":"Höhe Tal",
+        "elevation":"1100"
+      }
+    ],
+
+    "amenityFeature":[{
+      "@type":"LocationFeatureSpecification",
+      "name":"Länge",
+      "value":"1784",
+      "unitCode":"MTR"
+    },{
+  "@type":"LocationFeatureSpecification",
+  "name":"Anzahl Personen",
+  "value":"2400",
+  "unitCode":"IE"
+}]  },
+  {
+    "@context": "http://schema.org",
+    "@type":"SportsActivityLocation",
+    "geo":[
+      {
+        "@type":"GeoCoordinates",
+        "name":"Höhe Berg",
+        "elevation":"2407"
+      },
+      {
+        "@type":"GeoCoordinates",
+        "name":"Höhe Tal",
+        "elevation":"1100"
+      }
+    ],
+
+    "amenityFeature":[{
+      "@type":"LocationFeatureSpecification",
+      "name":"Länge",
+      "value":"1148",
+      "unitCode":"MTR"
+    },{
+  "@type":"LocationFeatureSpecification",
+  "name":"Anzahl Personen",
+  "value":"1965",
+  "unitCode":"IE"
+}],
+    "name":"Mooserberg"
   },
   {
     "@context": "http://schema.org",
-    "@type":"CivicStructure",
-    "name":"Mooserberg",
-    "description":"3er Sesselbahn; 1.965 Pers. / Std; Länge: 1148 m"
-  },
-  {
-    "@context": "http://schema.org",
-    "@type":"CivicStructure",
+    "@type":"SportsActivityLocation",
+    "geo":[
+      {
+        "@type":"GeoCoordinates",
+        "name":"Höhe Berg",
+        "elevation":"2407"
+      },
+      {
+        "@type":"GeoCoordinates",
+        "name":"Höhe Tal",
+        "elevation":"1100"
+      }
+    ],
+
     "name":"Almspitzlift",
-    "description":"Schlepplift; 1.390 Pers. / Std.; Länge: 830 m"
-  },
+    "amenityFeature":[{
+      "@type":"LocationFeatureSpecification",
+      "name":"Länge",
+      "value":"830",
+      "unitCode":"MTR"
+    },{
+  "@type":"LocationFeatureSpecification",
+  "name":"Anzahl Personen",
+  "value":"390",
+  "unitCode":"IE"
+}]  },
   {
     "@context": "http://schema.org",
-    "@type":"CivicStructure",
+    "@type":"SportsActivityLocation",
     "name":"Feistritzlift",
-    "description":"Schlepplift; 930 Pers. / Std.; Länge: 723 m"
+    "geo":[
+      {
+        "@type":"GeoCoordinates",
+        "name":"Höhe Berg",
+        "elevation":"2407"
+      },
+      {
+        "@type":"GeoCoordinates",
+        "name":"Höhe Tal",
+        "elevation":"1100"
+      }
+    ],
+
+    "amenityFeature":[{
+      "@type":"LocationFeatureSpecification",
+      "name":"Länge",
+      "value":"723",
+      "unitCode":"MTR"
+    },{
+  "@type":"LocationFeatureSpecification",
+  "name":"Anzahl Personen",
+  "value":" 930",
+  "unitCode":"IE"
+}]
   },
   {
     "@context": "http://schema.org",
-    "@type":"CivicStructure",
+    "@type":"SportsActivityLocation",
     "name":"St. Leonhardlift",
-    "description":"Schlepplift; 870 Pers. / Std.; Länge: 680 m"
-  },
+    "geo":[
+      {
+        "@type":"GeoCoordinates",
+        "name":"Höhe Berg",
+        "elevation":"2407"
+      },
+      {
+        "@type":"GeoCoordinates",
+        "name":"Höhe Tal",
+        "elevation":"1100"
+      }
+    ],
+    "amenityFeature":[{
+      "@type":"LocationFeatureSpecification",
+      "name":"Länge",
+      "value":"680",
+      "unitCode":"MTR"
+    } , {
+  "@type":"LocationFeatureSpecification",
+  "name":"Anzahl Personen",
+  "value":"  870",
+  "unitCode":"IE"
+}]  },
   {
   "@context": "http://schema.org",
-  "@type":"CivicStructure",
+  "@type":"SportsActivityLocation",
+    "geo":[
+      {
+        "@type":"GeoCoordinates",
+        "name":"Höhe Berg",
+        "elevation":"2407"
+      },
+      {
+        "@type":"GeoCoordinates",
+        "name":"Höhe Tal",
+        "elevation":"1100"
+      }
+    ],
   "name":"Übungslift",
-  "description":"Tellerlift; 500 Pers. / Std.; Länge: 150 m"
-}]
+    "amenityFeature":[{
+      "@type":"LocationFeatureSpecification",
+      "name":"Länge",
+      "value":"150",
+      "unitCode":"MTR"
+    }, {
+  "@type":"LocationFeatureSpecification",
+  "name":"Anzahl Personen",
+  "value":"  500",
+  "unitCode":"IE"
+}]  }
+]

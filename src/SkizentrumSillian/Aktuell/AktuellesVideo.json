@@ -2,5 +2,6 @@
   "@context": "http://schema.org",
   "@type":"VideoObject",
   "name":"Aktuelles Video",
-  "url":"https://youtu.be/fD1pJglylcw"
+  "url":"https://youtu.be/fD1pJglylcw",
+  "description":"Skizentrum Hochpustertal Sillian | www.skiresort.de"
 }

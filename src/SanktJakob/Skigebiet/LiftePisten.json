@@ -3,6 +3,8 @@
     "@context": "http://schema.org",
     "@type":"SportsActivityLocation",
     "name":"Brunnalm Gondelbahn",
+    "image":"http://www.stjakob-ski.at/wp-content/2015_07_22_12_35_42_351_0.jpg",
+
     "amenityFeature":{
       "@type":"LocationFeatureSpecification",
       "name":"Länge",
@@ -26,6 +28,8 @@
     "@context": "http://schema.org",
     "@type":"SportsActivityLocation",
     "name":"Weißspitzbahn",
+    "image":"http://www.stjakob-ski.at/wp-content/2015_07_22_09_29_45_82_0.jpg",
+
     "amenityFeature":[
       {
         "@type":"LocationFeatureSpecification",
@@ -45,6 +49,8 @@
     "@context": "http://schema.org",
     "@type":"SportsActivityLocation",
     "name":"Mooserberg",
+    "image":"http://www.stjakob-ski.at/wp-content/2015_07_22_12_33_29_536_0.jpg",
+
     "amenityFeature":[
       {
         "@type":"LocationFeatureSpecification",
@@ -64,6 +70,8 @@
     "@context": "http://schema.org",
     "@type":"SportsActivityLocation",
     "name":"Almspitzlift",
+    "image":"http://www.stjakob-ski.at/wp-content/2015_07_22_12_28_47_189_0.jpg",
+
     "amenityFeature":[
       {
         "@type":"LocationFeatureSpecification",
@@ -83,6 +91,8 @@
     "@context": "http://schema.org",
     "@type":"SportsActivityLocation",
     "name":"Feistritzlift",
+    "image":"http://www.stjakob-ski.at/wp-content/2015_07_22_12_32_07_738_0.jpg",
+
     "amenityFeature":[
       {
         "@type":"LocationFeatureSpecification",
@@ -102,6 +112,8 @@
     "@context": "http://schema.org",
     "@type":"SportsActivityLocation",
     "name":"St. Leonhardlift",
+    "image":"http://www.stjakob-ski.at/wp-content/2015_07_22_12_30_33_378_0.jpg",
+
     "amenityFeature":[
       {
         "@type":"LocationFeatureSpecification",
@@ -120,7 +132,9 @@
   {
   "@context": "http://schema.org",
   "@type":"SportsActivityLocation",
-  "name":"Übungslift",
+    "image":"http://www.stjakob-ski.at/wp-content/2015_07_22_12_37_03_383_0.jpg",
+
+    "name":"Übungslift",
     "amenityFeature":[
       {
         "@type":"LocationFeatureSpecification",

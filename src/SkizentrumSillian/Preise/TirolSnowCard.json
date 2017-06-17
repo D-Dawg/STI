@@ -1,0 +1,26 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Offer",
+  "name": "Tirol Snow Card",
+  "url":"http://www.snowcard.tirol.at/",
+  "priceSpecification": [
+    {
+      "@type": "UnitPriceSpecification",
+      "price": "771",
+      "unitCode": "IE",
+      "description": "Für Erwachsene"
+    },
+    {
+      "@type": "UnitPriceSpecification",
+      "price": "616",
+      "unitCode": "IE",
+      "description": "Für Jugendliche/Invalide"
+    },
+    {
+      "@type": "UnitPriceSpecification",
+      "price": "386",
+      "unitCode": "IE",
+      "description": "Für Kinder"
+    }
+  ]
+}

@@ -5,7 +5,7 @@
   "url": "http://www.stjakob-ski.at/anreise-kontakt/kontaktformular",
   "agent":{
     "@type":"Person",
-    "lastName":"input-required",
+    "familyName":"input-required",
     "email":"input-required"
   }
 }
