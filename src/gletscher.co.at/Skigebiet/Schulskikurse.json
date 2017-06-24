@@ -3,12 +3,12 @@
   "@type": "Course",
   "name": "Schulskikurse",
   "url": "http://www.gletscher.co.at/news/schulskikurs-und-pistenspas-am-molltaler-gletscher-ankogel/",
-  "description": "Unser Anliegen ist es, Schulklassen zu günstigen Preisen das Skifahren in unseren eigenen Skigebieten näher zu bringen. Schulskikurse fördern sportliche Grundkenntnisse und stärken Teamfähigkeit und Gemeinschaft in der Klasse, aber auch die Persönlichkeit des Einzelnen.\r\n\r\nGerne können wir Ihnen für Ihre Schulklasse ein attraktives Angebot machen! Schicken Sie uns einfach eine Anfrage per E-mail: info@gletscher.co.at",
+  "description": "Unser Anliegen ist es, Schulklassen zu günstigen Preisen das Skifahren in unseren eigenen Skigebieten näher zu bringen. Schulskikurse fördern sportliche Grundkenntnisse und stärken Teamfähigkeit und Gemeinschaft in der Klasse, aber auch die Persönlichkeit des Einzelnen.\\r\\nGerne können wir Ihnen für Ihre Schulklasse ein attraktives Angebot machen! Schicken Sie uns einfach eine Anfrage per E-mail: info@gletscher.co.at",
   "hasCourseInstance": [
     {
       "@type": "CourseInstance",
       "name": "Schülerpreise & Aktionswochen",
-      "description": "Freiplätze: 10 Schüler – 1 Lehrer FREI\r\ndarüber: Lehrer auch Schülertarif (max. jedoch weitere 1/10 Lehrer Schülertarif)\r\nKarten: gültig im gesamten Pool SkiHit (am Mölltaler Gletscher und Ankogel, sowie in ganz Osttirol)\r\nNachweis: Schülerliste inkl. Geburtsdaten und Bestätigung der Schule",
+      "description": "Freiplätze: 10 Schüler – 1 Lehrer FREI\\r\\ndarüber: Lehrer auch Schülertarif (max. jedoch weitere 1/10 Lehrer Schülertarif)\\r\\nKarten: gültig im gesamten Pool SkiHit (am Mölltaler Gletscher und Ankogel, sowie in ganz Osttirol)\\r\\nNachweis: Schülerliste inkl. Geburtsdaten und Bestätigung der Schule",
       "audience": {
         "@type": "PeopleAudience",
         "name": "Höhere Schüler",
@@ -151,7 +151,7 @@
     {
       "@type": "CourseInstance",
       "name": "Schülerpreise & Aktionswochen",
-      "description": "Freiplätze: 10 Schüler – 1 Lehrer FREI\r\ndarüber: Lehrer auch Schülertarif (max. jedoch weitere 1/10 Lehrer Schülertarif)\r\nKarten: gültig im gesamten Pool SkiHit (am Mölltaler Gletscher und Ankogel, sowie in ganz Osttirol)\r\nNachweis: Schülerliste inkl. Geburtsdaten und Bestätigung der Schule",
+      "description": "Freiplätze: 10 Schüler – 1 Lehrer FREI\\r\\ndarüber: Lehrer auch Schülertarif (max. jedoch weitere 1/10 Lehrer Schülertarif)\\r\\nKarten: gültig im gesamten Pool SkiHit (am Mölltaler Gletscher und Ankogel, sowie in ganz Osttirol)\\r\\nNachweis: Schülerliste inkl. Geburtsdaten und Bestätigung der Schule",
       "audience": {
         "@type": "PeopleAudience",
         "name": "Schüler",

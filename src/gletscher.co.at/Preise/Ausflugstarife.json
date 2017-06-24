@@ -3,7 +3,7 @@
   "@type": "OfferCatalog",
   "name": "Ausflugstarife",
   "url": "http://www.gletscher.co.at/preise/ausflugstarife/",
-  "description": "AUSFLUGS-/WANDERTARIFE\r\nGültig ab 15. Juni 2017 bis 13. Mai 2018\r\nTarife nur gültig ohne Ski- und Sportausrüstung!\r\nBetriebszeiten:\r\n15. Juni 2017 bis 13. Mai 2018 täglich von 8:00 bis 16:00 Uhr\r\nab Skibetrieb im Herbst 2017 täglich von 8:30 bis 16:30 Uhr",
+  "description": "AUSFLUGS-/WANDERTARIFE\\r\\nGültig ab 15. Juni 2017 bis 13. Mai 2018\\r\\nTarife nur gültig ohne Ski- und Sportausrüstung!\\r\\nBetriebszeiten:\\r\\n15. Juni 2017 bis 13. Mai 2018 täglich von 8:00 bis 16:00 Uhr\\r\\nab Skibetrieb im Herbst 2017 täglich von 8:30 bis 16:30 Uhr",
   "itemListElement": [
     {
       "@context": "http://www.schema.org",
@@ -470,7 +470,7 @@
             "unitCode": "IE",
             "price": "60,00",
             "priceCurrency": "EUR",
-            "description": "Die Preise sind in EURO angegeben und enthalten die gesetzliche Mehrwertsteuer!\r\nTermin- und Tarifänderungen vorbehalten!"
+            "description": "Die Preise sind in EURO angegeben und enthalten die gesetzliche Mehrwertsteuer!\\r\\nTermin- und Tarifänderungen vorbehalten!"
           }
         },
         {
@@ -493,7 +493,7 @@
             "unitCode": "IE",
             "price": "67,00",
             "priceCurrency": "EUR",
-            "description": "Jedes weitere Kind €6,50. Die Preise sind in EURO angegeben und enthalten die gesetzliche Mehrwertsteuer!\r\nTermin- und Tarifänderungen vorbehalten!"
+            "description": "Jedes weitere Kind €6,50. Die Preise sind in EURO angegeben und enthalten die gesetzliche Mehrwertsteuer!\\r\\nTermin- und Tarifänderungen vorbehalten!"
           }
         }
       ]
@@ -523,7 +523,7 @@
             "unitCode": "IE",
             "price": "57,00",
             "priceCurrency": "EUR",
-            "description": "Die Preise sind in EURO angegeben und enthalten die gesetzliche Mehrwertsteuer!\r\nTermin- und Tarifänderungen vorbehalten!"
+            "description": "Die Preise sind in EURO angegeben und enthalten die gesetzliche Mehrwertsteuer!\\r\\nTermin- und Tarifänderungen vorbehalten!"
           }
         },
         {
@@ -546,7 +546,7 @@
             "unitCode": "IE",
             "price": "61,00",
             "priceCurrency": "EUR",
-            "description": "Jedes weitere Kind €6,50. Die Preise sind in EURO angegeben und enthalten die gesetzliche Mehrwertsteuer!\r\nTermin- und Tarifänderungen vorbehalten!"
+            "description": "Jedes weitere Kind €6,50. Die Preise sind in EURO angegeben und enthalten die gesetzliche Mehrwertsteuer!\\r\\nTermin- und Tarifänderungen vorbehalten!"
           }
         }
       ]
@@ -576,7 +576,7 @@
             "unitCode": "IE",
             "price": "42,00",
             "priceCurrency": "EUR",
-            "description": "Die Preise sind in EURO angegeben und enthalten die gesetzliche Mehrwertsteuer!\r\nTermin- und Tarifänderungen vorbehalten!"
+            "description": "Die Preise sind in EURO angegeben und enthalten die gesetzliche Mehrwertsteuer!\\r\\nTermin- und Tarifänderungen vorbehalten!"
           }
         },
         {
@@ -599,7 +599,7 @@
             "unitCode": "IE",
             "price": "46,00",
             "priceCurrency": "EUR",
-            "description": "Jedes weitere Kind €6,50. Die Preise sind in EURO angegeben und enthalten die gesetzliche Mehrwertsteuer!\r\nTermin- und Tarifänderungen vorbehalten!"
+            "description": "Jedes weitere Kind €6,50. Die Preise sind in EURO angegeben und enthalten die gesetzliche Mehrwertsteuer!\\r\\nTermin- und Tarifänderungen vorbehalten!"
           }
         }
       ]
@@ -629,7 +629,7 @@
             "unitCode": "IE",
             "price": "57,00",
             "priceCurrency": "EUR",
-            "description": "Die Preise sind in EURO angegeben und enthalten die gesetzliche Mehrwertsteuer!\r\nTermin- und Tarifänderungen vorbehalten!"
+            "description": "Die Preise sind in EURO angegeben und enthalten die gesetzliche Mehrwertsteuer!\\r\\nTermin- und Tarifänderungen vorbehalten!"
           }
         },
         {
@@ -652,7 +652,7 @@
             "unitCode": "IE",
             "price": "61,00",
             "priceCurrency": "EUR",
-            "description": "Jedes weitere Kind €6,50. Die Preise sind in EURO angegeben und enthalten die gesetzliche Mehrwertsteuer!\r\nTermin- und Tarifänderungen vorbehalten!"
+            "description": "Jedes weitere Kind €6,50. Die Preise sind in EURO angegeben und enthalten die gesetzliche Mehrwertsteuer!\\r\\nTermin- und Tarifänderungen vorbehalten!"
           }
         }
       ]

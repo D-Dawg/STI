@@ -28,7 +28,7 @@
   "offers": [
     {
       "@type": "Offer",
-      "description": "2 Übernachtungen im Doppelzimmer\r\ninkl. 2 Tagesskipass (Ski Hit). In Privatpension mit Frühstück",
+      "description": "2 Übernachtungen im Doppelzimmer\\r\\ninkl. 2 Tagesskipass (Ski Hit). In Privatpension mit Frühstück",
       "priceSpecification": {
         "@type": "UnitPriceSpecification",
         "unitCode": "IE",
@@ -38,7 +38,7 @@
     },
     {
       "@type": "Offer",
-      "description": "2 Übernachtungen im Doppelzimmer\r\ninkl. 2 Tagesskipass (Ski Hit). Im Gasthof mit Halbpension ",
+      "description": "2 Übernachtungen im Doppelzimmer\\r\\ninkl. 2 Tagesskipass (Ski Hit). Im Gasthof mit Halbpension ",
       "priceSpecification": {
         "@type": "UnitPriceSpecification",
         "unitCode": "IE",
@@ -48,7 +48,7 @@
     },
     {
       "@type": "Offer",
-      "description": "2 Übernachtungen im Doppelzimmer\r\ninkl. 2 Tagesskipass (Ski Hit). Im Hotel mit Halbpension",
+      "description": "2 Übernachtungen im Doppelzimmer\\r\\ninkl. 2 Tagesskipass (Ski Hit). Im Hotel mit Halbpension",
       "priceSpecification": {
         "@type": "UnitPriceSpecification",
         "unitCode": "IE",

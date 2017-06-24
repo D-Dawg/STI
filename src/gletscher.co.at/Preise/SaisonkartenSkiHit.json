@@ -196,7 +196,7 @@
           "unitText": "2 Elternteile – 2 Kinder",
           "value": "1"
         },
-        "description": "Familie mit mehr als 2 Kindern (6-18 Jahre): jedes weitere Kind fährt frei!\r\n(gilt nur für Saisonkarten SkiHit)"
+        "description": "Familie mit mehr als 2 Kindern (6-18 Jahre): jedes weitere Kind fährt frei!\\r\\n(gilt nur für Saisonkarten SkiHit)"
       },
       {
         "@type": "UnitPriceSpecification",
@@ -210,7 +210,7 @@
           "unitText": "2 Elternteile – 2 Kinder",
           "value": "1"
         },
-        "description": "Familie mit mehr als 2 Kindern (6-18 Jahre): jedes weitere Kind fährt frei!\r\n(gilt nur für Saisonkarten SkiHit)"
+        "description": "Familie mit mehr als 2 Kindern (6-18 Jahre): jedes weitere Kind fährt frei!\\r\\n(gilt nur für Saisonkarten SkiHit)"
       },
       {
         "@type": "UnitPriceSpecification",

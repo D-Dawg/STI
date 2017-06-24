@@ -14,7 +14,7 @@
     "@type": "Hostel",
     "name": "Jugendhotel",
     "email": "restaurant@gletscher.co.at",
-    "description": "direkt im Gletscherskigebiet auf 2.800m\r\n68 Betten (nur Stockbetten)\r\nMehrbettzimmer 6, 8 oder 10 Betten\r\nmit Duschen und getrennten Toiletten",
+    "description": "direkt im Gletscherskigebiet auf 2.800m\\r\\n68 Betten (nur Stockbetten)\\r\\nMehrbettzimmer 6, 8 oder 10 Betten\\r\\nmit Duschen und getrennten Toiletten",
     "priceRange": "€31,50 - €48,50 pro Person",
     "amenityFeature": [
       {

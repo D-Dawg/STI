@@ -3,11 +3,11 @@
   "@type": "Offer",
   "name": "Sichern Sie sich Ihre Trainingspiste!",
   "image": "http://www.gletscher.co.at/wp-content/uploads/DSC_0172-1.jpg",
-  "description": "Aufgrund des großzügigen Ausbaus der Beschneiungsanlage punktet der Mölltaler Gletscher mit 100% Schneesicherheit und ist das 1. Gletscherskigebiet in Österreich, welches zu 100% bis auf 3.100m beschneit wird!!\r\n\r\nSchneesicherheit\r\nTop-Trainingsbedingungen auf Kompaktschneepisten\r\nPerfekte Schneeverhältnisse\r\nBestens präparierte Trainingspisten",
+  "description": "Aufgrund des großzügigen Ausbaus der Beschneiungsanlage punktet der Mölltaler Gletscher mit 100% Schneesicherheit und ist das 1. Gletscherskigebiet in Österreich, welches zu 100% bis auf 3.100m beschneit wird!!\\r\\nSchneesicherheit\\r\\nTop-Trainingsbedingungen auf Kompaktschneepisten\\r\\nPerfekte Schneeverhältnisse\\r\\nBestens präparierte Trainingspisten",
   "itemOffered": {
     "@type": "Service",
     "name": "Pistenreservierung",
-    "description": "Bitte senden Sie hierzu dieses Formular ausgefüllt an info@gletscher.co.at.\r\n\r\nSie möchten schon früher die perfekten Trainingsbedingungen nutzen? Kein Problem – gegen Voranmeldung und Aufpreis können Sie eine Frühfahrt gerne buchen!"
+    "description": "Bitte senden Sie hierzu dieses Formular ausgefüllt an info@gletscher.co.at.\\r\\nSie möchten schon früher die perfekten Trainingsbedingungen nutzen? Kein Problem – gegen Voranmeldung und Aufpreis können Sie eine Frühfahrt gerne buchen!"
   },
   "offeredBy": {
     "@type": "SkiResort",
